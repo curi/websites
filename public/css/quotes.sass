@@ -9,7 +9,6 @@ $bquote: ""
 @each $t in $qcolors
   $i: nth($t, 2)
   $bquote: if($i == 1, "blockquote", selector_nest($bquote, "blockquote")) !global
-  @debug $bquote, $i
   $bgc: nth($t, 1)
   $bc: darken($bgc, 20%)
 
