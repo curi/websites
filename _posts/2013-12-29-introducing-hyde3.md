@@ -7,9 +7,9 @@ permalink: /article-1/
 >
 > MK:
 > > ET:
-> > > orig statement
+> > > orig statement *emphasis*
 
-> > a question
+> > a question **bolded**
 
 > a reply
 >
