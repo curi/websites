@@ -1,0 +1,18 @@
+---
+
+---
+
+$qcolors: #fdd 1, #dfd 2, #ddf 3, #dff 4, #ffd 5, #fdf 6
+
+$bquote: ""
+
+@each $t in $qcolors
+  $i: nth($t, 2)
+  $bquote: if($i == 1, "blockquote", selector_nest($bquote, "blockquote")) !global
+  @debug $bquote, $i
+  $bgc: nth($t, 1)
+  $bc: darken($bgc, 20%)
+
+  body #{$bquote}
+    background-color: $bgc
+    border-color: $bc
