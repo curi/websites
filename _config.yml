@@ -27,3 +27,5 @@ github:
 
 plugins: [jekyll-paginate]
 
+compress_html:
+  comments: ["<!-- ", " -->"]
