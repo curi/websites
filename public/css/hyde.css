@@ -113,7 +113,7 @@ html {
 
 .sidebar-footer {
     align-self: flex-end;
-    margin-top: auto;
+/*    margin-top: auto;*/  /* it disappears in safari with margin-top: auto */
     /*flex-grow: 1;*/
     width: 100%;
 }
