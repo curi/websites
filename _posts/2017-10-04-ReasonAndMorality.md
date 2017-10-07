@@ -18,7 +18,9 @@ permalink: /reason-and-morality/
   + [Experts](http://curi.us/1510-experts)
   + [Teachers](http://curi.us/1251-xi)
   + "Cranks"
-  + Religion [1](http://curi.us/1048-atheists-oppose-religion) [2](https://curi.us/1299-tradition-and-religion)
+  + Religion  
+    + [Atheists oppose religion](http://curi.us/1048-atheists-oppose-religion)  
+    + [Tradition and religion](https://curi.us/1299-tradition-and-religion)
   + [Judge ideas by content, not source](https://curi.us/1596-epistemology-in-short)
   + [Justification as authority](http://curi.us/1609-jtb)
 
@@ -30,12 +32,16 @@ permalink: /reason-and-morality/
 ##### Zero tolerance for errors
 ##### [Ideas should be accepted or rejected decisively not weighed](http://fallibleideas.com/essays/yes-no-argument)
   + [Ideas should be judged in the relevant context](http://curi.us/1581-epistemology-without-weights-and-the-mistake-objectivism-and-critical-rationalism-both-made)
+
 ##### [Compromise is bad](https://campus.aynrand.org/works/1962/01/01/doesnt-life-require-compromise/page1)
+
 ##### [How perpetual progress is compatible with truth](http://curi.us/1990-explaining-popper-on-fallible-scientific-knowledge)
 
 ## Ideas
 
-##### Explanation [The Fabric of Reality by David Deutsch, Chapter 1](https://www.amazon.com/Fabric-Reality-Parallel-Universes--Implications/dp/014027541X/ref=asap_bc?ie=UTF8)
+##### Explanation
++ [The Fabric of Reality by David Deutsch, Chapter 1](https://www.amazon.com/Fabric-Reality-Parallel-Universes--Implications/dp/014027541X/ref=asap_bc?ie=UTF8)
+
 ##### [Context](http://curi.us/1592-criticism-is-contextual)
 ##### [Objectivity](http://curi.us/1257-xvi)
   + [Philosophy: who needs it by Ayn Rand, Chapter 1](https://www.amazon.com/Philosophy-Who-Needs-Ayn-Rand-ebook/dp/B002JPGQ2A/)
@@ -45,20 +51,32 @@ permalink: /reason-and-morality/
   + Ideas in language or not
 
 ##### Memes
-  + Static & Dynamic Memes [1](http://curi.us/1824-static-memes-and-irrationality) [2, The Beginning of Infinity by David Deutsch, Chapters 15 and 16](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359/)
+  + Static & Dynamic Memes
+    + [Static memes and irrationality](http://curi.us/1824-static-memes-and-irrationality)
+    + [The Beginning of Infinity by David Deutsch, Chapters 15 and 16](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359/)
   + [Conventional Lives](http://curi.us/1262-xxi)
 
 ##### [Knowledge Structure](http://fallibleideas.com/knowledge-structure)
   + [Integrating & Organizing](http://fallibleideas.com/integration)
-  + Programming and knowledge structure [1](http://curi.us/1497-programming-and-epistemology) [2](http://curi.us/1370-fragile-knowledge) [3](http://curi.us/1792-silence-vs-stupidity)
+  + Programming and knowledge structure
+    + [Programming and epistemology](http://curi.us/1497-programming-and-epistemology)
+    + [Fragile knowledge](http://curi.us/1370-fragile-knowledge)
+    + [Low quality discussion as a bad API](http://curi.us/1792-silence-vs-stupidity)
 
 ## Learning
 
 ##### [Guesses & Criticism](http://fallibleideas.com/knowledge-creation)
 ##### [Evolution](http://fallibleideas.com/evolution-and-knowledge)
 ##### Goal-directed active learning
-##### Learner-driven; educator as helper [1](http://www.takingchildrenseriously.com/but_if_we_dont_make_her_do_maths) [2](http://www.takingchildrenseriously.com/unschooling_and_academic_education_1_0) [3](http://www.takingchildrenseriously.com/unschooling_and_academic_education_2) [4](http://www.takingchildrenseriously.com/unschooling_and_academic_education_3)
-##### Following Interests [1](http://curi.us/1942-interests) [2](https://curi.us/1934-follow-your-interests)
+##### Learner-driven education; educator as helper
++ [Making children do maths](http://www.takingchildrenseriously.com/but_if_we_dont_make_her_do_maths)
++ [Parents' aspirations for children](http://www.takingchildrenseriously.com/unschooling_and_academic_education_1_0)
++ [Coercion weakens learning](http://www.takingchildrenseriously.com/unschooling_and_academic_education_2)
++ [Coercion vs cooperation explained](http://www.takingchildrenseriously.com/unschooling_and_academic_education_3)
+
+##### Following Interests
++ [Genuine interests](http://curi.us/1942-interests)
++ [Follow your interests](https://curi.us/1934-follow-your-interests)
   + [Chains & Indirection](https://curi.us/1932-indirection)
 
 ##### [Gradualism](http://fallibleideas.com/gradualism) vs. [Overreaching](http://fallibleideas.com/overreach)
@@ -66,13 +84,18 @@ permalink: /reason-and-morality/
 
 ##### [Unbounded Learning vs Bounded](http://curi.us/2033-lots-of-thoughts)
 
-##### Asking Questions [1](http://curi.us/1944-questions) [2](http://curi.us/1170-how-to-ask-questions)
+##### Asking Questions  
++ [How to ask questions](http://curi.us/1170-how-to-ask-questions)
++ [Getting answers to questions](http://curi.us/1944-questions)
 
 ##### [Persuasion](http://curi.us/1781-actually-changing-your-mind)
   + Self-Persuasion
   + Persuading Others
 
-## Paths Forward [1](http://curi.us/1761-paths-forward-summary) [2](http://fallibleideas.com/paths-forward) [3](http://curi.us/1629-paths-forward-additional-thoughts)
+## Paths Forward
++ [Summary](http://curi.us/1761-paths-forward-summary)
++ [Paths forward article](http://fallibleideas.com/paths-forward)
++ [Additional thoughts](http://curi.us/1629-paths-forward-additional-thoughts)
 
 ##### Communication
 ##### Public criticism exposure
@@ -84,12 +107,21 @@ permalink: /reason-and-morality/
 ## Problem Solving
 
 ##### [Problems are solved by knowledge](http://fallibleideas.com/knowledge)
-##### All problems are soluble [1](http://fallibleideas.com/avoiding-coercion) [2](http://curi.us/1252-xii) [3](http://curi.us/1588-we-can-always-act-on-noncriticized-ideas)
+##### All problems are soluble
++ [Avoiding coercion in problem solving](http://fallibleideas.com/avoiding-coercion)
++ [Making choices and problem solving](http://curi.us/1252-xii)
++ [We can always act on noncriticized ideas](http://curi.us/1588-we-can-always-act-on-noncriticized-ideas)
+
 ##### [Solutions resolve issues. No compromises or outweighing](http://curi.us/1917-rejecting-gradations-of-certainty)
+
 ##### [Resolving conflicts between ideas](http://curi.us/1583-conflict-criticism-learning-reason)
+
 ##### [Directing effort at actual problems, not non-justified ideas](http://curi.us/1541-how-to-create-knowledge)
+
 ##### [Studying problems not topics](https://curi.us/1858-interests-in-problems-or-topics)
+
 ##### Where we put our effort & attention, & which problems we focus on, is crucial
+
 ##### [Human Problems vs. Abstract Problems](https://groups.yahoo.com/neo/groups/fallible-ideas/conversations/topics/510)
 + [Solving time sensitive problems](https://curi.us/1963-can-winwin-solutions-take-too-long)
 
@@ -100,7 +132,10 @@ permalink: /reason-and-morality/
 ##### Reality. What exists? [The Fabric of Reality by David Deutsch, Chapter 4](https://www.amazon.com/Fabric-Reality-Parallel-Universes--Implications/dp/014027541X/ref=asap_bc?ie=UTF8)
 ##### [Atheism](https://curi.us/1060-atheism)
 ##### [Induction](http://curi.us/1774-induction-is-authoritarian)
-##### Correlation [1](http://curi.us/1675-bad-correlation-study) [2](http://curi.us/1756-correlation-example) [3](https://curi.us/1822-curi-reads-a-correlation-study)
+##### Correlation
++ [Example of multiple explanations for a correlation](http://curi.us/1756-correlation-example)
++ [Bad correlation study on chocolate and heart disease](http://curi.us/1675-bad-correlation-study)
++ [Bad correlation study perfect pitch drug](https://curi.us/1822-curi-reads-a-correlation-study)
 
 # Part 2: Morality
 
@@ -140,19 +175,23 @@ permalink: /reason-and-morality/
 
 ##### Virtues
 + [Initiative](http://fallibleideas.com/initiative-and-responsibility)
-+ Passivity [1](http://fallibleideas.com/passivity) [2](http://curi.us/2039)
++ [Passivity](http://fallibleideas.com/passivity)
+  + [An example of passivity](http://curi.us/2039)
 + [Honesty](http://curi.us/1982-what-philosophy-takes#c8731)
 
 ##### [Aiming for Greatness](http://curi.us/1791-standards)
 
-##### Production ["Capitalism" by George Reisman, Chapter 13](https://www.amazon.com/Capitalism-Treatise-Economics-George-Reisman-ebook/dp/B0084RU67S/)
+##### Production
++ ["Capitalism" by George Reisman, Chapter 13](https://www.amazon.com/Capitalism-Treatise-Economics-George-Reisman-ebook/dp/B0084RU67S/)
+
 ##### Curiosity
 
 ## Others
 
 ##### [Relationships](http://curi.us/1539-autonomy-respecting-relationships)
 + [Interacting exclusively for mutual benefit](http://curi.us/1753-job-security-model-of-relationships)
-+ Promises, Obligations, Commitments [1](http://fallibleideas.com/promises) [2](http://oll.libertyfund.org/titles/godwin-an-enquiry-concerning-political-justice-vol-i#lf0164-01_label_086)
++ [Promises, Obligations, Commitments](http://fallibleideas.com/promises)
+  + [Godwin on promises](http://oll.libertyfund.org/titles/godwin-an-enquiry-concerning-political-justice-vol-i#lf0164-01_label_086)
 
 ##### Conflicts
 + [Resolving Conflicts](http://curi.us/1583-conflict-criticism-learning-reason)
@@ -185,7 +224,10 @@ permalink: /reason-and-morality/
 ##### [Property](http://oll.libertyfund.org/titles/1463#lf0842_label_062)
 ##### [Specialization](http://oll.libertyfund.org/titles/1893#lf3843-01_label_441)
 ##### [Comparative Advantage](http://oll.libertyfund.org/titles/1893#lf3843-01_label_442)
-##### Trade [1](http://aynrandlexicon.com/lexicon/trader_principle.html) [2](http://oll.libertyfund.org/titles/1893#lf3843-01_label_464)
+##### Trade
++ [Trader principle](http://aynrandlexicon.com/lexicon/trader_principle.html)
++ [Mises on trade](http://oll.libertyfund.org/titles/1893#lf3843-01_label_464)
+
 ##### [Prices](http://oll.libertyfund.org/titles/1894#lf3843-02_label_356)
 + Rational Decision Making with Prices
 
@@ -213,7 +255,7 @@ permalink: /reason-and-morality/
 
 # Part 4: Implications
 
-##### Parents & Teachers [1](http://curi.us/1181-parents-as-rulers) [2](http://curi.us/1181-parents-as-rulers)
+##### [Parents & Teachers](http://curi.us/1181-parents-as-rulers)
 ##### [Politics](http://curi.us/1723-political-philosophy-summary)
 ##### [Progress](http://curi.us/601-optimism)
   + [Philosophical Education](https://curi.us/2029-the-worlds-biggest-problems)
