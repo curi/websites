@@ -133,7 +133,9 @@ permalink: /reason-and-morality/
 ## Science
 
 ### [The Scientific Method](http://curi.us/1990-explaining-popper-on-fallible-scientific-knowledge)
-### Using Observations in Criticism [The Fabric of Reality by David Deutsch, Chapters 3 and 7](https://www.amazon.com/Fabric-Reality-Parallel-Universes--Implications/dp/014027541X/ref=asap_bc?ie=UTF8) [Philosophy of Evidence](https://www.youtube.com/watch?v=X6h30r61qjM)
+### Using Observations in Criticism [The Fabric of Reality by David Deutsch, Chapters 3 and 7](https://www.amazon.com/Fabric-Reality-Parallel-Universes--Implications/dp/014027541X/ref=asap_bc?ie=UTF8)
+- [Philosophy of Evidence](https://www.youtube.com/watch?v=X6h30r61qjM)
+
 ### Reality. What exists? [The Fabric of Reality by David Deutsch, Chapter 4](https://www.amazon.com/Fabric-Reality-Parallel-Universes--Implications/dp/014027541X/ref=asap_bc?ie=UTF8)
 ### [Atheism](https://curi.us/1060-atheism)
 ### [Induction](http://curi.us/1774-induction-is-authoritarian)
