@@ -9,7 +9,7 @@ permalink: /reason-and-morality/
 ## Error
 
 ### [Fallibility](http://curi.us/1990-explaining-popper-on-fallible-scientific-knowledge)
-### [Correcting Errors](https://groups.yahoo.com/neo/groups/fallible-ideas/conversations/messages/23203)
+### [Correcting Errors](http://curi.us/2052-do-thousands-of-error-corrections)
 ### Preventing Errors
 ### [Tradition](http://fallibleideas.com/tradition)
 ### [Rationalization](http://curi.us/1777-reason-is-urgent-now-or-never)
@@ -126,7 +126,7 @@ permalink: /reason-and-morality/
 
 ### Where we put our effort & attention, & which problems we focus on, is crucial
 
-### [Human Problems vs. Abstract Problems](https://groups.yahoo.com/neo/groups/fallible-ideas/conversations/topics/510)
+### [Human Problems vs. Abstract Problems](http://curi.us/2051-are-common-preferences-always-possible)
 + [Solving time sensitive problems](https://curi.us/1963-can-winwin-solutions-take-too-long)
 
 
