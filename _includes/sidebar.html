@@ -32,26 +32,31 @@
 
             {{ all_page_links }}
 
-            {% capture all_post_links %}
+           {% capture all_post_links %}
                 {% assign post_list = site.posts %}
                 {% for post in post_list %}
                 <a class="sidebar-nav-item {% if page.url == post.url %}active{% endif %}" href="{{ post.url }}">
                     {{ post.title }}
                 </a>
                 {% endfor %}
-            {% endcapture %}
+            {% endcapture %} 
 
             <div class="when-big">
-            <hr>
+            
+				<!-- <hr>
+
 
             {{ all_post_links }}
             </div>
-            <!--<span class="sidebar-nav-item">Currently v{{ site.version }}</span>-->
+
+-->
         </nav>
 
         <div class="sidebar-footer">
 	
             <hr>
+			<p>Other Sites:</p>
+
             <a class="sidebar-nav-item" href="http://fallibleideas.com">Fallible Ideas</a>
             <a class="sidebar-nav-item" href="http://curi.us">Curiosity Blog</a>
         </div>
