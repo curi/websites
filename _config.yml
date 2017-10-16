@@ -3,12 +3,11 @@ markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+permalink:        /:title
 
 # Setup
 title:            'Reason and Morality'
-#description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-description:      ""
+description:      "A Learning Resource"
 url:              http://reasonandmorality.com
 baseurl:          /
 
@@ -16,10 +15,10 @@ author:
   name:           'Elliot Temple'
   url:            http://curi.us
 
-paginate:         5
+paginate:         1
 
 # Custom vars
-version:          2.1.0
+version:          1.0.0
 
 github:
   repo:           https://github.com/curi/ReasonAndMorality
@@ -28,3 +27,11 @@ plugins: [jekyll-paginate]
 
 compress_html:
   comments: ["<!--", "-->"]
+
+# defaults:
+#   -
+#     scope:
+#       path: "docs" # an empty string here means all files in the project
+#     values:
+#       permalink: /:path:output_ext/
+#       

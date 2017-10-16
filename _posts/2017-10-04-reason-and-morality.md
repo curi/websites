@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Reason and Morality
-permalink: /reason-and-morality/
 ---
 
 # Part 1: Reason
