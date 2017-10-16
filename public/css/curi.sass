@@ -3,6 +3,14 @@
 # only main files contain this front matter, not partials.
 ---
 
+@font-face
+  font-family: "AppleChancery"
+  src: url("/fonts/Apple-Chancery.eot") /* IE9*/
+  src: local('AppleChancery'), url("/fonts/Apple-Chancery.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */ url("/fonts/Apple-Chancery.woff") format("woff"), /* chrome、firefox */ url("/fonts/Apple-Chancery.ttf") format("truetype") /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+
+div.sidebar-about h1
+  font-family: 'AppleChancery', Garamond, serif !important
+
 $curi-red: #D64D4D
 $curi-dark-red: #A81717
 
