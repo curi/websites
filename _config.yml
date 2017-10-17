@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        /:title
 
 # Setup
-title:            'Reason and Morality'
-description:      "A Learning Resource"
-url:              http://reasonandmorality.com
+title:            'Yes or No Philosophy'
+description:      "An Epistemology Breakthrough"
+url:              https://yesornophilosophy.com
 baseurl:          /
 
 author:
@@ -21,7 +21,8 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           https://github.com/curi/ReasonAndMorality
+  repo:           https://github.com/curi/websites
+  branch:         yesornophilosophy
 
 plugins: [jekyll-paginate]
 

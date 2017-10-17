@@ -3,7 +3,7 @@ layout: post
 title: Yes or No Philosophy
 ---
 
-<img src="http://fallibleideas.com/images/cover-yesno.png" width=100%>
+<img src="http://fallibleideas.com/images/cover-yesno.png">
 
 This is an **educational product containing videos and writing** which will teach you about *philosophy*. You don't need to know any philosophy beforehand.
 
@@ -41,7 +41,9 @@ I explain how to think about ideas (including naming, variants, layers of abstra
 
 Your mind and brain are complicated. Most of your thinking happens unconsciously. With more insight into *how thinking actually works*, you can better align your conscious thinking to your unconscious thinking. That will fix some of your internal contradictions.
 
-~~<div class="buy">[Buy Yes or No Philosophy](https://gumroad.com/l/hxqsh) ($400) (<a href="#pricing">Pricing Explanation</a>)</div>~~
+<div class="buy" markdown="1">
+  [Buy Yes or No Philosophy](https://gumroad.com/l/hxqsh) ($400) (<a href="#pricing">Pricing Explanation</a>)
+</div>
 
 ----
 
@@ -53,7 +55,7 @@ I bring a fresh perspective to philosophy from outside the ivory tower of academ
 
 I've studied and debated the major philosophies (and some obscure ones) without having to conform to the agendas of the philosophy journal editors and university politics. This free, unbiased pursuit of truth let me judge which philosophy is correct and get inspiration for new ideas.
 
-**Free Sample:** You can read a [short argument](http://fallibleideas.com/essays/yes-no-argument) for the **Yes or No Philosophy**.
+**Free Sample:** You can read a [short argument](https://yesornophilosophy.com/argument) for the **Yes or No Philosophy**.
 
 I write at [Fallible Ideas](http://fallibleideas.com) and my blog, [Curiosity](http://curi.us).
 
@@ -67,7 +69,9 @@ I write at [Fallible Ideas](http://fallibleideas.com) and my blog, [Curiosity](h
 
 *A process of reason is a process of constant choice in answer to the question: True or False?—Right or Wrong? Is a seed to be planted in soil in order to grow—right or wrong? Is a man's wound to be disinfected in order to save his life—right or wrong? Does the nature of atmospheric electricity permit it to be converted into kinetic power—right or wrong? It is the answers to such questions that gave you everything you have—and the answers came from a man's mind, a mind of intransigent devotion to that which is right.* – John Galt in [Atlas Shrugged](https://www.amazon.com/dp/B003V8B5XO/?tag=curi04-20) by Ayn Rand ([more quotes](http://curi.us/2021-praise-for-yes-or-no-philosophy#comments))
 
-~~<div class="buy">[Buy Yes or No Philosophy](https://gumroad.com/l/hxqsh) ($400) (<a href="#pricing">Pricing Explanation</a>)</div>~~
+<div class="buy" markdown="1">
+  [Buy Yes or No Philosophy](https://gumroad.com/l/hxqsh) ($400) (<a href="#pricing">Pricing Explanation</a>)
+</div>
 
 ----
 
@@ -102,20 +106,24 @@ There's no copy protection or DRM. You can open the files on any device with any
 
 Inquiries and pre-sale questions: [elliot@fallibleideas.com](mailto:elliot@fallibleideas.com)
 
-~~<div class="buy">[Buy Yes or No Philosophy](https://gumroad.com/l/hxqsh) ($400) (<a href="#pricing">Pricing Explanation</a>)</div>~~
+<div class="buy" markdown="1">
+  [Buy Yes or No Philosophy](https://gumroad.com/l/hxqsh) ($400) (<a href="#pricing">Pricing Explanation</a>)
+</div>
 
 ----
 
 # Sample Images
 
-<img src="http://fallibleideas.com/images/epub-yesno.png" width=90%>
-<img src="http://fallibleideas.com/images/slide1-yesno.png" width=90%>
-<img src="http://fallibleideas.com/images/pdf-yesno.png" width=70%>
-<img src="http://fallibleideas.com/images/kindle-yesno.png" width=55%>
-<img src="http://fallibleideas.com/images/diagram-yesno.png" width=90%>
-<img src="http://fallibleideas.com/images/slide2-yesno.png" width=90%>
+<img src="http://fallibleideas.com/images/epub-yesno.png" width="90%">
+<img src="http://fallibleideas.com/images/slide1-yesno.png" width="90%">
+<img src="http://fallibleideas.com/images/pdf-yesno.png" width="70%">
+<img src="http://fallibleideas.com/images/kindle-yesno.png" width="55%">
+<img src="http://fallibleideas.com/images/diagram-yesno.png" width="90%">
+<img src="http://fallibleideas.com/images/slide2-yesno.png" width="90%">
 
-~~<div class="buy">[Buy Yes or No Philosophy](https://gumroad.com/l/hxqsh) ($400)</div>~~
+<div class="buy" markdown="1">
+  [Buy Yes or No Philosophy](https://gumroad.com/l/hxqsh) ($400)
+</div>
 
 ----
 
@@ -141,10 +149,10 @@ I'm offering around a 98.75% discount to my [consulting rate](http://fallibleide
 
 If you want to learn the *right* ideas in a *short time*, then have I got a deal for you:
 
-~~<div class="buy">[Buy Yes or No Philosophy](https://gumroad.com/l/hxqsh) ($400)</div>~~
+<div class="buy" markdown="1">
+  [Buy Yes or No Philosophy](https://gumroad.com/l/hxqsh) ($400)
+</div>
 
 ----
-
-Return to the [Fallible Ideas essays](http://fallibleideas.com/)
 
 Contact: [elliot@fallibleideas.com](mailto:elliot@fallibleideas.com)

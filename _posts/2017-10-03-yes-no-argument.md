@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Yes or No Philosophy Argument
+title: Argument
+permalink: /argument
+category: sidebar
 ---
 
-# Yes or No Philosophy
+# Yes or No Philosophy Argument
 
 A main problem in the philosophy of knowledge is *judging ideas*. Which ideas are good or bad? Which are knowledge?
 

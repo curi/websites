@@ -34,22 +34,24 @@
             {{ all_page_links }}
 
            {% capture all_post_links %}
-                {% assign post_list = site.posts %}
+                {% assign post_list = site.categories.sidebar %}
                 {% for post in post_list %}
                 <a class="sidebar-nav-item {% if page.url == post.url %}active{% endif %}" href="{{ post.url }}">
                     {{ post.title }}
                 </a>
                 {% endfor %}
             {% endcapture %} 
+            
+            {{ all_post_links }}
 
+            <!--
             <div class="when-big">
             
-				<!-- <hr>
+				 <hr>
 
 
-            {{ all_post_links }}
+            
             </div>
-
 -->
     
         </nav>
