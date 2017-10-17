@@ -6,14 +6,14 @@ highlighter:      pygments
 permalink:        /:title
 
 # Setup
-title:            'Reason and Morality'
-description:      "A Learning Resource"
-url:              http://reasonandmorality.com
+title:            'Elliot Temple'
+description:      "A Philosopher"
+url:              https://elliottemple.com
 baseurl:          /
 
 author:
   name:           'Elliot Temple'
-  url:            http://curi.us
+  url:            https://curi.us
 
 paginate:         1
 
@@ -21,7 +21,8 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           https://github.com/curi/ReasonAndMorality
+  repo:           https://github.com/curi/websites
+  branch:         elliottemple
 
 plugins: [jekyll-paginate]
 

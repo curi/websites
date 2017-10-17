@@ -13,9 +13,9 @@ title: Elliot Temple
 
 <p>My websites:</p>
 <ul>
-  <li><a href="http://fallibleideas.com/">Fallible Ideas</a> (essays)</li>
-  <li><a href="http://curi.us/">curi.us</a> (blog)</li>
-  <li><a href="http://beginningofinfinity.com/">The Beginning of Infinity by David Deutsch</a></li>
+  <li><a href="https://fallibleideas.com/">Fallible Ideas</a> (articles)</li>
+  <li><a href="https://curi.us/">Curiosity Blog</a></li>
+  <li><a href="https://beginningofinfinity.com/">The Beginning of Infinity</a> (book by David Deutsch)</li>
 </ul>
 
 <p>Sign up for my <a href="http://fallibleideas.com/newsletter">email newsletter</a> (2-4 emails/month).</p>
