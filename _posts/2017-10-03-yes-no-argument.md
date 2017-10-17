@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yes or No Philosophy
+title: Yes or No Philosophy Argument
 ---
 
 # Yes or No Philosophy
