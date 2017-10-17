@@ -8,28 +8,8 @@
   src: url("/fonts/Apple-Chancery.eot") /* IE9*/
   src: local('AppleChancery'), url("/fonts/Apple-Chancery.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */ url("/fonts/Apple-Chancery.woff") format("woff"), /* chrome、firefox */ url("/fonts/Apple-Chancery.ttf") format("truetype") /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
 
-div.sidebar-about h1
+div.sidebar-about h1, h1
   font-family: 'AppleChancery', Garamond, serif !important
-
-$curi-red: #D64D4D
-$curi-dark-red: #A81717
-
-.post em
-  color: $curi-dark-red
-
-.post a
-  color: $curi-red
-  font-weight: bold
-  &:visited
-    color: $curi-dark-red
-
-.post-title a
-  color: inherit
-  &:visited
-    color: inherit
-
-.post strong
-  color: $curi-dark-red
 
 
 $curi-banner-red: #821414
@@ -37,11 +17,15 @@ $curi-italics-red: #A81717 // and visited link
 $curi-link-red: #BF4545 // new link
 $curi-blockquote-yellow: #FFF6DB
 
-// http://paletton.com
-// colors that go with banner red
+/* http://paletton.com  colors that go with banner red */
+
 $paletton-green: #106810
 $paletton-orange: #824714
 $paletton-blue: #0D4C4F
+
+$pdf-orange: #e16128
+$pdf-blue: #2b6faf
+$pdf-green: #62a17b // too light
 
 $light-red: #FF9999
 $light-orange: #FFC899
@@ -50,41 +34,42 @@ $light-blue: #68A9AC
 
 
 $sidebar-color: $curi-banner-red
-$italics-color: $paletton-orange
+$italics-color: $pdf-orange
 $link-color: $paletton-green
 $link-visited-color: $paletton-green
-$bold-color: $paletton-blue
+$bold-color: $pdf-blue
 $heading-color: $curi-banner-red
+
+
+
 $blockquote-color: $light-orange
 $blockquote-color-2: $light-blue
 $blockquote-color-3: $light-green
 $blockquote-color-4: $light-red
 
-.sidebar, .related-posts li a:hover
+.sidebar
   background-color: $sidebar-color
 
-body#curi
-  .sidebar, .related-posts li a:hover
-    background-color: $sidebar-color
-
-
-  i, em
+div.content
+  em, i
     color: $italics-color
     
   b, strong
     color: $bold-color
+  
+  em strong, strong em
+    color: $bold-color
     
   h1,h2,h3,h4,h5,h6
     color: $heading-color
-  blockquote
-    background-color: $blockquote-color
-  
+    a, a:visited
+      color: $heading-color
+      text-decoration: none
+
   a
     color: $link-color
+    text-decoration: underline
   a:visited
     color: $link-visited-color
-  
-  .content a
-    text-decoration: underline
 
 
