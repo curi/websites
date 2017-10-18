@@ -12,12 +12,6 @@
 
         <nav class="sidebar-nav">
 
-            {% comment %}
-            The code below dynamically generates a sidebar nav of pages with
-            `layout: page` in the front-matter. See readme for usage.
-            {% endcomment %}
-
-
             {% capture all_page_links %}
                 <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
                 {% assign pages_list = site.pages %}
@@ -33,8 +27,8 @@
 
             {{ all_page_links }}
 
-           {% capture all_post_links %}
-                {% assign post_list = site.categories.sidebar %}
+           {% capture all_sidebar_links %}
+                {% assign post_list = site.tags.sidebar %}
                 {% for post in post_list %}
                 <a class="sidebar-nav-item {% if page.url == post.url %}active{% endif %}" href="{{ post.url }}">
                     {{ post.title }}
@@ -42,18 +36,8 @@
                 {% endfor %}
             {% endcapture %} 
             
-            {{ all_post_links }}
+            {{ all_sidebar_links }}
 
-            <!--
-            <div class="when-big">
-            
-				 <hr>
-
-
-            
-            </div>
--->
-    
         </nav>
 
         <div class="sidebar-footer">
