@@ -73,7 +73,7 @@ html {
 
 .sidebar {
     text-align: center;
-    padding: 2rem 1rem;
+    padding: 1.5rem 1rem;
     color: rgba(255, 255, 255, .5);
     background-color: #202020;
 }
@@ -88,7 +88,7 @@ html {
         width: 18rem;
 /*        text-align: left;*/
         overflow-y: visible; // was "scroll" which made a scroll bar visible 
-        padding: 1rem 0.5rem;
+        padding: 1.5rem 1rem;
         display: flex;
         justify-content: flex-start;
     }
@@ -155,9 +155,10 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
     .sidebar-sticky {
-        margin: 0rem; // shrunk
+        margin: 0 2rem 0 2rem;
         display: flex;
         flex-direction: column;
+        width: 100%;
     }
 }
 
@@ -166,6 +167,7 @@ a.sidebar-nav-item:focus {
         margin: 1rem;
         display: flex;
         flex-direction: row;
+        width: 100%;
     }
 
 
@@ -183,14 +185,13 @@ footer h2, footer h3 {
  */
 
 .content {
-    padding-top: 4rem;
+    padding-top: 1rem;
     /*padding-bottom: 4rem;*/  /* Don't seem to need this */
     position: relative;
 }
 
-@media (min-width: 48em) {
+/*@media (min-width: 48em) {
     .content {
-        /*max-width: 38rem;*/
         margin-left: 20rem;
         margin-right: 2rem;
     }
@@ -202,6 +203,7 @@ footer h2, footer h3 {
         margin-right: 4rem;
     }
 }
+*/
 
 /*
  * Reverse layout
@@ -216,14 +218,23 @@ footer h2, footer h3 {
     }
 
     .layout-reverse .content {
-        margin-left: 2rem;
-        margin-right: 20rem;
+        margin-left: 0rem;
+        margin-right: 18rem;
     }
 }
 
 @media (min-width: 64em) {
     .layout-reverse .content {
-        margin-left: 4rem;
-        margin-right: 22rem;
+        margin-left: 0rem;
+        margin-right: 18rem;
     }
 }
+
+.content .inner-content {
+  max-width: 60rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 2rem;
+}
+
