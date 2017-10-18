@@ -2,7 +2,7 @@
 layout: post
 title: Argument
 permalink: /argument
-category: sidebar
+tags: sidebar
 ---
 
 # Yes or No Philosophy Argument

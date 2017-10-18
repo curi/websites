@@ -57,7 +57,7 @@ I've studied and debated the major philosophies (and some obscure ones) without 
 
 **Free Sample:** You can read a [short argument](https://yesornophilosophy.com/argument) for the **Yes or No Philosophy**.
 
-I write at [Fallible Ideas](http://fallibleideas.com) and my blog, [Curiosity](http://curi.us).
+I write at [Fallible Ideas](https://fallibleideas.com) and my blog, [Curiosity](https://curi.us).
 
 <div class="buy" markdown="1">
   [Buy Yes or No Philosophy](https://gumroad.com/l/hxqsh) ($400) (<a href="#pricing">Pricing Explanation</a>)
@@ -67,9 +67,9 @@ I write at [Fallible Ideas](http://fallibleideas.com) and my blog, [Curiosity](h
 
 # Praise for Yes or No Philosophy
 
-*great ... big thanks to Elliot for creating it! ... very applicable to the lives of regular people ... just what i hoped it would be ... the decision chart idea is terrific. i’ve used it a few times already and it worked great.* – Kate Sams ([full quote](http://curi.us/2021-praise-for-yes-or-no-philosophy))
+*great ... big thanks to Elliot for creating it! ... very applicable to the lives of regular people ... just what i hoped it would be ... the decision chart idea is terrific. i’ve used it a few times already and it worked great.* – Kate Sams ([full quote](https://curi.us/2021-praise-for-yes-or-no-philosophy))
 
-*A process of reason is a process of constant choice in answer to the question: True or False?—Right or Wrong? Is a seed to be planted in soil in order to grow—right or wrong? Is a man's wound to be disinfected in order to save his life—right or wrong? Does the nature of atmospheric electricity permit it to be converted into kinetic power—right or wrong? It is the answers to such questions that gave you everything you have—and the answers came from a man's mind, a mind of intransigent devotion to that which is right.* – John Galt in [Atlas Shrugged](https://www.amazon.com/dp/B003V8B5XO/?tag=curi04-20) by Ayn Rand ([more quotes](http://curi.us/2021-praise-for-yes-or-no-philosophy#comments))
+*A process of reason is a process of constant choice in answer to the question: True or False?—Right or Wrong? Is a seed to be planted in soil in order to grow—right or wrong? Is a man's wound to be disinfected in order to save his life—right or wrong? Does the nature of atmospheric electricity permit it to be converted into kinetic power—right or wrong? It is the answers to such questions that gave you everything you have—and the answers came from a man's mind, a mind of intransigent devotion to that which is right.* – John Galt in [Atlas Shrugged](https://www.amazon.com/dp/B003V8B5XO/?tag=curi04-20) by Ayn Rand ([more quotes](https://curi.us/2021-praise-for-yes-or-no-philosophy#comments))
 
 <div class="buy" markdown="1">
   [Buy Yes or No Philosophy](https://gumroad.com/l/hxqsh) ($400) (<a href="#pricing">Pricing Explanation</a>)
@@ -116,12 +116,12 @@ Inquiries and pre-sale questions: [elliot@fallibleideas.com](mailto:elliot@falli
 
 # Sample Images
 
-<img src="http://fallibleideas.com/images/epub-yesno.png" width="90%">
-<img src="http://fallibleideas.com/images/slide1-yesno.png" width="90%">
-<img src="http://fallibleideas.com/images/pdf-yesno.png" width="70%">
-<img src="http://fallibleideas.com/images/kindle-yesno.png" width="55%">
-<img src="http://fallibleideas.com/images/diagram-yesno.png" width="90%">
-<img src="http://fallibleideas.com/images/slide2-yesno.png" width="90%">
+<img src="https://fallibleideas.com/images/epub-yesno.png" width="90%">
+<img src="https://fallibleideas.com/images/slide1-yesno.png" width="90%">
+<img src="https://fallibleideas.com/images/pdf-yesno.png" width="70%">
+<img src="https://fallibleideas.com/images/kindle-yesno.png" width="55%">
+<img src="https://fallibleideas.com/images/diagram-yesno.png" width="90%">
+<img src="https://fallibleideas.com/images/slide2-yesno.png" width="90%">
 
 <div class="buy" markdown="1">
   [Buy Yes or No Philosophy](https://gumroad.com/l/hxqsh) ($400)
@@ -143,11 +143,11 @@ I've spent years learning what's most important and how to explain it. I've test
 
 I also focus on *quality*. Most philosophy ideas aren't very good, so who cares what the price is? These ideas are great. I'm offering cutting-edge, original philosophical ideas which you can't get anywhere else. That's kinda priceless.
 
-If you have more time than money, consider my [book recommendations](http://fallibleideas.com/books). The best books provide a massive amount of value for the price. Buying _Atlas Shrugged_ is like hiring Ayn Rand to work for a decade ... for the price of $4. (But it sells millions of copies!)
+If you have more time than money, consider my [book recommendations](https://fallibleideas.com/books). The best books provide a massive amount of value for the price. Buying _Atlas Shrugged_ is like hiring Ayn Rand to work for a decade ... for the price of $4. (But it sells millions of copies!)
 
-If you've read most of my book recommendations and [free](http://fallibleideas.com) [writing](http://curi.us), and you want this product, but you really can't afford it, then email me and we'll talk.
+If you've read most of my book recommendations and [free](https://fallibleideas.com) [writing](https://curi.us), and you want this product, but you really can't afford it, then email me and we'll talk.
 
-I'm offering around a 98.75% discount to my [consulting rate](http://fallibleideas.com/consulting). You're buying a month of my work for the price of 2 hours. I can sell to you that cheaply because other people will buy it too.
+I'm offering around a 98.75% discount to my [consulting rate](https://fallibleideas.com/consulting). You're buying a month of my work for the price of 2 hours. I can sell to you that cheaply because other people will buy it too.
 
 If you want to learn the *right* ideas in a *short time*, then have I got a deal for you:
 
