@@ -41,10 +41,8 @@ Many important issues have a *yes or no* answer, for example: Should I accept th
 
 Whatever your philosophy views, you make *yes or no* judgements routinely. You take some actions and not others. You accept some ideas and not others. When you don’t accept or act on an idea because you think it has a lower amount of *goodness*, you’re saying *no* to it – without actually knowing a refutation of it. Directly consider the *yes or no* judgements you make and you’ll be a better judge of ideas.
 
-**Learn more about the [Yes or No Philosophy](http://fallibleideas.com/yes-or-no-philosophy).**
+**Learn more about the [Yes or No Philosophy](https://yesornophilosophy.com).**
 
 ----
 
 Questions or comments: [elliot@fallibleideas.com](mailto:elliot@fallibleideas.com)
-
-Find more essays at the [Fallible Ideas home page](http://fallibleideas.com/)
