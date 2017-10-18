@@ -215,18 +215,26 @@ pre code {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #7a7a7a;
-  border-left: .25rem solid #e5e5e5;
+/*  color: #7a7a7a;*/
+  border-left: .20rem solid #e5e5e5;  /*color is overridden in quotes file, but size isn't*/
 }
 blockquote p:last-child {
   margin-bottom: 0;
 }
+
 @media (min-width: 30em) {
   blockquote {
     padding-right: 2rem;
     padding-left: 1.25rem;
   }
 }
+
+/* extra margin for two blockquotes in a row*/
+blockquote + blockquote {
+  margin-top: 1.5rem !important;
+}
+
+
 
 img {
   display: block;
