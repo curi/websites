@@ -7,7 +7,7 @@ permalink:        /:title
 
 # Setup
 title:            'Elliot Temple'
-description:      "A Philosopher"
+description:      "Philosopher"
 url:              https://elliottemple.com
 baseurl:          /
 
