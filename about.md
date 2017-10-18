@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About
-tags: sidebar
 ---
 
-Website by philosopher [Elliot Temple](http://elliottemple.com) ([elliot@fallibleideas.com](mailto:elliot@fallibleideas.com)).
+Website by philosopher [Elliot Temple](https://elliottemple.com) ([elliot@fallibleideas.com](mailto:elliot@fallibleideas.com)).
 
-Want to learn more? I have an [email newsletter](http://fallibleideas.com/newsletter), a [discussion group](http://fallibleideas.com/discussion-info) and [book recommendations](http://fallibleideas.com/books).
+Want to learn more? I have an [email newsletter](https://fallibleideas.com/newsletter), a [discussion group](https://fallibleideas.com/discussion-info) and [book recommendations](https://fallibleideas.com/books).
