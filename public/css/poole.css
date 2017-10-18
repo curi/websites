@@ -231,8 +231,8 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
-  border-radius: 5px;
+/*  margin: 0 0 1rem;*/
+/*  border-radius: 5px;*/
 }
 
 /* Tables */
@@ -287,9 +287,8 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  /*max-width: 38rem;*/
-  padding-left:  1rem;
-  padding-right: 1rem;
+  padding-left:  0rem;
+  padding-right: 0rem;
   margin-left:  auto;
   margin-right: auto;
 }
