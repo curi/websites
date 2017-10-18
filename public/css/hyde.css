@@ -154,17 +154,19 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
     .sidebar-sticky {
-        margin: 0rem; // shrunk
+        padding: 0 1rem 0 1rem;
         display: flex;
         flex-direction: column;
+        width: 100%;
     }
 }
 
 @media (max-width: 48em) {
     .footer-sticky {
-        margin: 1rem;
+        padding: 1rem;
         display: flex;
         flex-direction: row;
+        width: 100%;
     }
 
 
@@ -182,7 +184,7 @@ footer h2, footer h3 {
  */
 
 .content {
-/*    padding-top: 4rem;*/
+    padding-top: 1rem;
     /*padding-bottom: 4rem;*/  /* Don't seem to need this */
     position: relative;
 }
@@ -199,7 +201,8 @@ footer h2, footer h3 {
         margin-left: 22rem;
         margin-right: 4rem;
     }
-}*/
+}
+*/
 
 /*
  * Reverse layout
@@ -214,14 +217,22 @@ footer h2, footer h3 {
     }
 
     .layout-reverse .content {
-        margin-left: 2rem;
-        margin-right: 20rem;
+        margin-left: 0rem;
+        margin-right: 18rem;
     }
 }
 
 @media (min-width: 64em) {
     .layout-reverse .content {
-        margin-left: 4rem;
-        margin-right: 22rem;
+        margin-left: 0rem;
+        margin-right: 18rem;
     }
+}
+
+.content .inner-content {
+  max-width: 60rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 2rem;
 }
