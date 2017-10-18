@@ -59,7 +59,9 @@ I've studied and debated the major philosophies (and some obscure ones) without 
 
 I write at [Fallible Ideas](http://fallibleideas.com) and my blog, [Curiosity](http://curi.us).
 
-~~<div class="buy">[Buy Yes or No Philosophy](https://gumroad.com/l/hxqsh) ($400) (<a href="#pricing">Pricing Explanation</a>)</div>~~
+<div class="buy" markdown="1">
+  [Buy Yes or No Philosophy](https://gumroad.com/l/hxqsh) ($400) (<a href="#pricing">Pricing Explanation</a>)
+</div>
 
 ----
 
