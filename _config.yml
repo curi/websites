@@ -19,7 +19,8 @@ paginate:         1
 
 # Custom vars
 version:          1.0.0
-body-css:         "elliottemple"
+body-css-id:      "elliottemple"
+
 
 github:
   repo:           https://github.com/curi/websites
