@@ -12,25 +12,11 @@
 
         <nav class="sidebar-nav">
 
-                <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-
-           {% capture all_sidebar_links %}
-                {% assign post_list = site.tags.sidebar %}
-                {% for post in post_list %}
-                <a class="sidebar-nav-item {% if page.url == post.url %}active{% endif %}" href="{{ post.url }}">
-                    {{ post.title }}
-                </a>
-                {% endfor %}
-            {% endcapture %} 
-            
-            {{ all_sidebar_links }}
-
     
         </nav>
 
         <div class="sidebar-footer">
-	
-            <hr>
+	  <hr>
 			<p>Other Sites:</p>
 
             <a class="sidebar-nav-item" href="http://fallibleideas.com">Fallible Ideas</a>

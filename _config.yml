@@ -6,14 +6,14 @@ highlighter:      pygments
 permalink:        /:title
 
 # Setup
-title:            'Philosophy'
-description:      "by Elliot Temple"
-url:              https://fallibleideas.com
+title:            'Elliot Temple'
+description:      "A Philosopher"
+url:              https://elliottemple.com
 baseurl:          /
 
 author:
   name:           'Elliot Temple'
-  url:            http://curi.us
+  url:            https://curi.us
 
 paginate:         1
 
@@ -22,7 +22,7 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/curi/websites
-  branch:         master
+  branch:         elliottemple
 
 plugins: [jekyll-paginate]
 
