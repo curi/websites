@@ -155,7 +155,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
     .sidebar-sticky {
-        margin: 0 2rem 0 2rem;
+        padding: 0 1rem 0 1rem;
         display: flex;
         flex-direction: column;
         width: 100%;
@@ -164,7 +164,7 @@ a.sidebar-nav-item:focus {
 
 @media (max-width: 48em) {
     .footer-sticky {
-        margin: 1rem;
+        padding: 1rem;
         display: flex;
         flex-direction: row;
         width: 100%;
