@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        /:title
 
 # Setup
-title:            'Yes or No Philosophy'
-description:      "An Epistemology Breakthrough"
-url:              https://yesornophilosophy.com
+title:            'Philosophy'
+description:      "by Elliot Temple"
+url:              https://fallibleideas.com
 baseurl:          /
 
 author:
@@ -22,7 +22,7 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/curi/websites
-  branch:         yesornophilosophy
+  branch:         master
 
 plugins: [jekyll-paginate]
 

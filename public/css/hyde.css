@@ -73,13 +73,8 @@ html {
 
 .sidebar {
     text-align: center;
-<<<<<<< HEAD
     padding: 1.5rem 1rem;
     color: rgba(255, 255, 255, .64);
-=======
-    padding: 2rem 1rem;
-    color: rgba(255, 255, 255, .5);
->>>>>>> parent of d494b63... merge stuff
     background-color: #202020;
 }
 
@@ -93,7 +88,6 @@ html {
         width: 18rem;
 /*        text-align: left;*/
         overflow-y: visible; // was "scroll" which made a scroll bar visible 
-        padding: 1rem 0.5rem;
         display: flex;
         justify-content: flex-start;
     }
@@ -188,14 +182,13 @@ footer h2, footer h3 {
  */
 
 .content {
-    padding-top: 4rem;
+/*    padding-top: 4rem;*/
     /*padding-bottom: 4rem;*/  /* Don't seem to need this */
     position: relative;
 }
 
-@media (min-width: 48em) {
+/*@media (min-width: 48em) {
     .content {
-        /*max-width: 38rem;*/
         margin-left: 20rem;
         margin-right: 2rem;
     }
@@ -206,7 +199,7 @@ footer h2, footer h3 {
         margin-left: 22rem;
         margin-right: 4rem;
     }
-}
+}*/
 
 /*
  * Reverse layout

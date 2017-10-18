@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+tags: sidebar
 ---
 
 Website by philosopher [Elliot Temple](http://elliottemple.com) ([elliot@fallibleideas.com](mailto:elliot@fallibleideas.com)).
