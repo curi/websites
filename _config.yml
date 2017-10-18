@@ -8,7 +8,7 @@ permalink:        /:title
 # Setup
 title:            'Reason and Morality'
 description:      "A Learning Resource"
-url:              http://reasonandmorality.com
+url:              https://reasonandmorality.com
 baseurl:          /
 
 author:
@@ -21,7 +21,7 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           https://github.com/curi/ReasonAndMorality
+  repo:           https://github.com/curi/websites
   branch:         reasonandmorality
 
 plugins: [jekyll-paginate]
