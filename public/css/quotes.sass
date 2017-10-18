@@ -10,7 +10,7 @@ $bquote: ""
   $i: nth($t, 2)
   $bquote: if($i == 1, "blockquote", selector_nest($bquote, "blockquote")) !global
   $bgc: nth($t, 1)
-  $bc: darken($bgc, 20%)
+  $bc: darken($bgc, 35%)
 
   body #{$bquote}
     background-color: $bgc
