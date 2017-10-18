@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Philosophy Consulting
+permalink: /consulting
 tags: sidebar
 ---
 
