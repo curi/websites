@@ -12,7 +12,9 @@
 
         <nav class="sidebar-nav">
 
+
           <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+
 
             {% capture all_page_links %}
                 {% assign pages_list = site.pages %}
@@ -27,6 +29,7 @@
             {% endcapture %}
 
             {{ all_page_links }}
+
 
            {% capture all_sidebar_links %}
                 {% assign post_list = site.tags.sidebar %}
