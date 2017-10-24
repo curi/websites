@@ -13,7 +13,7 @@ Want to learn more? Check out my other websites in the sidebar. I also have a [d
 <div id="mc_embed_signup">
 <form action="http://fallibleideas.us14.list-manage.com/subscribe/post?u=b2e8e68c5818e273d86964fc1&amp;id=9a450fabc1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h3>Receive my Fallible Ideas Newsletter</h3>
+	<h3>Get My Fallible Ideas Newsletter</h3>
 	<p>Get 2-4 emails per month with philosophy links and news.</p>
 <div class="mc-field-group">
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address">
