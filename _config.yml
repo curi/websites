@@ -19,6 +19,8 @@ paginate:         1
 
 # Custom vars
 version:          1.0.0
+body-css-id:      "yesno"
+ga-id:            "UA-743670-16"
 
 github:
   repo:           https://github.com/curi/websites

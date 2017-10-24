@@ -8,7 +8,7 @@
   src: url("/fonts/Apple-Chancery.eot") /* IE9*/
   src: local('AppleChancery'), url("/fonts/Apple-Chancery.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */ url("/fonts/Apple-Chancery.woff") format("woff"), /* chrome、firefox */ url("/fonts/Apple-Chancery.ttf") format("truetype") /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
 
-div.sidebar-about h1, h1
+div.sidebar-about h1, h1, h2
   font-family: 'AppleChancery', Garamond, serif !important
 
 
@@ -64,6 +64,8 @@ div.content
     a, a:visited
       color: $heading-color
       text-decoration: none
+    a:hover
+      text-decoration: underline
 
   a
     color: $link-color
@@ -71,8 +73,3 @@ div.content
   a:visited
     color: $link-visited-color
 
-
-#yesnobanner
-  margin-top: -1rem
-/*  max-width: 45rem*/
-  
