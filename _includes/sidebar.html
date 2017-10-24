@@ -41,8 +41,25 @@
             {% endcapture %} 
             
             {{ all_sidebar_links }}
+            
+            <hr>
+            
+            <p id="as-close-reading"><a href="/atlas-shrugged-chapter-1">Atlas Shrugged Reading</a></p>
+            <ul id="close-reading">
 
-    
+            {% capture all_close_reading_links %}
+                 {% assign post_list = site.pages %}
+                     {% for post in post_list %}
+                      {% if post.category == "close-reading" %}
+                     <li><a class="sidebar-nav-item {% if page.url == post.url %}active{% endif %}" href="{{ post.url }}">
+                         {{ post.title }}
+                     </a></li>
+                   {% endif %}
+                 {% endfor %}
+             {% endcapture %} 
+
+             {{ all_close_reading_links }}
+          </ul>
         </nav>
 
         <div class="sidebar-footer">

@@ -1,9 +1,9 @@
 ---
-layout: page
-title: Atlas Shrugged Chapter 1
+layout: post
+title: Chapter 1
 permalink: /atlas-shrugged-chapter-1
-tags: sidebar
 header: Atlas Shrugged Close Reading
+category: close-reading
 ---
 
 **Note: This site isn't done yet. I've only gone through part of chapter 1.**

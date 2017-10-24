@@ -94,7 +94,7 @@ html {
 }
 
 /* Sidebar links */
-.sidebar a {
+.sidebar a, .sidebar li {
     color: #fff;
 }
 
