@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About
+header: About
 ---
-
-# About
 
 Website by philosopher [Elliot Temple](https://elliottemple.com) ([elliot@fallibleideas.com](mailto:elliot@fallibleideas.com)).
 
