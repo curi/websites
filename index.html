@@ -7,6 +7,8 @@ title: Home
   {% for post in paginator.posts %}
   <div class="post">
 
+<!--    <h1 class="page-title">{{ post.header | default: post.title }}</h1> -->
+
     {{ post.content }}
   </div>
   {% endfor %}
