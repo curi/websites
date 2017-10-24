@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        /:title
 
 # Setup
-title:            'Philosophy'
+title:            'Learn Objectivism'
 description:      "by Elliot Temple"
 url:              https://fallibleideas.com
 baseurl:          /
@@ -19,7 +19,7 @@ paginate:         1
 
 # Custom vars
 version:          1.0.0
-body-css-id:      "test"
+body-css-id:      "learnobjectivism"
 ga-id:            "UA-743670-13"
 
 github:
