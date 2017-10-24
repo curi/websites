@@ -9,25 +9,26 @@ title: Elliot Temple
 
 <p>I also do contract programming. Ruby, Rails, websites, iOS. <a href="mailto:curi@curi.us">Email me</a>.</p>
 
-<p>I have an <a href="http://gumroad.com/curi">online store</a> where you can buy some of my philosophy work.</p>
 
-<p>My websites:</p>
-<ul>
-  <li><a href="https://fallibleideas.com/">Fallible Ideas</a> (articles)</li>
-  <li><a href="https://curi.us/">Curiosity Blog</a></li>
-  <li><a href="https://beginningofinfinity.com/">The Beginning of Infinity</a> (book by David Deutsch)</li>
-</ul>
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 
-<p>Sign up for my <a href="http://fallibleideas.com/newsletter">email newsletter</a> (2-4 emails/month).</p>
+<div id="mc_embed_signup">
+<form action="http://fallibleideas.us14.list-manage.com/subscribe/post?u=b2e8e68c5818e273d86964fc1&amp;id=9a450fabc1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h3>Get My Fallible Ideas Newsletter</h3>
+	<p>Get 2-4 emails per month with philosophy links and news.</p>
+<div class="mc-field-group">
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_b2e8e68c5818e273d86964fc1_9a450fabc1" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
 
-<!-- Google Analytics -->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-743670-4', 'auto');
-ga('send', 'pageview');
-</script>
-<!-- End Google Analytics -->
+<!--End mc_embed_signup-->
