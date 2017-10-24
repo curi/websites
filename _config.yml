@@ -20,6 +20,7 @@ paginate:         1
 # Custom vars
 version:          1.0.0
 body-css-id:      "elliottemple"
+ga-id:            "UA-743670-4"
 
 
 github:
