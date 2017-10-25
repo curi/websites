@@ -230,7 +230,7 @@ What pessimism? Eddie stated facts. How would faith contrary to reality help any
 
 This is a wonderful reply. You should learn to say things like this. Eddie isn’t defensive about the charge of pessimism. Instead he replies to the implied meaning – that James is unwilling to address the issue.
 
-> "I haven't said that at all. Just as soon as we get the new track-"
+> "I haven't said that at all. Just as soon as we get the new track—“
 
 Eddie just checked on the status of their very delayed order for new track. It’s not coming. James knows that but doesn’t want to admit it. James even tries lying that the rail isn’t late because the current delivery date hasn’t passed yet (but the first two delivery dates already passed).
 
@@ -330,7 +330,7 @@ The focus on money is misleading. It’s better to say that he’s providing oil
 
 And why are we judging his value to society? He’s just living his life and interacting with people on a voluntary basis. And who’s values get to be counted a society’s values, anyway?
 
-> And as for his oil, he'd come crawling to us, and he'd wait his turn along with all the other shippers, and he wouldn't demand more than his fair share of transportation—if it weren't for the Phoenix-Durango. We can't help it if we're up against destructive competition of that kind. Nobody can blame us."
+> “... And as for his oil, he'd come crawling to us, and he'd wait his turn along with all the other shippers, and he wouldn't demand more than his fair share of transportation—if it weren't for the Phoenix-Durango. We can't help it if we're up against destructive competition of that kind. Nobody can blame us."
 
 James wants people to crawl more than he wants to fix his railroad tracks. James wants people to wait on him and be less demanding, rather than to figure out how to meet the demand on schedule. James is angry that someone else is doing a better job at running a railroad than he is. He says there’s nothing he can do about that. Why couldn’t he run his railroad better? What’s to stop him, besides his own bad attitude?
 
@@ -354,7 +354,7 @@ Eddie gives a direct, honest answer, even when it means facing something negativ
 
 Because those departments aren’t taking care of it.
 
->  Why don't you report all this to whoever's concerned?
+> “... Why don't you report all this to whoever's concerned?
 
 Because no one is concerned.
 
@@ -406,11 +406,11 @@ Pop has given up and doesn’t want to clearly identify the reason, let alone tr
 
 The world is falling apart, and hopefully you’re curious about why. The basic point of the book is to help people prevent our own world from falling apart.
 
-> You ought to go home, Eddie, turn on the radio and listen to a good dance band. Forget it, boy.
+> “... You ought to go home, Eddie, turn on the radio and listen to a good dance band. Forget it, boy.
 
 Rand has a problem with dance bands. People use them to shut off their minds. Dagny Taggart prefers better music with good meaning to it instead of anti-mind meaning, as we’ll see in the next scene. (It’s intentional that Rand brought up music like this right before transitioning to Dagny hearing the whistled concerto.)
 
-> Oh well, what's the use? Who is John Galt?"
+> “... Oh well, what's the use? Who is John Galt?"
 
 Pop quickly tells us a bunch more things wrong with the world – and wrong with his own attitude.
 
