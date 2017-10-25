@@ -40,7 +40,7 @@ What kind of beggar isn’t interested in whether he gets money? That’s someth
 
 The bum is weary and resigned, but is (or was) intelligent. In what kind of world does an intelligent person end up as a beggar? And how does that world compare to our own world?
 
-> Eddie Willers ... wonder[ed] why he always felt it at this time of day, this sense of dread without reason.... with no source or object. He had become accustomed to the feeling, but he could find no explanation for it; yet the bum had spoken as if he knew that Eddie felt it, as if he thought that one should feel it, and more: as if he knew the reason.
+> Eddie Willers … wonder[ed] why he always felt it at this time of day, this sense of dread without reason.… with no source or object. He had become accustomed to the feeling, but he could find no explanation for it; yet the bum had spoken as if he knew that Eddie felt it, as if he thought that one should feel it, and more: as if he knew the reason.
 
 This is sure gloomy. And it suggests that one should try to *understand* dread and gloom. Eddie had attempted to explain it, and failed so far, and that’s *important*. Rand is already communicating that ideas matter – and why. Ideas can help you understand gloom (which can help you do something about it).
 
@@ -88,9 +88,9 @@ What low standards Eddie has to consider a street prosperous when around 20-25% 
 
 It’s important that goods be made for men. That’s a pro-human attitude, wanting men to produce things for their own use in order to improve their lives. There are other attitudes possible, like creating objects to sacrifice to the Gods , some of which are illustrated in *Atlas Shrugged*.
 
-> One night, lightning struck the oak tree.... The trunk was only an empty shell; its heart had rotted away long ago; there was nothing inside
+> One night, lightning struck the oak tree.… The trunk was only an empty shell; its heart had rotted away long ago; there was nothing inside
 > 
-> ... It was an immense betrayal—the more terrible because he could not grasp what it was that had been betrayed.
+> … It was an immense betrayal—the more terrible because he could not grasp what it was that had been betrayed.
 
 Eddie would be better able to deal with the world’s problems, like John Galt does, if he organized his own thinking better. He’s pretty helpless against the threats because he doesn’t have the right intellectual tools.
 
@@ -136,7 +136,7 @@ Eddie’s mistaken. Skyscrapers and railroads can be destroyed. They’re very s
 
 As we’ll see in the discussion with James, Eddie is mistaken about this. It’s notable that Eddie still feels this way despite already knowing a great deal about the flaws of the company president.
 
->  Behind sheets of glass, rows of girls sat at typewriters, the clicking of their keys like the sound of speeding train wheels. And like an answering echo, a faint shudder went through the walls at times ... from ... where trains started out to cross a continent and stopped after crossing it again
+>  Behind sheets of glass, rows of girls sat at typewriters, the clicking of their keys like the sound of speeding train wheels. And like an answering echo, a faint shudder went through the walls at times … from … where trains started out to cross a continent and stopped after crossing it again
 
 This is part of the positive description of what goes on inside the Taggart building. Remember it, because there are comments about typewriters coming up later in this chapter.
 
@@ -250,7 +250,7 @@ This is silly because James has just mentioned it himself. They’re both aware 
 
 > "Orren is my friend." He heard no answer. "I resent your attitude. Orren Boyle will deliver that rail just as soon as it's humanly possible. So long as he can't deliver it, nobody can blame us."
 
-James changes the subject so much. Their railroad is falling apart, their customers are leaving, their passengers are scared of wrecks ... and James is talking about his social relationships and trying to deflect responsibility.
+James changes the subject so much. Their railroad is falling apart, their customers are leaving, their passengers are scared of wrecks … and James is talking about his social relationships and trying to deflect responsibility.
 
 > "Jim! What are you talking about? Don't you understand that the Rio Norte Line is breaking up—whether anybody blames us or not?"
 
@@ -330,7 +330,7 @@ The focus on money is misleading. It’s better to say that he’s providing oil
 
 And why are we judging his value to society? He’s just living his life and interacting with people on a voluntary basis. And who’s values get to be counted a society’s values, anyway?
 
-> “... And as for his oil, he'd come crawling to us, and he'd wait his turn along with all the other shippers, and he wouldn't demand more than his fair share of transportation—if it weren't for the Phoenix-Durango. We can't help it if we're up against destructive competition of that kind. Nobody can blame us."
+> “… And as for his oil, he'd come crawling to us, and he'd wait his turn along with all the other shippers, and he wouldn't demand more than his fair share of transportation—if it weren't for the Phoenix-Durango. We can't help it if we're up against destructive competition of that kind. Nobody can blame us."
 
 James wants people to crawl more than he wants to fix his railroad tracks. James wants people to wait on him and be less demanding, rather than to figure out how to meet the demand on schedule. James is angry that someone else is doing a better job at running a railroad than he is. He says there’s nothing he can do about that. Why couldn’t he run his railroad better? What’s to stop him, besides his own bad attitude?
 
@@ -354,7 +354,7 @@ Eddie gives a direct, honest answer, even when it means facing something negativ
 
 Because those departments aren’t taking care of it.
 
-> “... Why don't you report all this to whoever's concerned?
+> “… Why don't you report all this to whoever's concerned?
 
 Because no one is concerned.
 
@@ -390,7 +390,7 @@ How guilty do you think Pop Harper is? Is James horribly guilty, but Pop isn’t
 
 There’s the phrase related to the calendar earlier: your days are numbered.
 
-Earlier, typewriters were presented positively. They help the trains run! But now we discover that the typewriters are breaking and the repair people are ineffective. That’s big trouble if you think back to how typewriters are used in running the company, which was mentioned earlier, and realize what will happen to the trains without typewriters. Perhaps they’ll muddle by with handwritten notes, but it won’t work as well, they’re already having trouble running trains on schedule...
+Earlier, typewriters were presented positively. They help the trains run! But now we discover that the typewriters are breaking and the repair people are ineffective. That’s big trouble if you think back to how typewriters are used in running the company, which was mentioned earlier, and realize what will happen to the trains without typewriters. Perhaps they’ll muddle by with handwritten notes, but it won’t work as well, they’re already having trouble running trains on schedule…
 
 > "It's no use, Eddie," said Pop Harper.
 > 
@@ -406,11 +406,11 @@ Pop has given up and doesn’t want to clearly identify the reason, let alone tr
 
 The world is falling apart, and hopefully you’re curious about why. The basic point of the book is to help people prevent our own world from falling apart.
 
-> “... You ought to go home, Eddie, turn on the radio and listen to a good dance band. Forget it, boy.
+> “… You ought to go home, Eddie, turn on the radio and listen to a good dance band. Forget it, boy.
 
 Rand has a problem with dance bands. People use them to shut off their minds. Dagny Taggart prefers better music with good meaning to it instead of anti-mind meaning, as we’ll see in the next scene. (It’s intentional that Rand brought up music like this right before transitioning to Dagny hearing the whistled concerto.)
 
-> “... Oh well, what's the use? Who is John Galt?"
+> “… Oh well, what's the use? Who is John Galt?"
 
 Pop quickly tells us a bunch more things wrong with the world – and wrong with his own attitude.
 
