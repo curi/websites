@@ -7,13 +7,12 @@ permalink:        /:title
 
 # Setup
 title:            'Learn Objectivism'
-description:      "by Elliot Temple"
-url:              https://fallibleideas.com
+url:              https://learnobjectivism.com
 baseurl:          /
 
 author:
   name:           'Elliot Temple'
-  url:            http://curi.us
+  url:            https://elliottemple.com
 
 paginate:         1
 
