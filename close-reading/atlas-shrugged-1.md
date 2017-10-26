@@ -84,7 +84,7 @@ The reason Eddie wants them protected is because he recognizes they’re in dang
 
 > he liked to see the display of goods, any goods, objects made by men, to be used by men. He enjoyed the sight of a prosperous street; not more than every fourth one of the stores was out of business, its windows dark and empty.
 
-What low standards Eddie has to consider a street prosperous when around 20-25% of the stores are out of business!
+What low standards Eddie has to consider a street prosperous when around 20-25% of the stores are out of business! And this is New York City! Just like in real life, it’s one of the *best* cities…
 
 It’s important that goods be made for men. That’s a pro-human attitude, wanting men to produce things for their own use in order to improve their lives. There are other attitudes possible, like creating objects to sacrifice to the Gods , some of which are illustrated in *Atlas Shrugged*.
 
