@@ -4,7 +4,11 @@ title: Reason and Morality
 permalink: /reason-and-morality/
 ---
 
-# Part 1: Reason
+# Reason and Morality
+
+An outline of philosophy with links to learn more! By [Elliot Temple](https://elliottemple.com/).
+
+## Reason
 
 + Error
   + [Fallibility](http://curi.us/1990-explaining-popper-on-fallible-scientific-knowledge)
@@ -121,7 +125,7 @@ permalink: /reason-and-morality/
     + [Bad correlation study perfect pitch drug](https://curi.us/1822-curi-reads-a-correlation-study)
 
 
-# Part 2: Morality
+## Morality
 
 + Good
   + [What is Good?](http://curi.us/1345-practical-morality)
@@ -181,7 +185,7 @@ permalink: /reason-and-morality/
     + [Conforming to a social role](http://fallibleideas.com/social-life)
 
 
-# Part 3: Liberalism
+## Liberalism
 
 + Freedom
   + [Rights](http://aynrandlexicon.com/lexicon/individual_rights.html)

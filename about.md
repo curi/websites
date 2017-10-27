@@ -7,4 +7,4 @@ Website by philosopher [Elliot Temple](https://elliottemple.com) ([elliot@fallib
 
 Want to learn more? I have an [email newsletter](https://fallibleideas.com/newsletter), a [discussion group](https://fallibleideas.com/discussion-info) and [book recommendations](https://fallibleideas.com/books).
 
-Thanks to [Alan Forrester](https://conjecturesandrefutations.com) for gathering links.
+[Alan Forrester](https://conjecturesandrefutations.com) and [Justin Mallone](http://justinmallone.com/) gathered most of the links.
