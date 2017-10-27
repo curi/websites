@@ -4,8 +4,6 @@ title: Reason and Morality
 permalink: /reason-and-morality/
 ---
 
-# Reason and Morality
-
 An outline of philosophy with links to learn more! By [Elliot Temple](https://elliottemple.com/).
 
 ## Reason
