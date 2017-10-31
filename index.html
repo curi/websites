@@ -6,7 +6,6 @@ title: Home
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post" {% if post.css-id != nil %} id="{{ post.css-id }}"{% endif %}>
-    <h1 class="page-title">{{ post.header | default: post.title }}</h1>
     {{ post.content }}
   </div>
   {% endfor %}

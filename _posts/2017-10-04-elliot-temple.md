@@ -6,7 +6,9 @@ css-id: home
 
 ![](https://curi.us/files/philosophy-tree.png)
 
-I'm a philosopher. The diagram shows the intellectual traditions I'm building on.
+# Elliot Temple
+
+I'm a philosopher. The diagram above shows the intellectual traditions I'm building on.
 
 Contact: [et@elliottemple.com](mailto:et@elliottemple.com)
 
