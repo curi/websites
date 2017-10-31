@@ -6,7 +6,13 @@ css-id: home
 
 Hi, I'm Elliot Temple, philosopher. Contact: [et@elliottemple.com](mailto:et@elliottemple.com)
 
-I sell [educational philosophy material](/store) and [philosophy consulting](/consulting).
+I sell [educational philosophy material](/store) and [philosophy consulting](/consulting). I have:
+
+- [Discussion Group](http://fallibleideas.com/discussion)
+- [YouTube Channel](https://www.youtube.com/user/curi42/playlists)
+- [Podcast](https://curi.us/podcast/)
+- [Twitter](https://twitter.com/curi42/with_replies)
+- [Free eBooks](http://curi.us/ebooks)
 
 ## Websites
 
