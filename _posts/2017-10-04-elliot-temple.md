@@ -18,7 +18,7 @@ Free philosophy articles. Includes [reading recommendations]().
 
 I write about philosophy and I use philosophy to understand other fields like politics, parenting, relationships and psychiatry.
 
-## <a href="https://reasonandmorality.com/">Reason and Morality</a>
+## <a href="https://reasonandmorality.com/">Reason &amp; Morality</a>
 
 An outline of philosophy with links to learn more.
 
