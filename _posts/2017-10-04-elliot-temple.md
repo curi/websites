@@ -4,15 +4,19 @@ title: Elliot Temple
 css-id: home
 ---
 
-Hi, I'm Elliot Temple, philosopher. Contact: [et@elliottemple.com](mailto:et@elliottemple.com)
+![](https://curi.us/files/philosophy-tree.png)
+
+I'm a philosopher. The diagram shows the intellectual traditions I'm building on.
+
+Contact: [et@elliottemple.com](mailto:et@elliottemple.com)
 
 I sell [educational philosophy material](/store) and [philosophy consulting](/consulting). I have:
 
-- [Discussion Group](http://fallibleideas.com/discussion)
+- [Discussion Group](https://fallibleideas.com/discussion)
 - [YouTube Channel](https://www.youtube.com/user/curi42/playlists)
 - [Podcast](https://curi.us/podcast/)
 - [Twitter](https://twitter.com/curi42/with_replies)
-- [Free eBooks](http://curi.us/ebooks)
+- [Free eBooks](https://curi.us/ebooks)
 
 ## Websites
 
