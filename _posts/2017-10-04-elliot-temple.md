@@ -1,13 +1,38 @@
 ---
 layout: post
 title: Elliot Temple
+css-id: home
 ---
 
-<p>Hi, I'm Elliot Temple. I'm a philosopher, gamer and programmer. Contact: <a href="mailto:curi@curi.us">curi@curi.us</a></p>
+Hi, I'm Elliot Temple, philosopher. Contact: [et@elliottemple.com](mailto:et@elliottemple.com)
 
-<p>I do philosophy consulting. I'm the best in the world. I provide better answers, better questions, or a whole rational philosophy for life. I give advice, guidance for learning, explanations of other philosophers, true criticism regarding issues in any field. <a href="mailto:curi@curi.us">Email me</a>.</p>
+I sell [educational philosophy material]() and you can hire me for [philosophy consulting]().
 
-<p>I also do contract programming. Ruby, Rails, websites, iOS. <a href="mailto:curi@curi.us">Email me</a>.</p>
+My philosophy websites are:
+
+## <a href="https://fallibleideas.com">Fallible Ideas</a>
+
+Free philosophy articles. Includes [reading recommendations]().
+
+## <a href="https://curi.us">Curiosity Blog</a>
+
+I write about philosophy and I use philosophy to understand other fields like politics, parenting, relationships and psychiatry.
+
+## <a href="https://reasonandmorality.com/">Reason and Morality</a>
+
+An outline of philosophy with links to learn more.
+
+## <a href="https://yesornophilosophy.com">Yes or No Philosophy</a>
+
+My most important contribution to epistemology (the philosophy of knowledge).
+
+## <a href="https://learnobjectivism.com">Learn Objectivism</a>
+
+Learn about Ayn Rand's philosophy. I consider Objectivism and Critical Rationalism (by Karl Popper) the most important philosophies by far.
+
+## <a href="https://beginningofinfinity.com/">The Beginning of Infinity</a>
+
+Info about my colleague David Deutsch's great book. I wrote over 250 pages of comments and edits during the writing process.
 
 
 <!-- Begin MailChimp Signup Form -->
@@ -16,7 +41,7 @@ title: Elliot Temple
 <div id="mc_embed_signup">
 <form action="http://fallibleideas.us14.list-manage.com/subscribe/post?u=b2e8e68c5818e273d86964fc1&amp;id=9a450fabc1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h3>Get My Fallible Ideas Newsletter</h3>
+	<h3>Fallible Ideas Newsletter</h3>
 	<p>Get 2-4 emails per month with philosophy links and news.</p>
 <div class="mc-field-group">
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address">
