@@ -6,31 +6,31 @@ css-id: home
 
 Hi, I'm Elliot Temple, philosopher. Contact: [et@elliottemple.com](mailto:et@elliottemple.com)
 
-I sell [educational philosophy material]() and you can hire me for [philosophy consulting]().
+I sell [educational philosophy material](/store) and [philosophy consulting](/consulting).
 
-My philosophy websites are:
+## Websites
 
-## <a href="https://fallibleideas.com">Fallible Ideas</a>
+### <a href="https://fallibleideas.com">Fallible Ideas</a>
 
-Free philosophy articles. Includes [reading recommendations]().
+Free philosophy articles. Includes [reading recommendations](http://fallibleideas.com/books).
 
-## <a href="https://curi.us">Curiosity Blog</a>
+### <a href="https://curi.us">Curiosity Blog</a>
 
 I write about philosophy and I use philosophy to understand other fields like politics, parenting, relationships and psychiatry.
 
-## <a href="https://reasonandmorality.com/">Reason &amp; Morality</a>
+### <a href="https://reasonandmorality.com/">Reason &amp; Morality</a>
 
 An outline of philosophy with links to learn more.
 
-## <a href="https://yesornophilosophy.com">Yes or No Philosophy</a>
+### <a href="https://yesornophilosophy.com">Yes or No Philosophy</a>
 
 My most important contribution to epistemology (the philosophy of knowledge).
 
-## <a href="https://learnobjectivism.com">Learn Objectivism</a>
+### <a href="https://learnobjectivism.com">Learn Objectivism</a>
 
 Learn about Ayn Rand's philosophy. I consider Objectivism and Critical Rationalism (by Karl Popper) the most important philosophies by far.
 
-## <a href="https://beginningofinfinity.com/">The Beginning of Infinity</a>
+### <a href="https://beginningofinfinity.com/">The Beginning of Infinity</a>
 
 Info about my colleague David Deutsch's great book. I wrote over 250 pages of comments and edits during the writing process.
 
