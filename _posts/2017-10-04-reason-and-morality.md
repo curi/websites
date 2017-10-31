@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reason and Morality
+title: Reason & Morality
 permalink: /reason-and-morality/
 ---
 
