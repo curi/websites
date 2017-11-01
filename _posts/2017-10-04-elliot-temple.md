@@ -8,7 +8,7 @@ css-id: home
 
 # Elliot Temple
 
-I'm a philosopher. The diagram above shows the intellectual traditions I'm building on.
+I'm a philosopher. The diagram above shows the most important intellectual traditions I build on.
 
 Contact: [et@elliottemple.com](mailto:et@elliottemple.com)
 
