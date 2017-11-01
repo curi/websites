@@ -18,13 +18,13 @@ I sell [educational philosophy material](/store) and [philosophy consulting](/co
 - [YouTube Channel](https://www.youtube.com/user/curi42/playlists)
 - [Podcast](https://curi.us/podcast/)
 - [Twitter](https://twitter.com/curi42/with_replies)
-- [Free eBooks](https://curi.us/ebooks)
+- [eBooks](https://curi.us/ebooks)
 
 ## Websites
 
 ### <a href="https://fallibleideas.com">Fallible Ideas</a>
 
-Free philosophy articles. Includes [reading recommendations](http://fallibleideas.com/books).
+Philosophy articles, including [reading recommendations](http://fallibleideas.com/books).
 
 ### <a href="https://curi.us">Curiosity Blog</a>
 
