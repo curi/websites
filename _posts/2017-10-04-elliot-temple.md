@@ -15,7 +15,7 @@ Contact: [et@elliottemple.com](mailto:et@elliottemple.com)
 I sell [educational philosophy material](/store) and [philosophy consulting](/consulting). I have:
 
 - [Discussion Group](https://fallibleideas.com/discussion)
-- [YouTube Channel](https://www.youtube.com/user/curi42/playlists)
+- [YouTube](https://www.youtube.com/user/curi42/playlists)
 - [Podcast](https://curi.us/podcast/)
 - [Twitter](https://twitter.com/curi42/with_replies)
 - [eBooks](https://curi.us/ebooks)
