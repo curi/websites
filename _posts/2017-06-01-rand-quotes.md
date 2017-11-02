@@ -3,9 +3,8 @@ layout: post
 title: Ayn Rand Quotes
 permalink: /rand-quotes
 tags: sidebar
+header: Atlas Shrugged Quotes
 ---
-
-# Atlas Shrugged Quotes
 
 Ayn Rand's heroes are willing to ask and answer clear questions, but her villains aren't.
 

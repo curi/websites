@@ -3,9 +3,8 @@ layout: post
 title: Argument
 permalink: /argument
 tags: sidebar
+header: Yes or No Philosophy Argument
 ---
-
-# Yes or No Philosophy Argument
 
 A main problem in the philosophy of knowledge is *judging ideas*. Which ideas are good or bad? Which are knowledge?
 
