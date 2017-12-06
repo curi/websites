@@ -18,7 +18,7 @@ My comments often use exact words from the text which I didn’t quote. You may 
 
 The novel opens with a sentence you won’t understand yet, but which is important throughout the book. Then it gives some hints. Eddie has *causeless uneasiness*.
 
-Eddie asks the bum why he said it with a *tense* voice. The bum replies:
+Eddie has a *tense* voice when he asks why the bum said it. The bum replies:
 
 > "Why does it bother you?"
 
@@ -76,7 +76,7 @@ The phrase Eddie fails to remember here is “your days are numbered”. The phr
 
 > Eddie Willers shifted his glance down to the street, to a vegetable pushcart at the stoop of a brownstone house. He saw a pile of bright gold carrots and the fresh green of onions. He saw a clean white curtain blowing at an open window. He saw a bus turning a corner, expertly steered. He wondered why he felt reassured—and then, why he felt the sudden, inexplicable wish that these things were not left in the open, unprotected against the empty space above.
 
-Eddie doesn’t understand philosophy well enough. He knows that expert steering, bright carrots, fresh onions and clean curtains are good, but he doesn’t know why clearly enough. He’d have trouble putting it in worlds. Most readers are like that, too. They know those things are good, but they don’t know enough about why. The reasons get into philosophy, and the book can help you learn them.
+Eddie doesn’t understand philosophy well enough. He knows that expert steering, bright carrots, fresh onions and clean curtains are good, but he doesn’t know why clearly enough. He’d have trouble putting it in words. Most readers are like that, too. They know those things are good, but they don’t know enough about why. The reasons get into philosophy, and the book can help you learn them.
 
 The reason Eddie wants them protected is because he recognizes they’re in danger. He’s aware of grimy and cracked skyscrapers. Something’s wrong, and not everything in the world is clean or productive. However, Eddie doesn’t know the nature of the danger. The danger doesn’t come from the sky, and putting things indoors can’t protect them. The danger is bad philosophy, and it takes good philosophy to protect values like food.
 
@@ -100,7 +100,7 @@ Why would the past be better than the present? And why is Eddie clinging to memo
 
 > The words were harsh and glowing, like the sunlight. He listened in admiration and in wonder. When he was asked what he would want to do, he answered at once, "Whatever is right," and added, "You ought to do something great . . . I mean, the two of us together."
 
-Glowing like the sun is good, but being harsh is bad. Right? So there’s an apparently a contradiction here! The negativity people have towards harshness is something Rand questions. We’ll find out more about Dagny Taggart later, and be able to judge for ourselves in what ways she is and isn’t harsh, and whether that’s good. (Note you’ll have to *remember* to consider this issue again later. You’ll learn more if you take )
+Glowing like the sun is good, but being harsh is bad. Right? So apparently there’s a contradiction here! The negativity people have towards harshness is something Rand questions. We’ll find out more about Dagny Taggart later, and be able to judge for ourselves in what ways she is and isn’t harsh, and whether that’s good. (Note you’ll have to *remember* to consider this issue again later. You’ll learn more if you take notes to keep track of issues to revisit.)
 
 Eddie, like most people, doesn’t expect to do great things, but at least he tries to be a good person.
 
