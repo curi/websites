@@ -432,7 +432,7 @@ The phrase “head thrown back” is used five times in *Atlas Shrugged*. Four a
 
 Why does it matter that the window frame is trembling? The train is going fast, and that’s impressive. Trains are powerful technology.
 
-The darkness indicates there’s plenty of space in the country for growth. There’s room for new cities. The train and is great, and there are some lights (which indicate electricity and civilization), but there’s so much more to do.
+The darkness indicates there’s plenty of space in the country for growth. There’s room for new cities. The train is great, and there are some lights (which indicate electricity and civilization), but there’s so much more to do.
 
 The train can function in the dark, and so can people with electric lights. This is an example of man’s triumph over natural conditions like darkness. That’s one of the main things technology does – it makes the world more to our liking instead of how the world *naturally* happens to be. This comes up again throughout the book, e.g. when Francisco D’Anconia offers gratitude to Hank Rearden on a stormy night (part 1, ch. 6):
 
