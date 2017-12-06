@@ -831,7 +831,7 @@ James doesn’t want to take responsibility for his own policies! Being anti-res
 > 
 > “That’s a lie!” His voice was almost a scream. “That’s nothing but vicious rumors! I have it on very good inside authority that—”
 
-James has “authority” instead of judgement about the nationalization. Dagny has judgement; she turns out to be right. You might consider: Dagny is right over and over (and was before the book started), so why doesn’t James consider *her judgement* to be an authority to listen to? What sort of authorities does he listen to, and why them? And what sort of authorities *do* you listen to, and what’s the difference between your way of choosing authorities and James’ way?
+James has “authority” instead of *judgement* about the nationalization. Dagny has judgement; she turns out to be right. You might consider: Dagny is right over and over (and was before the book started), so why doesn’t James consider *her judgement* to be an authority to listen to? What sort of authorities does he listen to, and why them? And what sort of authorities *do* you listen to, and what’s the difference between your way of choosing authorities and James’ way?
 
 > “Don’t show that you’re scared, Jim,” she said contemptuously.
 > 
@@ -893,7 +893,7 @@ James wants to delay action indefinitely; reality won’t wait.
 > 
 > “I don’t give a damn about your opinion. I am not going to argue with you, with your Board or with your professors. You have a choice to make and you’re going to make it now. Just say yes or no.”
 
-[[Yes or no]] is an important issue. Ultimately you have to make decisions: decide *yes* for something, and *no* for the alternatives. People often try to avoid this and make their decisions unclear.
+[Yes or no](https://yesornophilosophy.com) is an important issue. Ultimately you have to make decisions: decide *yes* for something, and *no* for the alternatives. People often try to avoid this and make their decisions unclear.
 
 Do you respect professors more than Dagny does? If you do, perhaps you should reconsider. What do you actually know about professors? How are they portrayed in the story, and what knowledge do you actually have that many professors are different? How much is the government involved with the universities in your country, and could that harm their ability to do science and other scholarship in an objective, effective way?
 
