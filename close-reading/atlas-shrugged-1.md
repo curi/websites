@@ -6,7 +6,7 @@ header: Atlas Shrugged Close Reading
 category: close-reading
 ---
 
-I want to show how much interesting stuff Rand’s writing contains. *Every* sentence has a purpose. But it’s a *huge* project to comment on all of it. So I went through four chapters of *Atlas Shrugged* to show what being *thorough* is like. If you read well, look closely, and think things over, then you could notice this much great stuff in every chapter.
+I want to show how much interesting stuff Rand’s writing contains. *Every* sentence has a purpose. But it’s a *huge* project to comment on all of it. So I went through four chapters of [Atlas Shrugged](https://www.amazon.com/Atlas-Shrugged-Ayn-Rand-ebook/dp/B003V8B5XO?tag=curi04-20) to show what being *thorough* is like. If you read well, look closely, and think things over, then you could notice this much great stuff in every chapter.
 
 **These comments contain spoilers.** This is intended only for someone who’s already read the whole book, and I point things out that I wouldn’t expect anyone to catch on their first reading.
 
