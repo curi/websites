@@ -520,7 +520,7 @@ Contrasts between nature and civilization are common throughout the book, e.g. w
 
 Similarly, characters in Galt’s Gulch talk about what they’re going to build, and what can be done with undeveloped land and resources. When Dagny visits, she talks about how they could create a small railroad track there to improve it. And when she first tries to retire, she keeps thinking of productive projects and then stopping herself (and the stopping herself is torture). And Dagny wants not just a continent, but a continent with a Rearden Metal track across it from ocean to ocean. She wants a *better* continent, an *improved* continent, which is more suitable for human life than the natural state of the continent.
 
-The speed which weeds swallow things in this passage is important too. Civilization has to be maintained! Civilization can fall apart faster than most people realize if the wrong ideas are followed. We later learn what ideas the 20th Century Motor Company followed to bring ruin to this area. It’s one of many ideas of the tangible, concrete power of ideas (the invention and consequences of Rearden Metal are another example).
+The speed which weeds swallow things in this passage is important too. Civilization has to be maintained! Civilization can fall apart faster than most people realize if the wrong ideas are followed. We later learn what ideas the 20th Century Motor Company followed to bring ruin to this area. It’s one of many examples of the tangible, concrete power of ideas (the invention and consequences of Rearden Metal are another example).
 
 > they seemed to be waiting in placid indifference.
 
@@ -680,7 +680,7 @@ James is like the Comet crew: he doesn’t want to take responsibility for actio
 
 > If she were insane, thought Dagny, she would conclude that her brother hated to deal with Rearden because Rearden did his job with superlative efficiency; but she would not conclude it, because she thought that such a feeling was not within the humanly possible.
 
-Is it possible? The book explains that it is. This is something interesting to be kept in mind as reading, and learn more about as you go. There’s also some more information about this immediately:
+Is it possible? The book explains that it is. This is something interesting to be kept in mind as reading, and to learn more about as you go. There’s also some more information about this immediately:
 
 > “It isn’t fair,” said James Taggart.
 > 
@@ -720,7 +720,7 @@ Why would Dagny order something with no customers? Is it good or bad? Is everyon
 > 
 > “But . . .” said Taggart, “but . . . but nobody’s ever used it before!”
 
-James is so intellectually outclassed. Dagny knows what she’s talking about and has confidence to match. James tries to stand up to her anyway instead of appreciating her competence and being glad someone knows what they’re doing. Dagny should be rewarded for her knowledge and initiative; but she isn’t, and she puts up with it. Why would she put up with this mistreatment, and should she? We find out later: she puts up with it because she wants to run the railroad; but no she shouldn’t.
+James is so intellectually outclassed. Dagny knows what she’s talking about and has confidence to match. James tries to stand up to her anyway instead of appreciating her competence and being glad someone knows what they’re doing. Dagny should be rewarded for her knowledge and initiative; but she isn’t, and she puts up with it. Why would she put up with this mistreatment, and should she? We find out later: she puts up with it because she wants to run the railroad, but she's making a mistake.
 
 > He observed, with satisfaction, that she was silenced by anger. He liked to observe emotions; they were like red lanterns strung along the dark unknown of another’s personality, marking vulnerable points.
 
@@ -774,7 +774,7 @@ She looked at Rearden’s formula. She uses her mind to judge things instead of 
 
 Dagny wants to be a pioneer; James actively wants to *not* be a pioneer (he’s not indifferent, he’s hostile to it). Are you a pioneer? If you aspire to be a pioneer, you can observe the characters in the book and learn what kinds of things are compatible and incompatible with being a pioneer.
 
-Do you make judgements and have confidence in the power of your mind? Are are you never really sure of anything? That’s not some abstract issue; it has major importance in what kind of life you have. Things like that are the difference between living like Dagny or James.
+Do you make judgements and have confidence in the power of your mind? Are you never really sure of anything? That’s not some abstract issue; it has major importance in what kind of life you have. Things like that are the difference between living like Dagny or James.
 
 > “Do you want to save the Rio Norte Line or not?” He did not answer.
 
