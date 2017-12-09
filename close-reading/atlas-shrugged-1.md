@@ -14,7 +14,7 @@ My comments often use exact words from the text which I didn’t quote. You may 
 
 # Chapter 1 – The Theme
 
->>>> "Who is John Galt?"
+> "Who is John Galt?"
 
 The novel opens with a sentence you won’t understand yet, but which is important throughout the book. Then it gives some hints. Eddie has *causeless uneasiness*.
 
