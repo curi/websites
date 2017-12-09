@@ -14,7 +14,7 @@ My comments often use exact words from the text which I didn’t quote. You may 
 
 # Chapter 1 – The Theme
 
-> "Who is John Galt?"
+>>>> "Who is John Galt?"
 
 The novel opens with a sentence you won’t understand yet, but which is important throughout the book. Then it gives some hints. Eddie has *causeless uneasiness*.
 
@@ -429,6 +429,7 @@ Why is her head thrown back? That’s a sign of confidence or joy. It’s like s
 Note that Dagny sitting at a train window with her head thrown back is repeated as the opening of part 2, ch. 10:
 
 > She sat at the window of the train, her head thrown back, not moving, wishing she would never have to move again.
+{: .secondary}
 
 The difference in her attitude is important and relates to the problems she’s encountered as the book continues.
 
@@ -455,6 +456,7 @@ The train can function in the dark, and so can people with electric lights. This
 > Rearden’s voice hardened. “I haven’t asked for gratitude. I don’t need it.”
 > 
 > “I have not said you needed it. But of all those whom you are saving from the storm tonight, I am the only one who will offer it.”
+{: .secondary}
 
 Returning to ch. 1, Dagny wears an expensive, old coat; she hasn’t bothered to replace it. She doesn’t pay much attention to feminine concerns, but does have some feminine elements: she’s wearing stockings and heels. This fits the rest of the book: much of the time she could be a male character, but not always. She’s listening to music:
 
@@ -521,6 +523,7 @@ Contrasts between nature and civilization are common throughout the book, e.g. w
 > It was the only thing left visible. The few **charred posts, the slab of concrete and the sparkle of glass dust**—which had been a gas station—were swallowed in the brush, not to be noticed except by a careful glance, **not to be seen at all in another year**.
 > 
 > They looked away. They drove on, not wanting to know what else lay hidden under the miles of weeds. They felt the same wonder like a weight in the silence between them: **wonder as to how much the weeds had swallowed and how fast**.
+{: .secondary}
 
 Similarly, characters in Galt’s Gulch talk about what they’re going to build, and what can be done with undeveloped land and resources. When Dagny visits, she talks about how they could create a small railroad track there to improve it. And when she first tries to retire, she keeps thinking of productive projects and then stopping herself (and the stopping herself is torture). And Dagny wants not just a continent, but a continent with a Rearden Metal track across it from ocean to ocean. She wants a *better* continent, an *improved* continent, which is more suitable for human life than the natural state of the continent.
 
@@ -969,6 +972,7 @@ Rand uses lots of metaphors about motors and motion, and it also has literal mea
 > “ … of what use is a railroad without **motive power**?”
 > 
 > “Of what use is **anything**, for that matter, without it?”
+{: .secondary}
 
 Without motors we’d have animals. (“She had forgotten the literal shape and usage of horsepower; she did not like to see its return.”) And without that, people pushing plows by hand (“In a distant field, beyond the town, they saw the figure of a man moving slowly, contorted by the ugliness of a physical effort beyond the proper use of a human body: he was pushing a plow by hand.”).
 

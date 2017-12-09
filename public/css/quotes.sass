@@ -2,7 +2,7 @@
 
 ---
 
-$qcolors: #FFF6DB 1, #dfd 2, #ddf 3, #dff 4, #ffd 5, #fdf 6
+$qcolors: #FFF6DB 1, #e8ffe8 2, #efefff 3, #fdd 4, #ffc 5, #fdf 6
 
 $bquote: ""
 
@@ -10,8 +10,10 @@ $bquote: ""
   $i: nth($t, 2)
   $bquote: if($i == 1, "blockquote", selector_nest($bquote, "blockquote")) !global
   $bgc: nth($t, 1)
-  $bc: darken($bgc, 35%)
+  $darkening: if($i == 2, 55%, 35%)
+  $bc: darken($bgc, $darkening)
+  $color: if($i == 2, ", blockquote.secondary", "")
 
-  body #{$bquote}
+  body #{$bquote + $color}  
     background-color: $bgc
     border-color: $bc
