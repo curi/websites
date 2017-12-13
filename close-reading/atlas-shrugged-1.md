@@ -1026,7 +1026,11 @@ This was the first line of the chapter and the last line of Eddie’s section, a
 
 This comment is actually literal: John Galt is the man who persuaded Kellogg to quit.
 
----- 
+---
+
+Read [chapter 2 analysis](/atlas-shrugged-chapter-2).
+
+--- 
 
 Some of you are thinking to yourselves, “This is good. I like it. But I already knew most of it.” If so, I’ve got a challenge for you. Write your own analysis, like this, for chapter 2. See how well you can do it on your own, then compare to my analysis.
 
