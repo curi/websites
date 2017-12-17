@@ -14,7 +14,7 @@ This analysis of [Atlas Shrugged](https://www.amazon.com/Atlas-Shrugged-Ayn-Ran
 
 “It” is Rearden Steel. The lights are “brilliant” (one of several positive, light-based English words, like “illuminating”), but the passengers aren’t interested. Lights are built for a human purpose; they aren’t a feature of empty plains; but still the passengers aren’t interested.
 
-Light enables human sight; seeing the world enables the human mind to understand it and take rational action (not automatically, one has to choose to see and to think). Lights are an important enabler of steel mills, and of human minds, and these two facts are related.
+Light enables human sight; seeing the world enables the human mind to understand it and take rational action (though not automatically, since one has to choose to see and to think). Lights are an important enabler of steel mills, and of human minds, and these two facts are related.
 
 > the passengers saw distant structures under a faint, reddish glow in the sky; the glow moved in irregular spasms, as if the structures were **breathing**.
 
@@ -28,7 +28,7 @@ This is an unnatural sight, which is an indicator of a significant human achieve
 
 Why don’t they see humans? There’s some automation, there’s some efficiency (a small number of people doing a big job), and it’s also a matter of scale: the mills are much larger than people, so, in terms of size, people are only a small fraction of the thing being observed.
 
-Why don’t the passengers grasp the complexity of what they see? Partly they aren’t familiar with the steel industry, and partly they have the wrong philosophy. They aren’t great at the methods of thinking (reason); they don’t respect steel mills enough (and more broadly they don’t respect industry, technology, and capitalism enough); and they don’t care enough about understanding (they don’t see complexity and really, strongly *want* to understand it, as they ought to). People should be trying to understand things all the time, but most of them find thinking painful and commonly avoid using their minds.
+Why don’t the passengers grasp the complexity of what they see? Partly they aren’t familiar with the steel industry, and partly they have the wrong philosophy. They aren’t great at the methods of thinking (reason); they don’t respect steel mills enough (or industry, technology, or capitalism); and they don’t care enough about understanding (they don’t see complexity and really, strongly *want* to understand it, as they ought to). People should be trying to understand things all the time, but most of them find thinking painful and commonly avoid using their minds.
 
 > They saw a line of glowing cylinders moving through the night; the cylinders were red-hot metal.
 
@@ -80,7 +80,7 @@ What is the metal obedient to? Rearden and his engineers. What controls the meta
 
 Rand speaks directly about the “conscious intention” that controls the “power to annihilate” in the next paragraph:
 
-> Two hundred tons of a metal which was to be harder than steel, running liquid at a temperature of** four thousand degrees**, had the **power to annihilate** every wall of the structure and every one of the men who worked by the stream. But every inch of its course, every pound of its pressure and the content of every molecule within it, were **controlled and made by a conscious intention** that had worked upon it for ten years.
+> Two hundred tons of a metal which was to be harder than steel, running liquid at a temperature of **four thousand degrees**, had the **power to annihilate** every wall of the structure and every one of the men who worked by the stream. But every inch of its course, every pound of its pressure and the content of every molecule within it, were **controlled and made by a conscious intention** that had worked upon it for ten years.
 
 This theme comes up elsewhere, e.g. in Galt’s speech (part 3, ch. 7):
 
@@ -227,7 +227,7 @@ Hank’s employees made different choices with less strain, agony, risk, respons
 
 > As he touched [the Rearden Metal bracelet for his wife], he realized suddenly that he had thought of an abstraction called “his wife”—not of the woman to whom he was married. He felt a stab of regret, **wishing he had not made the bracelet**, then a wave of self-reproach for the regret.
 
-Something is wrong here. This should stand out and get the reader interested in figuring out what’s going on. This is another early lead to keep track of an analyze as more information is available. Actions like (keeping track, following up later with more consideration of the matter) that are necessary to understand the book well.
+Something is wrong here. This should stand out and get the reader interested in figuring out what’s going on. This is another early lead to keep track of an analyze as more information is available. Actions like that (keeping track, following up later with more consideration of the matter) are necessary to understand the book well.
 
 Hank’s emotions have some wisdom he doesn’t consciously understand. A wife and a career shouldn’t be disconnected, unrelated things. They’re both parts of his one life. He should have a wife who appreciates his productivity.
 
@@ -361,7 +361,7 @@ This is another mean conversational joke. It has some meaning, but the meaning i
 
 This is a big slander from his own brother. Hank is lenient with family, but they don’t seem to value family like Hank does. They aren’t extra nice to Hank because he’s family; they are *less* nice to Hank than they ought to be.
 
-Drowning is a particularly better metaphor here. It brings up the concept of *death*, but Hank’s work improves *life*.
+Drowning is a particularly bad metaphor here. It brings up the concept of *death*, but Hank’s work improves *life*.
 
 Hank does some of the best work in the world, and he’s very successful, and he comes home to comments telling him to stop and do something else unimportant.
 
@@ -403,11 +403,11 @@ A great man is on the defensive again. How could he let that happen to him? What
 
 > “You’re not sorry. You could’ve been here if you’d made the effort. But when did you **ever make an effort for anybody but yourself**? You’re not interested in any of us or in anything we do. You think that if you pay the bills, that’s enough, don’t you? **Money!** That’s all you know. And all you give us is money. Have you ever given us any time?”
 
-Money is good (see [[Francisco’s speech about it]]). Hank should stand up for money, and not associate with people who attack it.
+Money is good (see [Francisco’s speech about it](http://capitalismmagazine.com/2002/08/franciscos-money-speech/)). Hank should stand up for money, and not associate with people who attack it.
 
 Hank should be proud of his money, and say so. His values – like that money is related to life-enhancing productive achievement which helps people – should be prominent throughout his whole life. Instead, Hank has something of a double life; his home life operates according to different rules than his work life (which is why he doesn’t enjoy coming home).
 
-The attack on Hank for paying their bills is ridiculous. It implies it takes no effort for Hank to make money, which is false. It suggests paying the bills isn’t valuable to his family – but if he stopped paying the bills, it’d be immediately revealed that they *do* care if he pay the bills after all (we find out about this later when Hank’s bank accounts are frozen). And it suggests Hank’s work doesn’t help others – but it helps everyone who e.g. rides on rails he produced, or eats food transported on those rails, or uses a building with structural metal Hank produced, or heats their home with coal from a mine with metal bracings he produced.
+The attack on Hank for paying their bills is ridiculous. It implies it takes no effort for Hank to make money, which is false. It suggests paying the bills isn’t valuable to his family – but if he stopped paying the bills, it’d be immediately revealed that they *do* care if he pays the bills, after all (we find out about this later when Hank’s bank accounts are frozen). And it suggests Hank’s work doesn’t help others – but it helps everyone who e.g. rides on rails he produced, or eats food transported on those rails, or uses a building with structural metal Hank produced, or heats their home with coal from a mine with metal bracings he produced.
 
 > If this meant that she missed him, he thought, then it meant affection, and if it meant affection, then he was unjust to experience a heavy, **murky feeling** which kept him silent lest his voice betray that the feeling was **disgust**.
 
@@ -491,7 +491,7 @@ The *intention* is not the point, the point really is the gift: it’s good and 
 
 > “The intention’s plain selfishness, if you ask me,” said Rearden’s mother. “Another man would bring a **diamond** bracelet, if he wanted to give his wife a present, because it’s her pleasure he’d think of, not his own. But Henry thinks that just because he’s made a **new kind of tin**, why, it’s got to be more precious than diamonds to everybody, **just because it’s he that’s made it**. That’s the way he’s been since he was five years old—the most **conceited** brat you ever saw—and I knew he’d grow up to be the most selfish creature on God’s earth.”
 
-This is full of lies. Hank thinks Rearden Metal should be precious to others *because it’s an objective value*. It can improve other people’s lives by giving them better railroad tracks, airplanes, cars, kettles, spoons, bridges, and so on. It’s not just “a new kind of tin”, she’s trying to falsely diminish his achievement.
+This is full of lies. Hank thinks Rearden Metal should be precious to others *because it’s an objective value*. It can improve other people’s lives by giving them better railroad tracks, airplanes, cars, kettles, spoons, bridges, and so on. It’s not just “a new kind of tin”; she’s trying to falsely diminish his achievement.
 
 Hank expected his wife to share his values and appreciate Rearden Metal. He expected to have the kind of wife who’d prefer it to a diamond bracelet – as Dagny rightly does. He’s confused by the reality of his wife, who has bad values and doesn’t deserve him. So he got her a gift she should want, because he overestimates her. This is a matter of his confusion and her immorality, not the kind of conceit he’s accused of.
 
@@ -529,7 +529,7 @@ Hank should be called *self-sufficient* not “selfish”.
 
 > it was they who wished to hold him, they who pressed a **claim** on him—and the claim seemed to have the form of affection, but it was a form which he found harder to endure than any sort of hatred. He despised **causeless affection**, just as he despised **unearned wealth**. They professed to love him for some unknown reason and they ignored all the things for which he could wish to be loved. 
 
-They don’t love Rearden Metal. They try to drag Hank down to the level where there’s nothing to love a man for but that he’s your “brother”, “son”, or “husband”. They want everyone to be [[equally shabby]] and worthless. They don’t want to look bad by comparison, so they don’t want anyone above them. They want everyone to fit in and no more, and to acknowledge that they are living their lives correctly when that’s what they do.
+They don’t love Rearden Metal. They try to drag Hank down to the level where there’s nothing to love a man for but that he’s your “brother”, “son”, or “husband”. They want everyone to be [equally shabby](http://www.solopassion.com/node/3637) and worthless. They don’t want to look bad by comparison, so they don’t want anyone above them. They want everyone to fit in and no more, and to acknowledge that they are living their lives correctly when that’s what they do.
 
 Affection always has a cause, but sometimes it’s unstated. And if the cause is good, why not state it proudly?
 
@@ -559,7 +559,7 @@ The loss is only hypothetical – what men should be – not actual (men didn�
 
 Hank shouldn’t give up on having good people in his life. He should leave his family and make a serious search for people with shared values. He could find Dagny Taggart, Ellis Wyatt and others, and become friends with them.
 
-> His sense of exhaustion was growing; he realized that it was **boredom**. He owed them the** courtesy of hiding it**, he thought—and sat motionless, fighting a desire for sleep that was turning into physical **pain**.
+> His sense of exhaustion was growing; he realized that it was **boredom**. He owed them the **courtesy of hiding it**, he thought—and sat motionless, fighting a desire for sleep that was turning into physical **pain**.
 
 Why hide his boredom? That’s *faking reality* for their sake. They are boring – but he hides his opinions and helps put on a show. In some sense, they know they’re boring too (but they lie to themselves and evade, so they don’t know it clearly), and they’re putting on an act to fake reality and pretend they aren’t boring and valueless. They want Hank to help them with their anti-reality fakery, and he does so as a “courtesy”. This is a big deal, not a minor courtesy. (Even if it was free for Hank it’d be bad. But it’s actually costing him sleep he badly needs, and this is resulting in physical pain.) Hank learns more about these issues throughout the book.
 
@@ -571,13 +571,13 @@ Why hide his boredom? That’s *faking reality* for their sake. They are boring 
 > 
 > “What trouble?”
 
-If Larkin doesn’t know, why did he bring it up? There are people who *something unstated*, and the world is some unstated way nowadays. But, Larkin informs us, we can’t know anything, and anything can happen. What an empty statement. It’s good that Hank repeats his direct question.
+If Larkin doesn’t know, why did he bring it up? There are people who have some unstated attributes, and the world is some unstated way nowadays. But, Larkin informs us, we can’t know anything, and anything can happen. What an empty statement. It’s good that Hank repeats his direct question.
 
 > The smile was disarming, like that of a **boy** who throws himself at the **mercy** of an **incomprehensible universe**. He was **fifty-three years old**.
 
 This is typical Rand. She doesn’t spell out the comparison between being like a “boy” and being 53 years old. She just puts the two comments next to each other and leaves it to the reader to notice the contrast. Larkin is acting like a boy, but isn’t a boy – he doesn’t have the excuse of youthful ignorance.
 
-The universe isn’t incomprehensible, not merciful. Mercy comes from people, not nature. Incomprehension comes from refusing to think, evading issues, rejecting reason, etc., not from nature. Some people, like Hank, do understand things.
+The universe isn’t incomprehensible, nor merciful. Mercy comes from people, not nature. Incomprehension comes from refusing to think, evading issues, rejecting reason, etc., not from nature. Some people, like Hank, do understand things.
 
 > “You’re not popular, Hank.”
 > 
@@ -597,7 +597,7 @@ How can an ideology be taken seriously when it won’t even assert its ideas? If
 
 In a free society, Hank wouldn’t need to give a damn about public opinion. He’d be safe because no one would use force against him, and he’d deal with those who appreciate what he produces. But Hank doesn’t live in a free society, as we see later when the force of government is used to destroy Hank’s businesses.
 
-The pivot from the public to the newspapers is interesting. Many people appreciate steel, but a group of noisy “intellectuals” don’t. Those “intellectuals” have a lot of control over the media, the universities, and the government in the book and in the world today. But the actual public is better than the opinion pieces newspapers publish and claim to be representative of the public.
+The pivot from the public to the newspapers is interesting. Many people appreciate steel, but some noisy “intellectuals” don’t. Those “intellectuals” have a lot of control over the media, the universities, and the government in the book and in the world today. But the actual public is better than the opinion pieces newspapers publish and claim to be representative of the public.
 
 > “… That you’re intractable. That you’re ruthless. That you won’t allow anyone any voice in the running of your mills. That your only goal is to make steel and to make money.”
 > 
@@ -717,7 +717,7 @@ Hank’s destroyers are open about their values – they hate and condemn him �
 
 > He wanted to slap Philip’s face.
 
-That would have been a better response – and withdraw the money, too.
+That would have been a better response. Hank should withdraw the money, too.
 
 > “… What would happen to Henry’s **vanity** if he didn’t have us to throw **alms** to? What would become of his **strength** if he didn’t have **weaker people to dominate**? **What would he do with himself if he didn’t keep us around as dependents?** It’s quite all right, really, I’m not criticizing him, it’s just a law of **human nature**.”
 
