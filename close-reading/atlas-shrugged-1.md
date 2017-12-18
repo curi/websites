@@ -98,7 +98,7 @@ The betrayal was the shape representing living power, without the power. It was 
 
 Why would the past be better than the present? And why is Eddie clinging to memories instead of making his present life great? This is another indication that something’s gone wrong.
 
-This is one of many uses of light-related words for positive symbolism. That’s a common theme in our culture because light enables sight, and we value sight. Sight helps in the process of using our minds to understand the world and deal with it effectively, and English actually mixes up sight and understanding (“I see” means “I understand”).
+This is one of many uses of light-related words for positive symbolism. That’s a common theme in our culture, primarily because light enables sight, and we value sight. Sight helps in the process of using our minds to understand the world and deal with it effectively, and English actually mixes up sight and understanding (“I see” means “I understand”). Light is also associated with fire and warmth.
 
 > The words were harsh and glowing, like the **sunlight**. He listened in admiration and in wonder. When he was asked what he would want to do, he answered at once, "Whatever is right," and added, "You ought to do something great . . . I mean, the two of us together."
 
