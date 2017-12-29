@@ -5,7 +5,7 @@ permalink: /non-consumption-of-philosophy
 tags: sidebar
 ---
 
-The following fictional dialog attempts semi-realism. John is a normal person, not a philosopher or skilled debater. However, he's unusually clear, honest, and willing to answer questions.
+This fictional dialog attempts semi-realism. John is a regular guy, not a philosopher or skilled debater. However, he's unusually clear, honest, and willing to answer questions.
 
 **Elliot:** What's something you do lots of, which you think you do well, and care about?
 
