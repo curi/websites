@@ -6,21 +6,21 @@ highlighter:      pygments
 permalink:        /:title
 
 # Setup
-title:            'Philosophy'
+title:            'Rational Essays'
 description:      "by Elliot Temple"
-url:              https://fallibleideas.com
+url:              https://rationalessays.com
 baseurl:          /
 
 author:
   name:           'Elliot Temple'
-  url:            http://curi.us
+  url:            https://elliottemple.com
 
 paginate:         1
 
 # Custom vars
 version:          1.0.0
-body-css-id:      "test"
-ga-id:            "UA-743670-1"
+body-css-id:      "rational-essays"
+ga-id:            "UA-743670-12"
 
 github:
   repo:           https://github.com/curi/websites
