@@ -195,7 +195,7 @@ This fictional dialog attempts semi-realism. John is a regular guy, not a philos
 
 <b class="john">John:</b> What's overreaching about?
 
-**Elliot:** Don't be more ambitious than you have the skill for. Stop making mistakes all the time. People live lives overwhelmed by mistakes. They make dozens of mistakes every day. Stop trying to do so much right away and you'll get more done. You'll be more productive if you do something right and then build on there, making only a few mistakes. And correct most of your mistakes as you go instead of finding the mistakes so numerous you give up on correcting them. If you want to do more, get better at finding and correcting mistakes first. You must never give accept tons of mistakes as a natural part of your life, to put up with. The essence of reason is figuring out your mistakes and doing something about them. Go slow enough, and do little enough, that few enough mistakes come up that you can deal with them. Then expand from there without ever overreaching so that you have too much to manage. Build up your skill correctly, step by step, towards bigger goals, instead of skipping ahead to them and failing.
+**Elliot:** Don't be more ambitious than you have the skill for. Stop making mistakes all the time. People live lives overwhelmed by mistakes. They make dozens of mistakes every day. Stop trying to do so much right away and you'll get more done. You'll be more productive if you do something right and then build on there, making only a few mistakes. And correct most of your mistakes as you go instead of finding the mistakes so numerous you give up on correcting them. If you want to do more, get better at finding and correcting mistakes first. You must never accept tons of mistakes as a natural part of your life, to put up with. The essence of reason is figuring out your mistakes and doing something about them. Go slow enough, and do little enough, that few enough mistakes come up that you can deal with them. Then expand from there without ever overreaching so that you have too much to manage. Build up your skill correctly, step by step, towards bigger goals, instead of skipping ahead to them and failing.
 
 <b class="john">John:</b> I already did that. I started with easier paintings and worked my way up.
 
@@ -219,7 +219,7 @@ This fictional dialog attempts semi-realism. John is a regular guy, not a philos
 
 <b class="john">John:</b> I respect reason.
 
-**Elliot:** Shutting of your mind means not using reason.
+**Elliot:** Shutting off your mind means not using reason.
 
 <b class="john">John:</b> I use reason in an intuitive way, by feel. Not everything has to be conscious.
 
