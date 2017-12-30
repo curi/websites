@@ -200,6 +200,8 @@ Eddie tries to focus the conversation on the concrete issues, rather than get ca
 
 The track is so bad the trains are crashing. This is scaring people off using the trains. James’ answer is that other companies have problems too, rather than trying to solve the problem. James adds that it’s *temporary*, meaning he expects the problem to somehow solve itself if he waits.
 
+This relates to a major theme: Rand's criticism of people care more about who is blamed for problems than for the actual problems. It comes up again e.g. with the Winston tunnel disaster. People cared more about whether they would be blamed for anything than whether passengers died in the tunnel.
+
 > Eddie stood looking at him silently. What Taggart disliked about Eddie Willers was this habit of looking straight into people's eyes.
 
 Eddie has questioning eyes and looks attentive and puzzled. James doesn’t want to be questioned; James doesn’t want anyone paying careful attention to his lies; and James doesn’t want to acknowledge there’s any reason for puzzlement.
@@ -215,6 +217,8 @@ Eddie has questioning eyes and looks attentive and puzzled. James doesn’t want
 Why didn’t someone else tell James? Why didn’t James seek out the information himself? It’s his job to deal with matters like this. We’re learning a lot about what kind of person James is, and what kind of people work for him. We’re also learning that Eddie has courage to confront the company president with an unwanted message.
 
 James tries again to lie that the issue is the accident, when he knows it’s not.
+
+Eddie reframes the discussion. This isn't just about a few repairs. The whole line is at stake, and James' policies will lead to giving it up. James doesn't want to admit that he's choosing to give up the line, and will arrange things to avoid blame, but that's what he's in the process of doing. James also doesn't want to take the steps necessary for not giving up the line. James doesn't want to face reality. James' comments are so far from facing reality that it's a bit jarring when Eddie brings the conversation back to reality.
 
 > "Who's thinking of giving up the Rio Norte Line?" he asked. "There's **never been any question** of giving it up. I **resent** your saying it. I resent it very much."
 
@@ -238,7 +242,7 @@ James says what he *hasn’t* said. What *has* he said?
 
 > "What do you want me to do? I can't run Orren Boyle's business."
 
-More excuses.
+James is lying. His excuses are false, and he knows it. He's suggesting there's nothing he can do because he doesn't have control over Boyle's business, but he could order the rails from Hank Rearden.
 
 > "Well, what do you want me to do?"
 > 
@@ -252,7 +256,9 @@ This is silly because James has just mentioned it himself. They’re both aware 
 
 > "Orren is my **friend**." He heard no answer. "I resent your attitude. Orren Boyle will deliver that rail just as soon as it's humanly possible. So long as he can't deliver it, nobody can **blame us**."
 
-James changes the subject so much. Their railroad is falling apart, their customers are leaving, their passengers are scared of wrecks … and James is talking about his social relationships and trying to deflect responsibility.
+Their railroad is falling apart, their customers are leaving, their passengers are scared of wrecks … and James is talking about his social relationships and trying to deflect responsibility. He's concerned about social interactions (like friendships) and the opinions of others (especially who blames who). He's not very concerned with what happens in the non-social part of the world involving things like railroad tracks, industrial production, transportation, and crashes.
+
+James is changing the subject intentionally. He does this often. Here, he avoids talking about Rearden Steel.
 
 > "Jim! What are you talking about? Don't you understand that the Rio Norte Line is **breaking up—whether anybody blames us or not**?"
 
