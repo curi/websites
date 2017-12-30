@@ -268,3 +268,7 @@ This fictional dialog attempts semi-realism. John is a regular guy, not a philos
 <b class="john">John:</b> This is all so stressful. Give me a break. I'll think it over. Maybe we'll talk about it again later.
 
 [Three years later, John hadn't talked about it again.]
+
+---
+
+If you're interested in how to learn philosophy, unlike John, read the [Learning Philosophy](/learning-philosophy) article.
