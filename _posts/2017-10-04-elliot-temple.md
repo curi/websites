@@ -30,6 +30,10 @@ Philosophy articles, including [reading recommendations](http://fallibleideas.co
 
 I write about philosophy and I use philosophy to understand other fields like politics, parenting, relationships and psychiatry.
 
+### <a class="sidebar-nav-item" href="https://rationalessays.com">Rational Essays</a>
+
+Essays using or explaining reason.
+
 ### <a href="https://reasonandmorality.com/">Reason &amp; Morality</a>
 
 An outline of philosophy with links to learn more.
