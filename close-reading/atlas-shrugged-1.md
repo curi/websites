@@ -10,7 +10,7 @@ I want to show how much interesting stuff Rand’s writing contains. *Every* sen
 
 **These comments contain spoilers.** This is intended only for someone who’s already read the whole book, and I point things out that I wouldn’t expect anyone to catch on their first reading.
 
-My comments often use exact words from the text which I didn’t quote. You may want to read along in the book. Bold text in quotations is emphasized by me.
+I recommend reading the book, a few paragraphs at a time, and thinking about it yourself before reading my analysis of that part. Bold text in quotations is emphasized by me.
 
 # Chapter 1 – The Theme
 
