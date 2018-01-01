@@ -7,7 +7,7 @@ permalink:        /:title
 
 # Setup
 title:            'Rational Essays'
-description:      "by Elliot Temple"
+description:      ""
 url:              https://rationalessays.com
 baseurl:          /
 
