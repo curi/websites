@@ -107,7 +107,7 @@ We see in the story how industrial civilization can fall apart. The right moral 
 
 > Ever since he could remember, he had been told that his **face** was ugly, because it was **unyielding**, and **cruel**, because it was **expressionless**. It remained expressionless now, as he looked at the metal. He was Hank Rearden.
 
-Rand sees “cruel” positively as a description of a face. Most fans do not think that way, but think they liked and agreed with the book. They didn’t notice this. To understand the positive aspects of “cruel”, it helps to consider what it opposes: the “nice guy” who is yielding, compromising, mild, indecisive, hesitant, unsure, irresponsible, appeasing, second-handed, and who puts major effort into conformity. Hank lacks sympathy for weakness, incompetence, etc., and people regard that as cruel.
+Rand defends a face that most people would see as “cruel” and "ugly". Most fans don't think that way – but think they liked and agreed with the book. They didn’t notice this. To understand the positive aspects of what's seen as “cruel”, it helps to consider what it opposes: the “nice guy” who is yielding, compromising, mild, indecisive, hesitant, unsure, irresponsible, appeasing, second-handed, and who puts major effort into conformity. Hank lacks sympathy for weakness, incompetence, etc., and people regard that as cruel.
 
 Hank’s lack of visible emotion is because, for him, emotions aren’t a show to be put on for an audience.
 
