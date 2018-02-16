@@ -269,7 +269,7 @@ This is Lillian Rearden’s first line. What does it say? That Hank’s accompli
 
 > “Why, **darling**,” she said in a bright tone of amusement, “isn’t it too early to come home? Wasn’t there some slag to **sweep** or tuyeres to **polish**?”
 
-This is *mean*. He isn’t a janitor who sweeps and polishes. Lillian is attacking Hank’s social status and profession.
+This is *mean*. He isn’t a janitor who sweeps and polishes. Lillian is attacking Hank’s social status and profession. Sweeping and polishing is a low status job. It's also an unintellectual job; she's denying the role of Hank's mind in his work.
 
 She calls him “darling” while being mean. That’s screwed up, too. If you’re mad at your spouse and fighting with them, you shouldn’t call them sweet or intimate names. It’s bad to mix up those names – which are supposed to be respectful and positive – with malice and hostility. They should be kept pure.
 
