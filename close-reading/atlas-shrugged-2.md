@@ -357,6 +357,8 @@ This is another mean conversational joke. It has some meaning, but the meaning i
 
 *Making* someone do something is a totally different concept than doing something *for* them. This kinds of confusion is typical of non-Objectivists. Most people don’t pay close attention to distinctions between voluntary and involuntary (*making* is involuntary and therefore doesn’t constitute *helping*.) Hank’s mother wants to be appreciated for doing things “for” Hank, of *her* choice, that aren’t the things he actually wants. Her “help” consists of pressure to get Hank to conform to a lifestyle she wants him to live. Real help means helping someone achieve their own values that *they* chose.
 
+Hank's mother has been failing to control him since he was a child, but is still trying. And she frames it dishonestly, pretending her attempts at control are attempts at help which should be appreciated.
+
 > “… It’s a form of neurosis, you know. When a man **drowns** himself in work, it’s because he’s trying to escape from something. You ought to have a hobby.”
 
 This is a big slander from his own brother. Hank is lenient with family, but they don’t seem to value family like Hank does. They aren’t extra nice to Hank because he’s family; they are *less* nice to Hank than they ought to be.
