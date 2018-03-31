@@ -121,22 +121,25 @@ html {
 .sidebar-footer {
   visibility: visible;
   height: auto;
+  display: inherit;
 }
 
 footer {
   visibility: hidden;
   height: 0;
-  
+  display: none;
 }
 
 @media (max-width: 48em) {
     footer {
       visibility: visible;
       height: auto;
+      display: inherit;
     }
     .sidebar-footer {
       visibility: hidden;
       height: 0;
+      display: none;
     }
     
     .sidebar-nav-item::before {
