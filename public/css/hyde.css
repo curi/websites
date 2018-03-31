@@ -121,7 +121,7 @@ html {
 .sidebar-footer {
   visibility: visible;
   height: auto;
-  display: inherit;
+  display: block;
 }
 
 footer {
@@ -140,7 +140,7 @@ footer {
     footer {
       visibility: visible;
       height: auto;
-      display: inherit;
+      display: block;
     }
     .sidebar-footer {
       visibility: hidden;
