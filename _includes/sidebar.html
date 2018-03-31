@@ -12,6 +12,7 @@
 
         <nav class="sidebar-nav">
 
+
           <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
 
@@ -45,19 +46,14 @@
         </nav>
 
         <div class="sidebar-footer">
-	  <hr>
-			<p>Other Sites:</p>
+          
+          <hr>
 
-            <a class="sidebar-nav-item" href="https://fallibleideas.com">Fallible Ideas</a>
-            <a class="sidebar-nav-item" href="https://curi.us">Curiosity Blog</a>
-            <br/>
-            <a class="sidebar-nav-item" href="https://rationalessays.com">Rational Essays</a>
-            <a class="sidebar-nav-item" href="https://learnobjectivism.com">Learn Objectivism</a>
-            <a class="sidebar-nav-item" href="https://reasonandmorality.com/">Reason &amp; Morality</a>
-            <a class="sidebar-nav-item" href="https://yesornophilosophy.com">Yes or No Philosophy</a>
-            <a class="sidebar-nav-item" href="https://beginningofinfinity.com/">The Beginning of Infinity</a>
+          {% include sidebar-footer.html %}
+        
         </div>
 
         <!--<p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>-->
+
     </div>
 </div>
