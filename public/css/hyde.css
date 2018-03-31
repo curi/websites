@@ -120,19 +120,23 @@ html {
 
 .sidebar-footer {
   visibility: visible;
+  height: auto;
 }
 
 footer {
   visibility: hidden;
+  height: 0;
   
 }
 
 @media (max-width: 48em) {
     footer {
       visibility: visible;
+      height: auto;
     }
     .sidebar-footer {
       visibility: hidden;
+      height: 0;
     }
     
     .sidebar-nav-item::before {
