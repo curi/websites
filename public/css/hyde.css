@@ -129,6 +129,12 @@ footer {
   
 }
 
+.sidebar-nav-item::before {
+    content: "⃟ ";
+    color: #fff;
+/*  text-decoration: none !important; */
+  }
+
 @media (max-width: 48em) {
     footer {
       visibility: visible;
@@ -138,12 +144,6 @@ footer {
       visibility: hidden;
       height: 0;
     }
-    
-    .sidebar-nav-item::before {
-        content: "⃟ ";
-        color: #fff;
-/*        text-decoration: none !important; */
-      }
 
     }
 }
