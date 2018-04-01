@@ -732,3 +732,7 @@ Saying it’s human nature is a denial that Hank is living according to values h
 > “A chain,” she said. “Appropriate, isn’t it? It’s the chain by which he holds us all in **bondage**.”
 
 What bondage? They’re the ones trying to chain and control Hank with their manipulative comments. He ought to free himself.
+
+---
+
+Buy the [chapter 3 analysis](https://gumroad.com/l/ugcAS). ($1 or more, name your own price.)
