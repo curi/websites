@@ -1034,11 +1034,13 @@ This comment is actually literal: John Galt is the man who persuaded Kellogg to 
 
 ---
 
-Read [chapter 2 analysis](/atlas-shrugged-chapter-2).
+Some of you are thinking to yourselves, “This is good. I like it. But I already knew most of it.” If so, I’ve got a challenge for you. Write your own analysis, like this, for chapter 2 or 3. See how well you can do it on your own, then compare with my analysis. (If you write analysis of anything by Ayn Rand, please share it with me at [et@elliottemple.com](mailto:et@elliottemple.com). I'd like to read it.)
 
---- 
+---
 
-Some of you are thinking to yourselves, “This is good. I like it. But I already knew most of it.” If so, I’ve got a challenge for you. Write your own analysis, like this, for chapter 2. See how well you can do it on your own, then compare to my analysis.
+Read the [chapter 2 analysis](/atlas-shrugged-chapter-2).
+
+
 
 [1]:	https://www.amazon.com/Atlas-Shrugged-Ayn-Rand-ebook/dp/B003V8B5XO?tag=curi04-20
 [2]:	https://yesornophilosophy.com
