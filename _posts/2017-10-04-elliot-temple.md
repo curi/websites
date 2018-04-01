@@ -22,7 +22,7 @@ Philosophy articles, including [book recommendations][9].
 
 ### <a href="https://curi.us">Curiosity Blog</a>
 
-I write about philosophy and I use philosophy to understand other fields like politics, parenting, relationships and psychiatry.
+I write about philosophy and I use philosophy to understand other fields like politics, parenting, relationships, psychiatry, economics and science.
 
 ### <a href="https://rationalessays.com">Rational Essays</a>
 
