@@ -24,7 +24,7 @@ Philosophy articles, including [reading recommendations][9].
 
 I write about philosophy and I use philosophy to understand other fields like politics, parenting, relationships and psychiatry.
 
-### <a class="sidebar-nav-item" href="https://rationalessays.com">Rational Essays</a>
+### <a href="https://rationalessays.com">Rational Essays</a>
 
 Essays using or explaining reason.
 
