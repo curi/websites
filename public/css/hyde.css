@@ -31,7 +31,7 @@
 
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-/*  font-family: "PT Sans", Helvetica, Arial, sans-serif;*/
+/*    font-family: "PT Sans", Helvetica, Arial, sans-serif;*/
 }
 
 @media (min-width: 48em) {
@@ -72,7 +72,7 @@ html {
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
-.sidebar {
+.sidebar, footer {
     text-align: center;
     padding: 1.5rem 1rem;
     color: rgba(255, 255, 255, .64);
@@ -117,6 +117,48 @@ html {
     /*flex-grow: 1;*/
     width: 100%;
 }
+
+.sidebar-footer {
+  visibility: visible;
+  height: auto;
+  display: block;
+}
+
+footer {
+  visibility: hidden;
+  height: 0;
+  display: none;
+}
+
+@media (max-width: 48em) {
+    footer {
+      visibility: visible;
+      height: auto;
+      display: block;
+    }
+    .sidebar-footer {
+      visibility: hidden;
+      height: 0;
+      display: none;
+    }
+    
+    .sidebar-nav-item::before {
+        content: "⃟ ";
+        color: #fff;
+/*        text-decoration: none !important; */
+      }
+
+    }
+}
+
+footer {
+  
+}
+
+footer a {
+    color: #fff;
+}
+
 
 /* Sidebar nav */
 .sidebar-nav {
