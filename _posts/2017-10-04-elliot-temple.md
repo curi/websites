@@ -38,7 +38,7 @@ My most important contribution to epistemology (the philosophy of knowledge).
 
 ### <a href="https://learnobjectivism.com">Learn Objectivism</a>
 
-Learn about Ayn Rand's philosophy. I consider Objectivism and Critical Rationalism (by Karl Popper) the most important philosophies by far.
+Learn about Ayn Rand's philosophy. I consider Objectivism and Critical Rationalism (by Karl Popper) the most important philosophies.
 
 ### <a href="https://beginningofinfinity.com/">The Beginning of Infinity</a>
 
