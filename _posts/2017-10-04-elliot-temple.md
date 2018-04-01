@@ -18,7 +18,7 @@ I research ideas, create educational material and run a [discussion forum][2]. M
 
 ### <a href="https://fallibleideas.com">Fallible Ideas</a>
 
-Philosophy articles, including [reading recommendations][9].
+Philosophy articles, including [book recommendations][9].
 
 ### <a href="https://curi.us">Curiosity Blog</a>
 
