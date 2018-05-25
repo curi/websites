@@ -9,7 +9,7 @@ tags: sidebar
 
 Like most intellectuals, JP lacks [Paths Forward](http://fallibleideas.com/paths-forward) – ways for *any* member of the public to correct him when he’s mistaken. He limits his openness to discussion in order to conserve his time and energy.
 
-JP does engage with people (his fans, friendly prestigious people, hostile media) a reasonable amount. He spends time talking to people, sharing his ideas, debating, and answering questions.
+JP does engage with people (his fans, friendly prestigious people, hostile media) a reasonable amount. He spends time talking to people, sharing his ideas, debating, and answering questions. Examples: [Reddit AMA](https://imgur.com/gallery/oOItiRz), [Quora](https://www.quora.com/profile/Jordan-B-Peterson), [Twitter](https://twitter.com/jordanbpeterson), monthly [Patreon Q&A videos](https://www.youtube.com/watch?v=4GcU9LjuVOo), and [talking with intellectuals](https://www.youtube.com/watch?v=vvSetcM-f3k).
 
 JP’s doing fine on *quantity* of discussion. He’s also doing fine on *quality* – when he talks with people, he generally takes it seriously and makes thoughtful remarks.
 
