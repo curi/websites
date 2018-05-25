@@ -79,6 +79,8 @@ JP is a smart guy with some great ideas. He must be doing something right in his
 
 We’re all fallible. We make mistakes. We do often have to use our judgement. But that’s no excuse for having vague or non-existent processes. Structuring your intellectual work helps reduce bias and error. Figure out what you think you should do to combat bias, write it down, and hold yourself to it.
 
+The biggest benefit of this approach is to *avoiding staying wrong about things you're mistaken and biased about, which others are willing to tell you the truth of*.
+
 ## Next Steps
 
 If you’re interested in combatting intellectual bias yourself, you should go through all the material about *Paths Forward* (the name of the philosophy idea this article deals with). The other articles offer more detail and different ways to look at these issues, and will help flesh out your understanding.
