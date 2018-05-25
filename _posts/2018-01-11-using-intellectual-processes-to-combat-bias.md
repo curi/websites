@@ -92,5 +92,6 @@ If you’re interested in combatting intellectual bias yourself, you should go t
 
 If you’d like to learn more about reason and the philosophy ideas I built this article on, check out my [book recommendations](http://fallibleideas.com/books) (and my articles on that website) and sign up for my [email newsletter](http://fallibleideas.com/newsletter).
 
+## Footnotes
 
 [^1]:	I’ve written about methods for how to address every inquiry using a public discussion forum and placing some reasonable demands on people who want your attention. [Here’s how I do it.](http://curi.us/2068-my-paths-forward-policy) The key is I don’t answer every *initial* message. If people think they have something important to say that I’m not paying attention to, I’ve got a process with four steps for them to use. So far I have a 100% response rate by the last step. (Processes are good for the people making inquiries too, not just for the person answering them! And my process is available for public comment and so that I can be held accountable I don’t follow it.) This makes smart people more interested in sharing ideas with me, and more willing to invest effort, because they know I have a good process and they’re confident they won’t be arbitrarily ignored.
