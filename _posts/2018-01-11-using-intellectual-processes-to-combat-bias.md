@@ -63,7 +63,7 @@ If JP regularly answered some critical challenges like this, I’d be pretty imp
 
 But one can examine JP’s public material and see he doesn’t answer this sort of serious critical challenge from anyone. He does spend enough time sharing his ideas, discussing with the public, and so on – but not in the way this article explains. He either gets few high-quality challenges (a manageable number he could answer, but doesn’t), or else he gets lots and publicly ignores all of them. The ways JP engages in public discussion are typical of other intellectuals and allow for bias to block important insights and corrections.
 
-I think this is a really bad problem which could be dramatically improved without much effort (if JP has answers and wants to consider such things – if he’d actually rather not consider criticism then it’d be a big effort to make himself do it anyway). To succeed here, I don’t think JP needs more time and energy than he’s already using. I also don’t think JP needs to study philosophy to do this. (I study philosophy myself and used it to help develop these ideas, but I’ve worked to make them reasonably simple to understand.)
+This is a serious problem which could be dramatically improved without much effort (if JP already has answers and genuinely wants to address criticism – without those things then it'd be much harder). To succeed here, I don’t think JP needs more time and energy than he’s already using. I also don’t think JP needs to study philosophy to do this. (I study philosophy myself and used it to develop the ideas in this article, but I’ve worked to make this reasonably simple to understand.)
 
 ## Conclusions
 
