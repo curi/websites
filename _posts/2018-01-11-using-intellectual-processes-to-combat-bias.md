@@ -43,11 +43,11 @@ JP should regularly spend some time publicly replying to messages that meet **al
 
 1. *Permission to answer publicly*. This includes being able to link, cite or publish the message JP is replying to.
 
-2. *Important intellectual issue.* If the message is like “Thanks, you’re so inspiring!” then replying is optional. And JP doesn’t need to discuss personal issues.
+2. *Important, intellectual topic.* It's optional to reply to “Thanks, you’re so inspiring!”, or to inquiries about JP's family life or his favorite movie. Only some messages attempt to discuss something where figuring out the truth is important.
 
 3. *Relevant.* JP isn’t a chemist or architect. He should address issues relevant to the work he does. Other issues are optional.
 
-4. *Valuable*. JP should engage with messages that would lead to intellectual progress if they’re true. This means selecting messages that try to *correct a mistake JP is making or teach him something new*. (Note: JP shouldn’t make assumptions about which claims are true, in advance of discussion, because those assumptions could be biased.)
+4. *Valuable*. JP should engage with messages making claims that would be important *if they were true*. This means selecting messages that try to *correct a mistake JP is making or teach him something new*. This requires looking at an idea from its own perspective and considering what the impact of the idea would be if it were correct, even if it appears to be wrong or stupid. Due to bias or ignorance, good ideas commonly appear unpromising before understanding or discussing them – especially the most valuable ideas, which correct people about errors that they were especially confident they were right about.
 
 5. *Unanswered*. In JP’s opinion, the *issue has not been adequately answered by anyone*. To count, an answer needs to be publicly available in a long-term way, e.g. a book, blog post, podcast, YouTube video, Quora answer, etc. If the issue has been answered already, JP (or his assistant or fan volunteer) would ideally provide a link or citation to the answer. Sharing JP’s view, preexisting or not, allows other people to learn from it or continue the discussion by saying why that answer is mistaken. If JP (or his proxy) doesn’t give an answer (even a reference), that’s a dead end for discussion and JP wouldn’t be responsible and accountable for his hidden belief.
 
