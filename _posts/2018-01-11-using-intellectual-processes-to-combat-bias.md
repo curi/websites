@@ -15,7 +15,7 @@ JP does engage with people (his fans, friendly prestigious people, hostile media
 
 JP’s doing fine on *quantity* of discussion. He’s also doing fine on *quality* – when he talks with people, he generally takes it seriously and makes thoughtful remarks.
 
-But I still think he’s doing something seriously wrong, which is neither quantity nor quality of engagement with the world’s ideas. What could it be? **Process**.
+But I still think he’s doing something wrong, even though he's doing well on both quantity and quality of engagement with the world’s ideas. What could it be? **Process**.
 
 JP is busy. He gets thousands of emails and other messages, and he can’t even come close to answering them all. OK, that’s fine. But here’s a key question:
 
@@ -25,7 +25,7 @@ JP is busy. He gets thousands of emails and other messages, and he can’t even 
 
 What process (method, strategy, policy) does JP use to decide which issues to discuss, which to think about privately, and which to ignore? There’s a major flaw in how he spends his discussion time:
 
-JP *has no documented process* for making discussion decisions. He (presumably) makes these decisions with methods like feel, intuition, preference, whim or sometimes conscious analysis (involving e.g a pro/con list or a discussion with another person). Sometimes he makes good choices and sometimes he makes mistakes. He may be quite good at it compared to most people, but there’s a better way. When you do things without a clear process, *bias* will creep in. The counter to bias is to have *documented processes* you follow. Documented processes can be evaluated for biases and they provide predictability for discussion partners. By contrast, unwritten rules allow for biased decisions without accountability.
+JP *has no documented process* for making discussion decisions. He (presumably) makes these decisions with methods like feel, intuition, preference, whim or sometimes conscious analysis (involving e.g. a pro/con list or a discussion with another person). Sometimes he makes good choices and sometimes he makes mistakes. He may be quite good at it compared to most people, but there’s a better way. When you do things without a clear process, *bias* will creep in. The counter to bias is to have *documented processes* you follow. Documented processes can be evaluated for biases and they provide predictability for discussion partners. By contrast, unwritten rules allow for biased decisions without accountability.
 
 For the best accountability, intellectual processes should be documented publicly, rather than kept private. And intellectuals should share enough about their work for people to be able to see for themselves that the processes really are being followed. Without this, it'd be common for someone to think they have a really rational process but, due to bias, they are blind to the ways they aren't really following it. It's like how scientists document and share their experimental process for critical review, they don't just share their conclusions. Sharing information like this also enables other people to give suggestions to improve your processes or better follow them, and lets others learn from what you're doing and use the same processes themselves.
 
@@ -99,6 +99,7 @@ If you’re interested in combatting intellectual bias yourself, you should go t
 - Video: [Alan Forrester talks about Paths Forward](https://www.youtube.com/watch?v=zFpKP21u5Dc) (10 minutes).
 - [Comments on Paths Forward](http://justinmallone.com/2017/01/paths-forward-comments-part-1/) (by Justin Mallone).
 - Elliot’s [Paths Forward Policy](http://curi.us/2068-my-paths-forward-policy) (how to get him to answer an issue).
+- [Alisa's Paths Forward Policy](https://bitbucket.org/petrogradphilosopher/fi/src/default/pf.md) document was inspired by this article.
 
 If you’d like to learn more about reason and the philosophy ideas I built this article on, check out my [book recommendations](http://fallibleideas.com/books) (and my articles on that website) and sign up for my [email newsletter](http://fallibleideas.com/newsletter).
 
