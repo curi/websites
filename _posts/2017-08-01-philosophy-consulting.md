@@ -41,11 +41,13 @@ My *Fallible Ideas* philosophy offers *unique* value that isn’t available anyw
 
 I work in 2-hour time blocks. That lets me produce substantial work in an uninterrupted sitting.
 
-My rate is $400 for a block.
+My rate is $400 USD for a block.
+
+I can work in other ways if it fits the project. E.g. I can do one hour conversations to help with a personal problem or teach something. (Then I use $200 USD per hour.)
 
 Sometimes I give discounts for projects I like (e.g. working with a child) or big projects. There’s no harm in asking. Or make me an offer if you want to negotiate. I also do fixed bids.
 
-To hire me, email [elliot@fallibleideas.com][60]
+To hire me, email [elliot@elliottemple.com][60]
 
 I always appreciate project inquiries. I often point people in the right direction even if we don’t do a paid project. You won’t waste my time.
 
@@ -244,7 +246,7 @@ Hire me: [elliot@fallibleideas.com][223]
 [57]:	http://curi.us/1848-dont-trust-trump-hes-not-a-conservative
 [58]:	http://curi.us/1512-a-philosophers-history-of-the-french-revolution
 [59]:	http://curi.us/1432-patience
-[60]:	mailto:elliot@fallibleideas.com
+[60]:	mailto:elliot@elliottemple.com
 [61]:	http://curi.us/1747-bad-study-claims-lawyers-are-racist
 [62]:	http://curi.us/1739-eugene-gendlin-philosophy-introduction
 [63]:	https://twitter.com/_khaaan
@@ -343,7 +345,7 @@ Hire me: [elliot@fallibleideas.com][223]
 [156]:	http://curi.us/1779-steigers-law
 [157]:	http://curi.us/1824-static-memes-and-irrationality
 [158]:	http://fallibleideas.com/sharing
-[159]:	mailto:elliot@fallibleideas.com
+[159]:	mailto:elliot@elliottemple.com
 [160]:	http://www.capitalism.net
 [161]:	http://oll.libertyfund.org/pages/mises-on-the-impossibility-of-economic-calculation-under-socialism
 [162]:	http://curi.us/1582-induction-is-wrong-a-lot
@@ -393,7 +395,7 @@ Hire me: [elliot@fallibleideas.com][223]
 [206]:	http://curi.us/1864-open-thread
 [207]:	http://fallibleideas.com/discussion-info
 [208]:	http://curi.us/1581-epistemology-without-weights-and-the-mistake-objectivism-and-critical-rationalism-both-made
-[209]:	mailto:elliot@fallibleideas.com
+[209]:	mailto:elliot@elliottemple.com
 [210]:	http://curi.us/think/
 [211]:	http://curi.us/1967-philosophy-consulting-make-your-business-initiative
 [212]:	http://curi.us/1898-paths-forward-short-summary
@@ -407,4 +409,4 @@ Hire me: [elliot@fallibleideas.com][223]
 [220]:	https://www.youtube.com/watch?v=ql8OsBb_QvU&index=7&list=PLKx6lO5RmaesaCfm2dXGUfbycDYEXJoU9
 [221]:	http://curi.us/archives/list_category/77
 [222]:	http://curi.us/blog/post_list
-[223]:	mailto:elliot@fallibleideas.com
+[223]:	mailto:elliot@elliottemple.com
