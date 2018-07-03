@@ -159,6 +159,8 @@ Impressed? Skeptical? Tell me: [elliot@elliottemple.com][209]
 
 ## A Couple Things I Wrote
 
+- [Fallible Ideas Articles](http://fallibleideas.com) and [Life Articles](http://fallibleideas.com/life)
+
 - [Philosophy Introduction][210]
 	 
 - [Philosophy Consulting: *Make Your Business* Initiative][211]
