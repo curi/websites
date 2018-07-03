@@ -21,7 +21,7 @@ You may know that I participate in [free, public discussions][11] and I post [fr
 
 Do you have difficulty applying philosophy concepts to your personal problems? Are you stuck in your own unique way? Would you benefit from a different style of help than my normal writing? Is your life passing you by and you need an energetic wakeup call? Do you waste your time and don’t do the things you think you want to do? Personalization can help you. Normally I write for my benefit; you’ll find custom work for your benefit is more helpful.
 
-Your life could be better. I can help. Email me at [elliot@fallibleideas.com][15]
+Your life could be better. I can help. Email me at [elliot@elliottemple.com][15]
 
 ## Who Am I?
 
@@ -133,7 +133,7 @@ My philosophy knowledge lets me understand some things about you that you don’
 - I identify the ways you’re sabotaging your own problem solving and learning, and help you fix them. People put [more effort][156] into preventing progress than making progress.
 - I [open your eyes][157] to ways you’re dishonest with yourself and ongoing [disasters][158] in your life, and tell you what to do about them.
 
-Hire me for one of these projects! [elliot@fallibleideas.com][159]
+Hire me for one of these projects! [elliot@elliottemple.com][159]
 
 ## How Do I Know I’m Right?
 
@@ -155,7 +155,7 @@ When I talk with people who disagree with me, I routinely ask them certain quest
 
 This is the clearest difference between me and my rivals. My ideas are open to [public criticism][206] supported by a [discussion forum][207] which allows free speech. I pursue discussions to a conclusion to actually resolve issues. And I think even a single flaw must be addressed or it refutes an idea. I don’t ignore some problems with my ideas and claim problems are "[outweighed][208]" by some merit.
 
-Impressed? Skeptical? Tell me: [elliot@fallibleideas.com][209]
+Impressed? Skeptical? Tell me: [elliot@elliottemple.com][209]
 
 ## A Couple Things I Wrote
 
@@ -185,7 +185,7 @@ Impressed? Skeptical? Tell me: [elliot@fallibleideas.com][209]
 
 ---- 
 
-Hire me: [elliot@fallibleideas.com][223]
+Hire me: [elliot@elliottemple.com][223]
 
 [1]:	http://curi.us/1587-all-problems-are-soluble
 [2]:	http://fallibleideas.com/problems
@@ -201,7 +201,7 @@ Hire me: [elliot@fallibleideas.com][223]
 [12]:	http://curi.us/archives/50
 [13]:	http://curi.us
 [14]:	http://curi.us/1950-open-discussion
-[15]:	mailto:elliot@fallibleideas.com
+[15]:	mailto:elliot@elliottemple.com
 [16]:	http://curi.us/1935-ideas-matter
 [17]:	http://curi.us/1887-philosophy
 [18]:	http://curi.us/1595-rationally-resolving-conflicts-of-ideas
