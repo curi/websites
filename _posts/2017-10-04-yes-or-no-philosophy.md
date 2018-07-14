@@ -133,6 +133,8 @@ Inquiries and pre-sale questions: [elliot@fallibleideas.com](mailto:elliot@falli
 
 # Pricing Explanation
 
+*Buy risk free. I offer a 30-day money back guarantee, no questions asked. If you aren’t satisfied, you get a refund.*
+
 I developed the **Yes or No Philosophy** ideas over the last 10 years. I know it could help people, so I've worked hard to explain in a clear and accessible way. This is a much larger product than what I've sold previously, and it offers more *value per dollar*.
 
 But my focus is on providing *value per time*. Are you a middle-class adult? If so, you're probably pretty *busy*! When buying an educational product, you should be concerned with how much value you'll get compared to how long it will take you to learn it.
