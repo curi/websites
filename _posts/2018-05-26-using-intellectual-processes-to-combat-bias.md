@@ -2,7 +2,7 @@
 layout: page
 title: "Using Intellectual Processes to Combat Bias"
 permalink: /using-intellectual-processes-to-combat-bias
-tags: sidebar
+tags: article
 ---
 
 [Jordan Peterson](https://jordanbpeterson.com) (JP) is a popular YouTuber and psychology professor. He’s smart and has some valuable ideas, but with the right thinking tools he could improve dramatically.

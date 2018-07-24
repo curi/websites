@@ -2,7 +2,7 @@
 layout: page
 title: "Life, Overreaching and Correcting Error"
 permalink: /life-overreaching-correcting-error
-tags: sidebar
+tags: article
 ---
 
 The **goal** in life is *progress*: to make things better now and in the future.

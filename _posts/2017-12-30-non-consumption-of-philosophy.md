@@ -2,7 +2,7 @@
 layout: page
 title: "Dialog: Non-Consumption of Philosophy"
 permalink: /non-consumption-of-philosophy
-tags: sidebar
+tags: article
 ---
 
 This fictional dialog attempts semi-realism. John is a regular guy, not a philosopher or skilled debater. However, he's unusually clear, honest, and willing to answer questions.

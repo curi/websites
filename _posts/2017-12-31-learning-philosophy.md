@@ -2,7 +2,7 @@
 layout: page
 title: "Learning Philosophy"
 permalink: /learning-philosophy
-tags: sidebar
+tags: article
 ---
 
 Philosophy is the name of the field which includes topics like: What is reason? How does reason work? How do I learn? How do I figure out which ideas are true or false? How to I argue and evaluate arguments? How do I seek the truth? (Those questions are from the sub-field of philosophy called "epistemology". That's the philosophy of knowledge, and it's the most important area of philosophy.)

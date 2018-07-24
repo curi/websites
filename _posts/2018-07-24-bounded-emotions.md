@@ -2,7 +2,7 @@
 layout: page
 title: "Bounded and Unbounded Emotions"
 permalink: /bounded-emotions
-tags: sidebar
+tags: article
 ---
 
 This article is about *how to change your bad emotions*. Good emotions matter to life too, but won’t be covered here. My previous [article on changing emotions](http://fallibleideas.com/emotions) applies to good emotions as well as bad ones. Improving bad emotions is something where people often get stuck at the beginning, without getting anywhere, so this article focuses on a way to get started.
