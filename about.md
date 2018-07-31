@@ -8,7 +8,7 @@ Website by philosopher [Elliot Temple](https://elliottemple.com) ([elliot@fallib
 Want to learn more? Check out my other websites in the sidebar. I also have a [discussion group](https://fallibleideas.com/discussion-info) and [book recommendations](https://fallibleideas.com/books).
 
 <!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<link href="https://cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 
 <div id="mc_embed_signup">
 <form action="https://fallibleideas.us14.list-manage.com/subscribe/post?u=b2e8e68c5818e273d86964fc1&amp;id=9a450fabc1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
