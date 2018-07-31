@@ -29,3 +29,5 @@ Want to learn more? Check out my other websites in the sidebar. I also have a [d
 </div>
 
 <!--End mc_embed_signup-->
+
+<p>Writing is copyright &copy; Elliot Temple. Quoting is fine, without asking permission, if you attribute it and it's fair use (such as quoting for purposes of commentary, criticism, review, or highlighting favorite quotes).</p>
