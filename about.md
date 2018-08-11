@@ -8,3 +8,5 @@ Website by philosopher [Elliot Temple](https://elliottemple.com) ([elliot@fallib
 Want to learn more? Check out my other websites in the sidebar. I also have a [discussion group](https://fallibleideas.com/discussion-info) and [book recommendations](https://fallibleideas.com/books).
 
 {% include newsletter.html %}
+
+Writing is copyright &copy; Elliot Temple. Quoting is fine, without asking permission, if you attribute it and it's fair use (such as quoting for purposes of commentary, criticism, review, or highlighting favorite quotes).
