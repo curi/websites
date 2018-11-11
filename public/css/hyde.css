@@ -88,9 +88,10 @@ html {
         height: 100%;
         width: 18rem;
 /*        text-align: left;*/
-        overflow-y: visible; // was "scroll" which made a scroll bar visible 
+        overflow-y: auto;
         display: flex;
         justify-content: flex-start;
+        overflow-x: hidden;
     }
 }
 
@@ -141,15 +142,13 @@ footer {
       height: 0;
       display: none;
     }
-    
-    .sidebar-nav-item::before {
+}
+
+nav.sidebar-nav .sidebar-nav-item::before {
         content: "⃟ ";
         color: #fff;
 /*        text-decoration: none !important; */
       }
-
-    }
-}
 
 footer {
   
