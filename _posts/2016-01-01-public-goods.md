@@ -67,7 +67,7 @@ This gives an indication of how private companies can provide defense more effec
 
 # Further Refutation of the Public Goods Doctrine
 
-I’m impressed with the Austrian arguments against the public goods doctrine, and I also have things to add.
+I’m impressed with the Austrian arguments against the public goods doctrine, and I have further arguments defending the free market.
 
 *Businesses produce a complex set of goods, and only attempt to sell some of them.* Some of those goods are more or less “public” (more easily excludable and less rivalrous) than others. Regardless, it’s the business’ job to figure out which goods to sell and how to thereby make a profit. This is not a special situation justifying government violence, it’s the normal situation of every business.
 
