@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        /:title
 
 # Setup
-title:            'Philosophy'
+title:            'Free Liberalism'
 description:      "by Elliot Temple"
-url:              https://fallibleideas.com
+url:              https://freeliberalism.com
 baseurl:          /
 
 author:
@@ -20,7 +20,7 @@ paginate:         1
 # Custom vars
 version:          1.0.0
 body-css-id:      "test"
-ga-id:            "UA-743670-1"
+ga-id:            "UA-743670-13"
 
 github:
   repo:           https://github.com/curi/websites
