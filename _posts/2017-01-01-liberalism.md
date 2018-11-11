@@ -13,7 +13,7 @@ Fundamentally, there are two related freedoms: to think and to live. The *freedo
 
 The freedom to think and to live *combine* into a big idea: **the freedom to live according to your ideas**. Liberalism advocates organizing society to grant this freedom to each *individual* person.
 
-Both freedoms can argued for by starting with the other. To think, I must be alive. And what’s the point of thinking if it has no bearing on reality? So if we start with thinking, we’ll want a physical life to go with it. What if we begin with life? Thinking is man’s best tool of survival. Being free to think improves man’s life and helps prevent dying.
+Both freedoms can be argued for by starting with the other. To think, I must be alive. And what’s the point of thinking if it has no bearing on reality? So if we start with thinking, we’ll want a physical life to go with it. What if we begin with life? Thinking is man’s best tool of survival. Being free to think improves man’s life and helps prevent dying.
 
 All other freedoms are implied by being free to think, to live, and to combine them and live according to your ideas. There are three main *requirements for success*:
 
