@@ -5,7 +5,7 @@ permalink: /public-goods
 tags: sidebar
 ---
 
-I consider Ludwig von Mises the best economist, but I’ve found little written by him about public goods. Other Austrian economists have made great points about it, which this article covers with quotes and commentary. Then I share additional arguments refuting the public goods doctrine.
+I consider Ludwig von Mises the best economist, but I’ve found little written by him about the public goods doctrine (which uses public goods and free riders as an argument for government intervention in the economy). Other Austrian economists have made great points about it, which this article covers with quotes and commentary. Then I share additional arguments defending the free market against the public goods doctrine.
 
 [Economic Science And Neoclassicism](https://mises.org/library/economic-science-and-neoclassicism-0) by Jörg Guido Hülsmann:
 

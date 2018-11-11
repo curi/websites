@@ -88,7 +88,11 @@ html {
         height: 100%;
         width: 18rem;
 /*        text-align: left;*/
+<<<<<<< HEAD
         overflow-y: auto;
+=======
+        overflow-y: auto; // was "scroll" which made a scroll bar visible, then was "visible" 
+>>>>>>> master
         display: flex;
         justify-content: flex-start;
         overflow-x: hidden;
@@ -147,8 +151,8 @@ footer {
 nav.sidebar-nav .sidebar-nav-item::before {
         content: "⃟ ";
         color: #fff;
-/*        text-decoration: none !important; */
-      }
+}
+
 
 footer {
   
