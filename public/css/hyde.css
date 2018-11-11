@@ -88,7 +88,7 @@ html {
         height: 100%;
         width: 18rem;
 /*        text-align: left;*/
-        overflow-y: visible; // was "scroll" which made a scroll bar visible 
+        overflow-y: auto; // was "scroll" which made a scroll bar visible, then was "visible" 
         display: flex;
         justify-content: flex-start;
     }
@@ -147,9 +147,11 @@ footer {
         color: #fff;
 /*        text-decoration: none !important; */
       }
-
-    }
 }
+
+
+/* put diamonds on essay names */
+// nav.sidebar-nav .sidebar-nav-item::before { content: "⃟ "; }
 
 footer {
   
