@@ -172,17 +172,15 @@ footer {
 }
 
 nav.sidebar-nav .sidebar-nav-item::before {
-        content: "⃟ ";
+        content: "♦ ";
         color: #fff;
 }
 
 
-<<<<<<< HEAD
-=======
 /* put diamonds on essay names */
 /* nav.sidebar-nav .sidebar-nav-item::before { content: "⃟ "; } */
 
->>>>>>> master
+
 footer {
   
 }
