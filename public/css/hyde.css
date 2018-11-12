@@ -183,7 +183,7 @@ footer {
 
 
 /* put diamonds on essay names. the empty one displays wrong in firefox and windows chrome */
-nav.sidebar-nav .sidebar-nav-item::before { content: "♦ "; }
+/* nav.sidebar-nav .sidebar-nav-item::before { content: "♦ "; } */
 /* nav.sidebar-nav .sidebar-nav-item::before { content: "⃟ "; } */
 
 footer {
