@@ -169,15 +169,24 @@ footer {
       height: 0;
       display: none;
     }
+    
+        .sidebar-nav-item::before {
+
+          content: "♦ ";
+          /* content: "⃟ "; */
+            color: #fff;
+    }
+    
 }
 
 nav.sidebar-nav .sidebar-nav-item::before {
         content: "♦ ";
-        color: #fff;
-}
+      }
 
 
-/* put diamonds on essay names */
+
+/* put diamonds on essay names. the empty one displays wrong in firefox and windows chrome */
+/* nav.sidebar-nav .sidebar-nav-item::before { content: "♦ "; } */
 /* nav.sidebar-nav .sidebar-nav-item::before { content: "⃟ "; } */
 
 
