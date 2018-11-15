@@ -19,8 +19,8 @@ paginate:         1
 
 # Custom vars
 version:          1.0.0
-body-css-id:      "test"
-ga-id:            "UA-743670-13"
+body-css-id:      "liberalism"
+ga-id:            "UA-743670-10"
 
 github:
   repo:           https://github.com/curi/websites
