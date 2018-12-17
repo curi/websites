@@ -102,6 +102,7 @@ If you’re interested in combatting intellectual bias yourself, you should go t
 - [Comments on Paths Forward](http://justinmallone.com/2017/01/paths-forward-comments-part-1/) (by Justin Mallone).
 - Elliot’s [Paths Forward Policy](http://curi.us/2068-my-paths-forward-policy) (how to get him to answer an issue).
 - [Alisa's Paths Forward Policy](https://bitbucket.org/petrogradphilosopher/fi/src/default/pf.md) document was inspired by this article.
+- [Paths Forward or Prediction Markets?](http://curi.us/2161-paths-forward-or-prediction-markets)
 
 If you’d like to learn more about reason and the philosophy ideas I built this article on, check out my [book recommendations](http://fallibleideas.com/books) (and my articles on that website) and sign up for my [email newsletter](http://fallibleideas.com/newsletter).
 
