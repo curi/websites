@@ -160,7 +160,7 @@ Rand wants us to see the contrast between the spotless halls (and other signs of
 
 Rand believes that form matches function more than most people realize. That’s one reason she uses symbolism like this. James had potential that he didn’t live up to. What made him a lout instead of an aristocrat? That’s important.
 
-James also looks ten years old than he is. That’s not just the heroes being pretty and the villains being ugly. He’s careless with life and takes bad care of himself. His lifestyle choices affect his appearance.
+James also looks ten years older than he is. That’s not just the heroes being pretty and the villains being ugly. He’s careless with life and takes bad care of himself. His lifestyle choices affect his appearance.
 
 > "Don't bother me, don't bother me, don't bother me," said James Taggart.
 
