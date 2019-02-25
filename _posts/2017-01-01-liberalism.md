@@ -23,7 +23,7 @@ All other freedoms are implied by being free to think, to live, and to combine t
 
 When I *live according to my ideas*, then my ideas determine how I use my body and property, and how I deal with nature. My fate is then in my own hands, and I have the opportunity to *rationally plan and live* my life. This means I can *improve* my life if I think of a way to better deal with nature or to better cooperate with other people.
 
-**Violence** harms or controls my body or property, which interfere with my ability to live as I think best. So *liberalism outlaws initiating violence; only defensive violence is acceptable.* Note: there is no such thing as self-violence; you may make a mistake, but being able to act on your own bad ideas is part of your freedom to think for yourself.
+**Violence** harms or controls my body or property, which interferes with my ability to live as I think best. So *liberalism outlaws initiating violence; only defensive violence is acceptable.* Note: there is no such thing as self-violence; you may make a mistake, but being able to act on your own bad ideas is part of your freedom to think for yourself.
 
 What is the purpose of **society**? Why not live alone on an island? Men can *cooperate* and help each other. Liberalism says men should only interact *voluntarily*, and that they can benefit greatly from *trade and the division of labor*. Voluntary interactions are ones that each person freely chooses because he thinks it’s beneficial.
 
