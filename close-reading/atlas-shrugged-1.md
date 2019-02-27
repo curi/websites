@@ -200,7 +200,7 @@ Eddie tries to focus the conversation on the concrete issues, rather than get ca
 
 The track is so bad the trains are crashing. This is scaring people off using the trains. James’ answer is that other companies have problems too, rather than trying to solve the problem. James adds that it’s *temporary*, meaning he expects the problem to somehow solve itself if he waits.
 
-This relates to a major theme: Rand's criticism of people care more about who is blamed for problems than for the actual problems. It comes up again e.g. with the Winston tunnel disaster. People cared more about whether they would be blamed for anything than whether passengers died in the tunnel.
+This relates to a major theme: Rand's criticism of people caring more about who is blamed for problems than for the actual problems. It comes up again e.g. with the Winston tunnel disaster. People cared more about whether they would be blamed for anything than whether passengers died in the tunnel.
 
 > Eddie stood looking at him silently. What Taggart disliked about Eddie Willers was this habit of looking straight into people's eyes.
 
@@ -777,7 +777,7 @@ Dagny doesn’t accept James’ framing of the issues. No matter how much James 
 > 
 > “But **who says so?**”
 
-She looked at Rearden’s formula. She uses her mind to judge things instead of accepting to say-so of authorities. How much do you take on authority? Whose authority is it, and why do you trust them? Do you ever read primary source scientific papers? What do you do when authorities disagree, as often happens? Do you side with the majority of experts? Is that a good, rational method?
+She looked at Rearden’s formula. She uses her mind to judge things instead of accepting the say-so of authorities. How much do you take on authority? Whose authority is it, and why do you trust them? Do you ever read primary source scientific papers? What do you do when authorities disagree, as often happens? Do you side with the majority of experts? Is that a good, rational method?
 
 > “Well, if it were any good, **somebody** would have used it, and nobody has.” He saw the flash of anger, and went on nervously: “How can you know it’s good? How can you be sure? How can you decide?”
 > 
