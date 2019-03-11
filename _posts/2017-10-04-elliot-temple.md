@@ -46,7 +46,7 @@ Learn about Ayn Rand's philosophy. I consider Objectivism and Critical Rationali
 
 ### <a href="https://beginningofinfinity.com/">The Beginning of Infinity</a>
 
-Info about my colleague David Deutsch's great book. I wrote over 250 pages of comments and edits during the writing process.
+Info about my colleague David Deutsch's great book. I wrote over 250 pages of comments and edits during the writing process. He was my mentor when I was new to philosophy.
 
 
 ### Fallible Ideas Newsletter
