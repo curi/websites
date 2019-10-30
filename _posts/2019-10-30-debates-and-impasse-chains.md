@@ -45,4 +45,6 @@ You can be most confident when you state an impasse chain and the other guy does
 
 Impasse chains provide a structured method, with steps you can follow, so you aren’t improvising or using ad hoc judgments. Following a specific (and publicly documented) plan makes it harder for you to act on arbitrary bias (and hide what’s going on). Structured methods make things better similar to how using checklists help improve care quality in hospitals compared to people just doing their best to remember all the actions that need to be taken and which have been taken.
 
+Impasse chains are usually consequential for people’s reputations. They are intended to clarify who is good to discuss with, who isn’t, and why. They’re about expressing irreconcilable differences with someone, which usually involves claiming it’s their fault (otherwise you’d be able to reach an agreement, e.g. that you have different interests and can each faultlessly go your separate ways and do your own thing).
+
 **Summary:** Rational discussions continue to **agreement** or to a stated *chain* of **impasses**.
