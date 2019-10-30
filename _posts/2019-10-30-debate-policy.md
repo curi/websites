@@ -7,11 +7,11 @@ css-id: debate-policy
 
 There are three reasons I’ll debate people.
 
-1. I want to. I judge it’s a good idea. It looks valuable to me. See this explanation of [[how I allocate my attention]].
+1. I want to. I judge it’s a good idea. It looks valuable to me. See this explanation of [how I allocate my attention](http://curi.us/2226-getting-elliots-attention).
 2. You request a debate according to my *debating policy*, below.
-3. You use my [[Paths Forward Policy]].
+3. You use my [Paths Forward Policy](http://curi.us/2068-my-paths-forward-policy).
 
-Why not just use my judgment and that’s it? That’s what other public intellectuals do. But that allows for *bias* and other *errors*. I may judge incorrectly. My debating and paths forward policies are *safety mechanisms* in case of incorrect judgment. They allow errors to be corrected so that I don’t stay wrong. For more info about the problem of bias, see [[Using Intellectual Processes to Combat Bias]] and the articles it links to.
+Why not just use my judgment and that’s it? That’s what other public intellectuals do. But that allows for *bias* and other *errors*. I may judge incorrectly. My debating and paths forward policies are *safety mechanisms* in case of incorrect judgment. They allow errors to be corrected so that I don’t stay wrong. For more info about the problem of bias, see [Using Intellectual Processes to Combat Bias](https://rationalessays.com/using-intellectual-processes-to-combat-bias) and the articles it links to.
 
 ## Policy
 
@@ -23,11 +23,11 @@ Why not just use my judgment and that’s it? That’s what other public intelle
 - I may decline a debate if I’m not interested in the topic. If I do, I forfeit the right to make claims about that topic contrary to your position that I refused to debate.
 - If a debate ends with 3+ chained impasses stated by me, you don’t ever get another debate unless you address the impasses or I decide to make a totally optional exception (money or major effort helps here). There is no time limit to solve impasse problems, but don’t expect to ignore those problems with no solution.
 
-To understand this policy, you’ll need to read my [[article explaining debates and impasses chains]].
+To understand this policy, you’ll need to read my [article explaining debates and impasses chains](https://rationalessays.com/debates-and-impasse-chains).
 
 ## Post-Mortems and Second Debates
 
-Suppose we debate an issue and you concede. Will I have a second debate with you? Yes, but not about any topic. I’ll want to address what went wrong on the first issue. Why did you make that mistake? What are the underlying errors and what further consequences do they have? I think it’s important to [[post-mortem errors]]. Errors are usually caused by a systematic problem that affects many things.
+Suppose we debate an issue and you concede. Will I have a second debate with you? Yes, but not about any topic. I’ll want to address what went wrong on the first issue. Why did you make that mistake? What are the underlying errors and what further consequences do they have? I think it’s important to [post-mortem errors](https://curi.us/2190-errors-merit-post-mortems). Errors are usually caused by a systematic problem that affects many things.
 
 ## Low Requirements
 
@@ -53,7 +53,7 @@ My policy is both a practical tool and a demonstration of how intellectuals shou
 
 My debate policy prevents me from doing many intellectually bad things. It’s better not to bet my intellectual career on my ability to make good judgments and avoid bias. While I believe I’m good at that, no one is perfect, and there’s no reason to rely only on my own personal, private skill and integrity.
 
-Other intellectuals need not have an identical policy, just a reasonable policy with robust anti-bias features. In particular, more famous people will need to protect their time more vigorously because so many people want to talk with them. Two of the main techniques for that are proxies (representatives who debate for you) and pre-written answers (you or your proxies can link stuff instead of rewriting it). My material on [[Paths Forward]] explains more about this. And anyone creating a debate policy can come ask questions at my [[forums]]; that’s the kind of thing I’d like to help with.
+Other intellectuals need not have an identical policy, just a reasonable policy with robust anti-bias features. In particular, more famous people will need to protect their time more vigorously because so many people want to talk with them. Two of the main techniques for that are proxies (representatives who debate for you) and pre-written answers (you or your proxies can link stuff instead of rewriting it). My material on [Paths Forward](http://fallibleideas.com/paths-forward) explains more about this. And anyone creating a debate policy can come ask questions at my [forums](http://fallibleideas.com/discussion); that’s the kind of thing I’d like to help with.
 
 ## Informal Discussion
 
@@ -65,11 +65,11 @@ The distinction between a requested debate and an informal chat is important. Pe
 
 Informal discussion works best when people are being friendly, cooperative, have high opinions of each other, and see lots of value in the other guy and the conversation. Informal discussions also work well when there isn’t much concern about bias or dishonesty (easy stuff, non-problematic areas, low goals).
 
-The more you want to do something hard and important, the more worthwhile it is to request a debate and use documented, structured methods like [[debating to agreement or a chain of five impasses]]. The more it matters, or the more resources are being invested, the more value there is in making it hard for bias to ruin everything. Formal structures make it harder to be dishonest, fool yourself, be biased, etc.
+The more you want to do something hard and important, the more worthwhile it is to request a debate and use documented, structured methods like [debating to agreement or a chain of five impasses](https://rationalessays.com/debates-and-impasse-chains). The more it matters, or the more resources are being invested, the more value there is in making it hard for bias to ruin everything. Formal structures make it harder to be dishonest, fool yourself, be biased, etc.
 
 A common good reason for informal discussion is if you’re a beginner. And initial, exploratory discussion is often informal. If you’re feeling each other out, and finding out what the other guy thinks, and what you agree and disagree about, that’s a good time for informal discussion.
 
-Informal discussion should be able to transition to formal discussion at any time (unless someone is a beginner and says they just aren’t ready). People often make it ambiguous whether they will or won’t transition, and won’t give straight answers about it, which is bad. A common cause of that ambiguity is that they don’t know what a rational, structured discussion is or how to do it (and they don’t admit that or ask about it). My [[article explaining debates and impasses]] will help with that.
+Informal discussion should be able to transition to formal discussion at any time (unless someone is a beginner and says they just aren’t ready). People often make it ambiguous whether they will or won’t transition, and won’t give straight answers about it, which is bad. A common cause of that ambiguity is that they don’t know what a rational, structured discussion is or how to do it (and they don’t admit that or ask about it). My [article explaining debates and impasses](https://rationalessays.com/debates-and-impasse-chains) will help with that.
 
 With me, transitioning to an actual debate is dependent on my debate policy requirements being met. Policies should be written in advance and used longterm, not made up ad hoc in relation to a particular discussion. They should be general policies which are exposed to criticism, not excuses made up to ignore a specific individual.
 
