@@ -51,6 +51,8 @@ I think there’s a major problem with the world and with intellectuals and deba
 
 This problem is getting in the way of scientific and philosophical progress. People working in those fields are not rationally open to debate. They get things wrong and then *stay wrong*. They judge what discussions they want (with who, and in what circumstances, e.g. with short time limits and no intention of reaching a conclusion), and if they are biased or mistaken then there’s no way to fix it. Mistakes and biases are very common and should be expected, so lacking good ways for them to be corrected *ruins everything*.
 
+There are many errors out there which *someone knows about* but which are *very hard to fix* anyway. If they were easier to fix, a lot more errors would be fixed. That would make science, economics, politics, psychology and other fields much more effective.
+
 My policy is both a practical tool and a demonstration of how intellectuals should do things.
 
 My debate policy prevents me from doing many intellectually bad things. It’s better not to bet my intellectual career on my ability to make good judgments and avoid bias. While I believe I’m good at that, no one is perfect, and there’s no reason to rely only on my own personal, private skill and integrity.
