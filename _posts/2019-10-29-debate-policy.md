@@ -13,6 +13,8 @@ There are three reasons I’ll debate people.
 
 Why not just use my judgment and that’s it? That’s what other public intellectuals do. But that allows for *bias* and other *errors*. I may judge incorrectly. My debating and paths forward policies are *safety mechanisms* in case of incorrect judgment. They allow errors to be corrected so that I don’t stay wrong. For more info about the problem of bias, see [Using Intellectual Processes to Combat Bias](https://rationalessays.com/using-intellectual-processes-to-combat-bias) and the articles it links to.
 
+If I don’t respond to something, I’m not taking it seriously, I express disinterest, I’m skeptical of the value of the topic, I’m skeptical of the quality of your knowledge, I’m not listening, or I’m otherwise wrong about anything, you can request a debate according to this policy. The debate policy overrules my initial judgment.
+
 ## Policy
 
 - Pick a name and stick to it for the whole debate.
