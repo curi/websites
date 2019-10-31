@@ -71,7 +71,7 @@ Informal discussion works best when people are being friendly, cooperative, have
 
 The more you want to do something hard and important, the more worthwhile it is to request a debate and use documented, structured methods like [debating to agreement or a chain of five impasses](https://rationalessays.com/debates-and-impasse-chains). The more it matters, or the more resources are being invested, the more value there is in making it hard for bias to ruin everything. Formal structures make it harder to be dishonest, fool yourself, be biased, etc.
 
-A common good reason for informal discussion is if you’re a beginner. And initial, exploratory discussion is often informal. If you’re feeling each other out, and finding out what the other guy thinks, and what you agree and disagree about, that’s a good time for informal discussion.
+A common good reason for informal discussion is if you’re a beginner. An initial, exploratory discussion is often informal. If you’re feeling each other out, and finding out what the other guy thinks, and what you agree and disagree about, that’s a good time for informal discussion.
 
 Informal discussion should be able to transition to formal discussion at any time (unless someone is a beginner and says they just aren’t ready). People often make it ambiguous whether they will or won’t transition, and won’t give straight answers about it, which is bad. A common cause of that ambiguity is that they don’t know what a rational, structured discussion is or how to do it (and they don’t admit that or ask about it). My [article explaining debates and impasses](https://rationalessays.com/debates-and-impasse-chains) will help with that.
 
