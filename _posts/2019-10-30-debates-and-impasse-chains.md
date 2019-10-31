@@ -48,3 +48,5 @@ Impasse chains provide a structured method, with steps you can follow, so you ar
 Impasse chains are usually consequential for people’s reputations. They are intended to clarify who is good to discuss with, who isn’t, and why. They’re about expressing irreconcilable differences with someone, which usually involves claiming it’s their fault (otherwise you’d be able to reach an agreement, e.g. that you have different interests and can each faultlessly go your separate ways and do your own thing).
 
 **Summary:** Rational discussions continue to **agreement** or to a stated *chain* of **impasses**.
+
+See also my [debate policy](https://elliottemple.com/debate-policy), my [Paths Forward](http://fallibleideas.com/paths-forward) material, and my [How To Discuss](https://curi.us/archives/list_category/114) blog category.
