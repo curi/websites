@@ -37,7 +37,7 @@ I’m offering real attention here: meet the requirements, request a debate, and
 
 I’m putting my reputation on the line, and dealing with anyone from the public, because I value discussion and debate, and because I want it to be possible for me to receive external corrections. If I’m biased or making some other mistake, I want it to be possible for people to help me. Most intellectuals lack robust ways they can be corrected, and pretty much entirely prevent corrections from the general public. I’m trying to do better.
 
-I also get a lot of informal, vague, usually-anonymous debate requests. When I make a judgment that it isn’t worth me time, sometimes they attack me as unwilling to debate. This policy will help deal with that problem. I can link them to it, or I can even say nothing because this information is prominently available. I think this policy, rather than being a burden, will help me save time while increasing the quality of discussions I participate in.
+I also get a lot of informal, vague, usually-anonymous debate requests. When I make a judgment that it isn’t worth my time, sometimes they attack me as unwilling to debate. This policy will help deal with that problem. I can link them to it, or I can even say nothing because this information is prominently available. I think this policy, rather than being a burden, will help me save time while increasing the quality of discussions I participate in.
 
 This debate policy itself can be criticized and debated if you see a problem with it. I’m highly interested in that. Also, if you have a rational debate policy of your own, I’d also be interested in seeing it and how it differs from mine, and I’d consider discussing using your policy.
 
@@ -59,7 +59,7 @@ Other intellectuals need not have an identical policy, just a reasonable policy 
 
 Informal debate and discussion is fine. I do that when I want to. But I might stop responding without explaining. That means I didn’t judge it was a good use of my time and attention (or I saved it for later). If I haven’t responded after three days, feel free to ask what’s going on, or to request a debate using my debate policy. If you think I should respond to something, but I don’t, this debate policy is the solution.
 
-Informal discussions have no clear or stakes. That’s OK. People can learn and do some parts of structured debate. But don’t try to hold me responsible for answering your arguments in an informal discussion. If you want me to take responsibility for answering arguments, use my debate policy.
+Informal discussions have no clear stakes or consequences. That’s OK. People can learn and do some parts of structured debate. But don’t try to hold me responsible for answering your arguments in an informal discussion. If you want me to take responsibility for answering arguments, use my debate policy.
 
 The distinction between a requested debate and an informal chat is important. People try to have it both ways, avoid the responsibility of asking for a serious debate, but, at the same time, try to demand that I be responsible for answering all their questions and criticisms. Now, either you used my debate policy or you didn’t, which will bring greater clarity and make it easier for me to not respond to informal messages.
 
