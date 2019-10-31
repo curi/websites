@@ -15,7 +15,7 @@ But what if you can’t agree at all? We need a second backup plan that lets us 
 
 An impasse is a reason the debate isn’t working. Why is it stuck? What is the problem with the debate? For example, we’re stuck because the other guy doesn’t understand an issue and refuses to read a book you recommended which explains the issue. He’s being unreasonable by trying to debate this while not knowing key ideas and refusing to learn them.
 
-What happens after you state an impasse? The original discussion is temporarily set aside pending resolution of the impasse. The impasse is a reason to *stop having the discussion* because it’s stuck due to some problem. This problem must be solved before continuing. (If it were a minor problem which could be ignored, that’s not an impasse.)
+What happens after you state an impasse? The original discussion is temporarily set aside pending resolution of the impasse. The impasse is a reason to *stop having the discussion* because it’s stuck due to some problem. This problem must be solved before continuing. (If it were a minor problem which could be ignored, that wouldn’t be an impasse.)
 
 Discussion of an impasse will have one of three results. The impasse problem is solved, the impasse problem turns out to be a non-problem (there was a misconception or misunderstanding which gets cleared up), or the discussion of the impasse reaches another impasse. In other words, you deal with the impasse and agree, or you get stuck.
 
@@ -31,7 +31,7 @@ When you state a second impasse, you’re making an *initial claim* that error c
 
 When you state a third impasse, it’s a reason that error correction about the problem with error correction isn’t working. That’s starting to get pretty abstract and removed from the original conversation. That makes sense. We’re discussing what’s wrong with the conversation which is actually a different topic than the original topic.
 
-Five impasses is a good rule of thumb for the *minimum* to use. Using more is sometimes a good idea. What you can look for is *repetitive impasses*. If you’ve brought up essentially the same impasse twice in a row (three times is even clearer), that’s a good reason to stop. There’s no need to do more impasses when they’re all the same anyway. This typically means you’ve reached a point where the other person is being irrational is a complete way that closes off all potential ways of making progress. Then, whatever you say, nothing changes, so the impasses keep repeating.
+Five impasses is a good rule of thumb for the *minimum* to use. Using more is sometimes a good idea. What you can look for is *repetitive impasses*. If you’ve brought up essentially the same impasse twice in a row (three times is even clearer), that’s a good reason to stop. There’s no need to do more impasses when they’re all the same anyway. This typically means you’ve reached a point where the other person is being irrational in a complete way that closes off all potential ways of making progress. Then, whatever you say, nothing changes, so the impasses keep repeating.
 
 You can also stop stating impasses if the other person refuses to discuss further. E.g. if they won’t respond to the second impasse (say they’re done or just never say anything), no third impasse is needed.
 
