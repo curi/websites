@@ -11,7 +11,7 @@ A debate is a discussion about a disagreement. The ideal outcome is reaching agr
 
 So there needs to be a way to end a debate without reaching agreement. What’s the backup plan? First, you may agree to disagree. You may agree to stop debating. You may agree it’s a hard problem. You can often disagree about the issue but still respect each other. You can agree that you both have higher priorities than continuing the debate further, and that it was productive and you both learned something. Outcomes like that, while they aren’t agreement on the issue debated, are still pretty good.
 
-But what if you can’t agree at all? We need a second backup plan that lets us *unilaterally* end a debate. That backup plain is to *explain an impasse chain*.
+But what if you can’t agree at all? We need a second backup plan that lets us *unilaterally* end a debate. That backup plan is to *explain an impasse chain*.
 
 An impasse is a reason the debate isn’t working. Why is it stuck? What is the problem with the debate? For example, we’re stuck because the other guy doesn’t understand an issue and refuses to read a book you recommended which explains the issue. He’s being unreasonable by trying to debate this while not knowing key ideas and refusing to learn them.
 
