@@ -25,7 +25,7 @@ If I don’t respond to something, I’m not taking it seriously, I express disi
 - I may decline a debate if I’m not interested in the topic. If I do, I forfeit the right to make claims about that topic contrary to your position that I refused to debate.
 - If a debate ends with 3+ chained impasses stated by me, you don’t ever get another debate unless you address the impasses or I decide to make a totally optional exception (money or major effort helps here). There is no time limit to solve impasse problems, but don’t expect to ignore those problems with no solution.
 
-To understand this policy, you’ll need to read my [article explaining debates and impasses chains](https://rationalessays.com/debates-and-impasse-chains).
+To understand this policy, you’ll need to read my [article explaining debates and impasse chains](https://rationalessays.com/debates-and-impasse-chains).
 
 ## Post-Mortems and Second Debates
 
