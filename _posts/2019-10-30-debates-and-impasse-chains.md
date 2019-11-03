@@ -33,7 +33,7 @@ When you state a third impasse, it’s a reason that error correction about the 
 
 Five impasses is a good rule of thumb for the *minimum* to use. Using more is sometimes a good idea. What you can look for is *repetitive impasses*. If you’ve brought up essentially the same impasse twice in a row (three times is even clearer), that’s a good reason to stop. There’s no need to do more impasses when they’re all the same anyway. This typically means you’ve reached a point where the other person is being irrational in a complete way that closes off all potential ways of making progress. Then, whatever you say, nothing changes, so the impasses keep repeating.
 
-You can also stop stating impasses if the other person refuses to discuss further. E.g. if they won’t respond to the second impasse (say they’re done or just never say anything), no third impasse is needed.
+You can also stop stating impasses if the other person refuses to discuss further. E.g. if they won’t respond to the second impasse (they say they’re done talking or just never say anything), no third impasse is needed.
 
 FYI, blocking error correction or preventing problem solving is *what irrationality is*. Impasses chained after the first one commonly involve claiming that the other person is irrational. Irrationality is the main reason for ending discussions unilaterally (if they are rational, wouldn’t you want to discuss with them, or at least be able to come to some sort of agreement about what happens next?).
 
