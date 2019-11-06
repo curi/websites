@@ -18,7 +18,7 @@ If I don’t respond to something, I’m not taking it seriously, I express disi
 ## Policy
 
 - Pick a name and stick to it for the whole debate.
-- Have a website under that name with 20+ articles, totaling 20,000+ words. Link it. 
+- Have a website under that name with 20+ articles, totaling 20,000+ words. Link it.
 - State that, in your honest and considered opinion, you have skill and knowledge about the topic and something important to say.
 - Give your word of honor that you will continue until we reach an agreement, you state a chain of 5+ impasses, or I state 3+ chained impasses.
 - Use [curi comments](https://curi.us) (request a new topic for the debate), [Fallible Ideas emails](http://fallibleideas.com/discussion), or suggest another forum with feature parity and easy exporting/mirroring. I recommend and prefer curi comments. Format your messages correctly. Responding to messages within two days is standard but there isn’t a hard rule for timeline.
@@ -26,6 +26,8 @@ If I don’t respond to something, I’m not taking it seriously, I express disi
 - If a debate ends with 3+ chained impasses stated by me, you don’t ever get another debate unless you address the impasses or I decide to make a totally optional exception (money or major effort helps here). There is no time limit to solve impasse problems, but don’t expect to ignore those problems with no solution.
 
 To understand this policy, you’ll need to read my [article explaining debates and impasse chains](https://rationalessays.com/debates-and-impasse-chains).
+
+Exceptions may be available, especially for other types of content creators who don't write articles, but this policy is what I'm guaranteeing I'll follow even if I have a low opinion of you. Anyone who wants to can meet these policy requirements.
 
 ## Post-Mortems and Second Debates
 
