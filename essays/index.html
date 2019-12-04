@@ -1,0 +1,29 @@
+---
+layout: default
+title: Essays
+---
+
+<h1 class="page-title">Essays</h1>
+
+{% capture all_essay_links %}
+     {% assign post_list = site.pages %}
+         {% for post in post_list %}
+          {% if post.category == "essays" %}
+         <li><a href="{{ post.url }}">
+             {{ post.title }}
+         </a></li>
+       {% endif %}
+     {% endfor %}
+ {% endcapture %} 
+
+<ul id="essays">
+	 <li><a href="/reason-and-morality">Philosophy Outline: Reason and Morality</a></li>
+	 
+ {{ all_essay_links }}
+ 
+	
+</ul>
+
+<p>Want to hear about new essays? Sign up for my free Fallible Ideas email newsletter:</p>
+
+{% include newsletter.html %}
