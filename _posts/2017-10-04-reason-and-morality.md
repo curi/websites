@@ -4,7 +4,8 @@ title: Reason & Morality
 permalink: /reason-and-morality/
 ---
 
-An outline of philosophy with links to learn more! By [Elliot Temple](https://elliottemple.com/).
+An outline of philosophy with links to learn more! By [Elliot Temple](https://elliottemple.com/). [Alan Forrester](https://conjecturesandrefutations.com) and [Justin Mallone](http://justinmallone.com/) gathered most of the links.
+
 
 ## Reason
 
