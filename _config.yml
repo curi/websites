@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        /:title
 
 # Setup
-title:            'Rand Quotes'
+title:            'Philosophy'
 description:      "by Elliot Temple"
-url:              https://randquotes.com
+url:              https://fallibleideas.com
 baseurl:          /
 
 author:
@@ -24,7 +24,7 @@ ga-id:            "UA-743670-1"
 
 github:
   repo:           https://github.com/curi/websites
-  branch:         randquotes
+  branch:         master
 
 plugins: [jekyll-paginate]
 
