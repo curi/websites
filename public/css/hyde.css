@@ -74,9 +74,17 @@ html {
 
 .sidebar, footer {
     text-align: center;
-    padding: 1.5rem 1rem;
     color: rgba(255, 255, 255, .64);
     background-color: #202020;
+}
+
+.sidebar {
+  /* top right bottom left */
+  padding: 1rem .7rem .5rem .7rem;
+}
+
+footer {
+  padding: 1.5rem 1rem;
 }
 
 @media (min-width: 48em) {
@@ -88,7 +96,7 @@ html {
         height: 100%;
         width: 18rem;
 /*        text-align: left;*/
-        overflow-y: visible; // was "scroll" which made a scroll bar visible 
+        overflow-y: auto; /* was "scroll" which made a scroll bar visible, then was "visible" */
         display: flex;
         justify-content: flex-start;
     }
@@ -104,7 +112,26 @@ html {
     color: #fff;
     margin-top: 0;
     font-family: "Abril Fatface", serif;
-    font-size: 2.25rem;
+    font-size: 2rem;
+    margin-bottom: 0px;
+}
+
+.sidebar p {
+    margin-bottom: 5px;
+}
+
+.sidebar hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+  border-top: 0px solid #fff;
+  border-bottom: 1px solid #fff;
+}
+
+.sidebar br {
+   display: block;
+   margin: 15px 0;
+   content: " ";
 }
 
 .sidebar-about {
@@ -143,13 +170,18 @@ footer {
     }
     
     .sidebar-nav-item::before {
-        content: "⃟ ";
+      
+      content: "♦ ";
+      /* content: "⃟ "; */
         color: #fff;
 /*        text-decoration: none !important; */
       }
-
-    }
 }
+
+
+/* put diamonds on essay names. the empty one displays wrong in firefox and windows chrome */
+/* nav.sidebar-nav .sidebar-nav-item::before { content: "♦ "; } */
+/* nav.sidebar-nav .sidebar-nav-item::before { content: "⃟ "; } */
 
 footer {
   
