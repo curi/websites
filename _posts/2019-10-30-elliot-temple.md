@@ -24,34 +24,22 @@ Philosophy articles, including [book recommendations][9].
 
 I write about philosophy and I use philosophy to understand other fields like politics, parenting, relationships, psychiatry, economics and science.
 
-### <a href="https://rationalessays.com">Rational Essays</a>
-
-Essays using or explaining reason.
-
-### <a href="https://freeliberalism.com">Free Liberalism</a>
-
-Writing about (classical) liberalism.
-
-### <a href="https://reasonandmorality.com/">Reason &amp; Morality</a>
-
-An outline of philosophy with links to learn more.
-
 ### <a href="https://yesornophilosophy.com">Yes or No Philosophy</a>
 
 My most important contribution to epistemology (the philosophy of knowledge).
 
 ### <a href="https://learnobjectivism.com">Learn Objectivism</a>
 
-Learn about Ayn Rand's philosophy. I consider Objectivism and Critical Rationalism (by Karl Popper) the most important philosophies.
+Learn about Ayn Rand's philosophy. I consider Objectivism and Critical Rationalism (by Karl Popper) the most important philosophies. This incomplete site has close readings of Atlas Shrugged chapters.
 
 ### <a href="https://beginningofinfinity.com/">The Beginning of Infinity</a>
 
-Info about my colleague David Deutsch's great book. I wrote over 250 pages of comments and edits during the writing process. He was my mentor when I was new to philosophy.
+Info about David Deutsch's great book. I wrote over 250 pages of comments and edits during the writing process. He was my mentor for my first 10 years of learning philosophy. We had around 5,000 hours of discussions. He's a huge influence on my ideas.
 
 
 ### Fallible Ideas Newsletter
 
-Get 2-4 emails per month with philosophy links, writing and news.
+Get 2-4 free emails per month with philosophy links, writing and news.
 
 {% include newsletter.html %}
 
