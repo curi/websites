@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        /:title
 
 # Setup
-title:            'Philosophy'
+title:            'Critical Fallibilism'
 description:      "by Elliot Temple"
-url:              https://fallibleideas.com
+url:              https://criticalfallibilism.com
 baseurl:          /
 
 author:
@@ -19,12 +19,12 @@ paginate:         1
 
 # Custom vars
 version:          1.0.0
-body-css-id:      "test"
-ga-id:            "UA-743670-1"
+body-css-id:      "critical-fallibilism"
+ga-id:            "UA-743670-15"
 
 github:
   repo:           https://github.com/curi/websites
-  branch:         master
+  branch:         criticalfallibilism
 
 plugins: [jekyll-paginate]
 
