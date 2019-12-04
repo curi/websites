@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Debates and Impasse Chains"
-permalink: /debates-and-impasse-chains
+permalink: /moved/debates-and-impasse-chains
 tags: article
 ---
 

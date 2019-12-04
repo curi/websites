@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Using Intellectual Processes to Combat Bias"
-permalink: /using-intellectual-processes-to-combat-bias
+permalink: /moved/using-intellectual-processes-to-combat-bias
 tags: article
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Learning Philosophy"
-permalink: /learning-philosophy
+permalink: /moved/learning-philosophy
 tags: article
 ---
 

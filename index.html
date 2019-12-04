@@ -5,19 +5,4 @@ title: Home
 
 <h1 class="page-title">Rational Essays</h1>
 
-<p>These essays aim to use reason to better understand the world.</p>
-
-{% capture all_article_links %}
-     {% assign post_list = site.tags.article %}
-     {% for post in post_list %}
-     <li><a class="article-nav-item {% if page.url == post.url %}active{% endif %}" href="{{ post.url }}">
-         {{ post.title }}
-     </a></li>
-     {% endfor %}
- {% endcapture %} 
- 
- <ul>
- {{ all_article_links }}
- </ul>
- 
-{% include newsletter.html %}
+<p>This website has permanently moved to <a href="https://elliottemple.com/essays">https://elliottemple.com/essays</a></p>

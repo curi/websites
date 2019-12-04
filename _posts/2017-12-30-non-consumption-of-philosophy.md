@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Dialog: Non-Consumption of Philosophy"
-permalink: /non-consumption-of-philosophy
+permalink: /moved/non-consumption-of-philosophy
 tags: article
 ---
 

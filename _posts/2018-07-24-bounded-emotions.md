@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bounded and Unbounded Emotions"
-permalink: /bounded-emotions
+permalink: /moved/bounded-emotions
 tags: article
 ---
 

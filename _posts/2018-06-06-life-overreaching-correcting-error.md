@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Life, Overreaching and Correcting Error"
-permalink: /life-overreaching-correcting-error
+permalink: /moved/life-overreaching-correcting-error
 tags: article
 ---
 
