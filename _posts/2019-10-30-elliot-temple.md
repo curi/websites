@@ -26,7 +26,7 @@ I write about philosophy and I use philosophy to understand other fields like po
 
 ### <a href="https://yesornophilosophy.com">Yes or No Philosophy</a>
 
-My most important contribution to epistemology (the philosophy of knowledge).
+Buy educational materials explaining my most important contribution to epistemology (the philosophy of knowledge).
 
 ### <a href="https://learnobjectivism.com">Learn Objectivism</a>
 
