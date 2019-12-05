@@ -12,13 +12,13 @@ gem "jekyll-paginate", "~> 1.1"
 gem "redcarpet", "~> 3.4"
 
 # Added at 2017-09-25 22:28:38 +1000 by maxkaye:
-gem "kramdown", "~> 1.15"
+gem "kramdown", "~> 2.1"
 
 # Added at 2017-09-25 22:29:25 +1000 by maxkaye:
 gem "addressable", "~> 2.5"
 
 # Added at 2017-09-25 22:30:07 +1000 by maxkaye:
-gem "jekyll", "~> 3.6"
+gem "jekyll", "~> 4.0"
 
 # Added at 2017-09-25 22:30:51 +1000 by maxkaye:
 gem "pygments.rb", "~> 1.2"
