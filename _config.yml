@@ -19,8 +19,8 @@ paginate:         1
 
 # Custom vars
 version:          1.0.0
-body-css-id:      "test"
-ga-id:            "UA-743670-1"
+body-css-id:      "rand-quotes"
+ga-id:            "UA-743670-9"
 
 github:
   repo:           https://github.com/curi/websites
