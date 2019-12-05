@@ -15,8 +15,7 @@
 
           <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
-          <a class="sidebar-nav-item {% if page.url == post.url %}active{% endif %}" href="/essays">Essays</a>
-					
+          <a class="sidebar-nav-item {% if page.url == '/essays/' %}active{% endif %}" href="/essays">Essays</a>
 
            {% capture all_sidebar_links %}
                 {% assign post_list = site.tags.sidebar %}
