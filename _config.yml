@@ -24,7 +24,7 @@ ga-id:            "UA-743670-9"
 
 github:
   repo:           https://github.com/curi/websites
-  branch:         master
+  branch:         randquotes
 
 plugins: [jekyll-paginate]
 
