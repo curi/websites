@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        /:title
 
 # Setup
-title:            'Philosophy'
+title:            'Rand Quotes'
 description:      "by Elliot Temple"
-url:              https://fallibleideas.com
+url:              https://randquotes.com
 baseurl:          /
 
 author:
