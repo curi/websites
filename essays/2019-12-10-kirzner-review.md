@@ -8,7 +8,7 @@ This is a critical review of Israel M. Kirzner’s [Report on a Treatise](http:/
 
 **First**, I’ll discuss some of Kirzner’s arguments about economics. (Part of what Kirzner does isn’t reviewing the book but debating economic theory with Reisman.) **Second**, I’ll look at a few of Kirzner’s errors. Kirzner is an unreliable narrator, which is a problematic trait for a reviewer who is guiding the opinions of people who haven’t read the book themselves. **Third**, I’ll make brief comments about what the review is like.
 
-The format I’ll use is block quotes then responses. This helps engage with what people actually said. Yellow quotes are from Kirzner’s review and green are from *Capitalism*.
+The format I’ll use is block quotes then responses. This helps engage with what people actually said. Yellow quotes are from Kirzner’s review, green are from *Capitalism* and blue are other sources.
 
 ## Arguments
 
@@ -150,6 +150,11 @@ Reisman didn’t say his book had an “ideological” flavor, yet that word app
 > Reisman’s (implicit) refusal to recognize the centrality of the entrepreneurial role in the Misesian system (the term “entrepreneur” is used only very rarely in the book, and is not assigned an entry in the Index) [...]
 
 Reisman discusses this extensively using synonyms for entrepreneur like “businessman”. For more info, see my [Refutation of Tabarrok’s Criticism of Reisman](https://curi.us/2262-refutation-of-tabarroks-criticism-of-reisman), which is mostly about this issue.
+
+Relatedly, Murray Rothbard [criticized Kirzner](https://mises.org/library/end-socialism-and-calculation-debate-revisited-0) for misunderstanding entrepreneurs:
+
+> As Salerno points out, for all their talk of dynamism and uncertainty, the Hayek-Kirzner "entrepreneur" is curiously bloodless and passive, receiving and passively imbibing knowledge imparted to him by the market. The Hayek-Kirzner entrepreneur is far closer than they like to think to the Walrasian automaton — to the fictional "auctioneer" who avoids all real trades in the marketplace.[28]
+{: .tertiary}
 
 ## What the Review Is Like
 
