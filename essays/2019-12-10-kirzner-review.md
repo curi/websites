@@ -101,7 +101,7 @@ Kirzner’s criticisms don’t fit the book he’s criticizing.
 
 I’d be surprised if Reisman himself would agree with that. Kirzner, as a *hostile and critical* reviewer, shouldn’t speak for Reisman.
 
-Reisman’s extensive criticism of the Marxist labor theory of value is separate from his aggregate-wealth argumentation, so that’s a counter example to Kirzner’s claim. Further counter examples can be found throughout the book, such as in chapter 18, *Keynesianism: A Critique*. There, for example, Reisman criticizes Keynesian context dropping (not an aggregate-wealth point) in the section *The Declining-Marginal-Efficiency-of-Capital Doctrine and the Fallacy of Context Dropping*.
+Reisman’s extensive criticism of the Marxist labor theory of value is separate from his aggregate-wealth argumentation, so that’s a counterexample to Kirzner’s claim. Further counterexamples can be found throughout the book, such as in chapter 18, *Keynesianism: A Critique*. There, for example, Reisman criticizes Keynesian context dropping (not an aggregate-wealth point) in the section *The Declining-Marginal-Efficiency-of-Capital Doctrine and the Fallacy of Context Dropping*.
 
 ### Services
 
