@@ -6,7 +6,7 @@ permalink: /essays/kirzner-review
 
 This is a critical review of Israel M. Kirzner’s [Report on a Treatise](http://www.gmu.edu/depts/rae/archives/VOL12_1_1999/kirzner.pdf), which is a critical review of George Reisman’s [Capitalism: A Treatise on Economics](https://mises.org/library/capitalism-treatise-economics).
 
-**First**, I’ll discuss some of Kirzner’s arguments about economics. (Part of what Kirzner does isn’t reviewing the book but debating economic theory with Reisman.) **Second**, I’ll look at a few of Kirzner’s errors. Kirzner is an unreliable narrator, which is a problematic trait for a reviewer who is guiding the opinions people who haven’t read the book themselves. **Third**, I’ll make brief comments about what the review is like.
+**First**, I’ll discuss some of Kirzner’s arguments about economics. (Part of what Kirzner does isn’t reviewing the book but debating economic theory with Reisman.) **Second**, I’ll look at a few of Kirzner’s errors. Kirzner is an unreliable narrator, which is a problematic trait for a reviewer who is guiding the opinions of people who haven’t read the book themselves. **Third**, I’ll make brief comments about what the review is like.
 
 The format I’ll use is block quotes then responses. This helps engage with what people actually said. Yellow quotes are from Kirzner’s review and green are from *Capitalism*.
 
@@ -16,7 +16,7 @@ The format I’ll use is block quotes then responses. This helps engage with wha
 
 > Reisman’s summary rejection of the centrality of individual decisions in defining the nature of economic science
 
-Reisman doesn’t do that, but let’s continue to the main point.
+Reisman doesn’t do that (see my *Aggregates* section below), but let’s continue to the main point.
 
 > seems responsible for a deeply disturbing omission that cries out from this massive book. For most economists, certainly for the Austrians, a central (if not *the* central) analytical challenge with which economic theory grapples is the following: How is it that a multitude of independently-made decisions, informed (or confused!) by a multitude of independently-generated sets of expectations (in regard to a future fraught with Knightian uncertainty), tend, in the free market setting, to become substantially *mutually coordinated* without central direction? What is it that somehow shapes individual expectations concerning the attitudes (and expectations!) and prospective decisions of other individuals in a way which inspires individual human actions which (a) successfully anticipate and exploit the decisions being made by others, and (b) tend to reveal and to eliminate as-yet unexploited opportunities for mutually gainful exchange? One searches throughout this lengthy volume in vain for direct recognition of the centrality (or even the very existence) of this puzzle.
 
@@ -39,11 +39,11 @@ and
 
 This answers one of Kirzner’s main arguments: Reisman’s alleged failure to explain coordination without central direction. If you’re not fully convinced that this issue is covered, I suggest reading the pages indexed regarding coordination: 137–139, 144–145, 172–218, 267–276, 462, 463–464.
 
-### Price, Value, Marginal Utility and Costs of Production
+### Price, Marginal Utility and Costs of Production
 
 > Reisman believes that the central Austrian advances over the classics in marginal utility theory and price theory can be accepted without fundamentally compromising the usefulness and validity of the general classical framework. Economics is concerned, in Reisman’s classical view, exclusively with the production of a carefully and, it is believed, an objectively defined *wealth*; [...] Marginal utility considerations are presented by Reisman with sufficient subtlety, insight, and lawyerlike linguistic skill, as to be able to appear, at least, to retain the classical claim that costs of production are the direct determinants of value.
 
-Kirzner thinks Reisman is incorrect about price theory and contradicts the Austrian view, in spirit if not in lawyerlike detail. This is because Reisman believes that in some cases (goods that are “reproducible at will” in Böhm-Bawerk’s words), prices are set to the cost of production plus a markup.  Kirzner believes that view is incompatible with the Austrian marginal utility theory.
+Kirzner thinks that Reisman is incorrect about price theory and contradicts the Austrian view, in spirit if not in lawyerlike detail. This is because Reisman believes that in some cases (goods that are “reproducible at will” in Böhm-Bawerk’s words), prices are set to the cost of production plus a markup.  Kirzner believes that that view is incompatible with the Austrian marginal utility theory.
 
 I suggest reading the section *Ricardo and Böhm-Bawerk on Cost of Production Versus the Elasticity of Demand* in *Capitalism*. Here’s an excerpt following a lengthy explanation quoted from the Austrian economist Böhm-Bawerk. At the end of this quote, Reisman explains the error (by Jevons) that he’s contradicting:
 
@@ -175,4 +175,4 @@ I think these criticisms are adequate to *reject the review as incorrect*.
 
 I wrote this as part of my attempt to discover if there exists any correct criticism of *Capitalism*. The only other notable criticism I’ve seen is by Alexander Tabarrok, which is also [refuted](https://curi.us/2262-refutation-of-tabarroks-criticism-of-reisman). Please contact me if you know of other criticism of *Capitalism*.
 
-No idea can have a 100% guarantee against error which applies into the indefinite future and in all new contexts. The proper [standard of knowledge](http://fallibleideas.com/books#popper) is whether we know of errors today. My conclusion is that there are no known major errors in *Capitalism*, and it therefore meets that standard. Along with the works of Reisman’s teacher, [Ludwig von Mises](http://fallibleideas.com/books#mises), *Capitalism* should be accepted as some of the best economics knowledge currently in existence.
+No idea can have a 100% guarantee against error which applies in the indefinite future and in all new contexts. The proper [standard of knowledge](http://fallibleideas.com/books#popper) is whether we know of errors today. My conclusion is that there are no known major errors in *Capitalism*, and it therefore meets that standard. Along with the works of Reisman’s teacher, [Ludwig von Mises](http://fallibleideas.com/books#mises), *Capitalism* should be accepted as some of the best economics knowledge currently in existence.
