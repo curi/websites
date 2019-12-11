@@ -4,7 +4,6 @@ title: "Review of Kirzner Reviewing Reisman"
 permalink: /essays/kirzner-review
 ---
 
-
 This is a critical review Israel M. Kirzner’s [Report on a Treatise](http://www.gmu.edu/depts/rae/archives/VOL12_1_1999/kirzner.pdf), which is a critical review of George Reisman’s [Capitalism: A Treatise on Economics](https://mises.org/library/capitalism-treatise-economics).
 
 **First**, I’ll discuss some of Kirzner’s arguments about economics. (Part of what Kirzner does isn’t reviewing the book but debating economic theory with Reisman.) **Second**, I’ll look at a few of Kirzner’s errors. Kirzner is an unreliable narrator, which is a problematic trait for a reviewer who is guiding the opinions people who haven’t read the book themselves. **Third**, I’ll make brief comments about what the review is like.
@@ -36,8 +35,9 @@ and
 > We can now understand even more fully than was possible earlier how in a free market the production of each good is carried on in a way that is maximally conducive to production in the rest of the economic system. For we are now in a position to understand more fully how the concern with costs of production promotes the production of other goods every time it leads to the substitution of lower-priced factors of production in limited supply for higher-priced ones, such as the use of unskilled labor where skilled labor was previously required, or the use of a less expensive quantity of aluminum where a more expensive quantity of copper was previously required, and so on. All we have to do is keep in mind that the less expensive factors in limited supply *are* less expensive because the importance of their marginal products to the consumers is less. To substitute less expensive factors for more expensive ones, therefore, is to make it possible for the consumers to obtain products to which they attach greater marginal importance at the expense of products to which they attach smaller marginal importance. For the more expensive factors are released to uses of greater importance than those from which the less expensive factors are withdrawn.
 >  
 > Thus, the fact that in a free market production is carried on at the lowest possible cost that businessmen can achieve means that the production of each thing is carried on not only with the least possible amount of labor, but with *those specific types of labor and other factors of production in limited supply whose use represents the least possible impairment of the satisfaction of alternative wants.*
+{: .secondary}
 
-I believe this answers one of Kirzner’s main arguments, Reisman’s alleged failure to explain coordination without central direction. If you’re not fully convinced that this issue is covered, I suggest reading the pages indexed regarding coordination: 137–139, 144–145, 172–218, 267–276, 462, 463–464.
+This answers one of Kirzner’s main arguments: Reisman’s alleged failure to explain coordination without central direction. If you’re not fully convinced that this issue is covered, I suggest reading the pages indexed regarding coordination: 137–139, 144–145, 172–218, 267–276, 462, 463–464.
 
 ### Price, Value, Marginal Utility and Costs of Production
 
