@@ -4,7 +4,7 @@ title: "Review of Kirzner Reviewing Reisman"
 permalink: /essays/kirzner-review
 ---
 
-This is a critical review Israel M. Kirzner’s [Report on a Treatise](http://www.gmu.edu/depts/rae/archives/VOL12_1_1999/kirzner.pdf), which is a critical review of George Reisman’s [Capitalism: A Treatise on Economics](https://mises.org/library/capitalism-treatise-economics).
+This is a critical review of Israel M. Kirzner’s [Report on a Treatise](http://www.gmu.edu/depts/rae/archives/VOL12_1_1999/kirzner.pdf), which is a critical review of George Reisman’s [Capitalism: A Treatise on Economics](https://mises.org/library/capitalism-treatise-economics).
 
 **First**, I’ll discuss some of Kirzner’s arguments about economics. (Part of what Kirzner does isn’t reviewing the book but debating economic theory with Reisman.) **Second**, I’ll look at a few of Kirzner’s errors. Kirzner is an unreliable narrator, which is a problematic trait for a reviewer who is guiding the opinions people who haven’t read the book themselves. **Third**, I’ll make brief comments about what the review is like.
 
