@@ -2,6 +2,7 @@
 layout: page
 title: "Review of Kirzner Reviewing Reisman"
 permalink: /essays/kirzner-review
+category: essays
 ---
 
 This is a critical review of Israel M. Kirzner’s [Report on a Treatise](http://www.gmu.edu/depts/rae/archives/VOL12_1_1999/kirzner.pdf), which is a critical review of George Reisman’s [Capitalism: A Treatise on Economics](https://mises.org/library/capitalism-treatise-economics).
