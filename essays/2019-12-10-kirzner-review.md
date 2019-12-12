@@ -8,7 +8,7 @@ This is a critical review of Israel M. Kirzner’s [Report on a Treatise](http:/
 
 **First**, I’ll discuss some of Kirzner’s arguments about economics. (Part of what Kirzner does isn’t reviewing the book but debating economic theory with Reisman.) **Second**, I’ll look at a few of Kirzner’s errors. Kirzner is an unreliable narrator, which is a problematic trait for a reviewer who is guiding the opinions of people who haven’t read the book themselves. **Third**, I’ll make brief comments about what the review is like.
 
-The format I’ll use is block quotes then responses. This helps engage with what people actually said. Yellow quotes are from Kirzner’s review, green are from *Capitalism* and blue are other sources.
+The format I’ll use is block quotes then responses. This helps engage with what people actually said. Yellow quotes are from Kirzner’s review, green are from *Capitalism* and blue are other sources. I don’t give page numbers; to look up the quotes, please use computer search.
 
 ## Arguments
 
@@ -43,7 +43,9 @@ This answers one of Kirzner’s main arguments: Reisman’s alleged failure to e
 
 > Reisman believes that the central Austrian advances over the classics in marginal utility theory and price theory can be accepted without fundamentally compromising the usefulness and validity of the general classical framework. Economics is concerned, in Reisman’s classical view, exclusively with the production of a carefully and, it is believed, an objectively defined *wealth*; [...] Marginal utility considerations are presented by Reisman with sufficient subtlety, insight, and lawyerlike linguistic skill, as to be able to appear, at least, to retain the classical claim that costs of production are the direct determinants of value.
 
-Kirzner thinks that Reisman is incorrect about price theory and contradicts the Austrian view, in spirit if not in lawyerlike detail. This is because Reisman believes that in some cases (goods that are “reproducible at will” in Böhm-Bawerk’s words), prices are set to the cost of production plus a markup.  Kirzner believes that that view is incompatible with the Austrian marginal utility theory.
+Kirzner thinks that Reisman is incorrect about price theory and that the Austrian and classical views contradict each other. Reisman’s alleged error is using lawyerlike linguistic skill to make contradictory ideas *appear* compatible.
+
+The economic claim that Kirzner seems to disagree with is Reisman’s belief that, in some cases (goods that are “reproducible at will” in Böhm-Bawerk’s words), prices are set to the cost of production plus a markup.
 
 I suggest reading the section *Ricardo and Böhm-Bawerk on Cost of Production Versus the Elasticity of Demand* in *Capitalism*. Here’s an excerpt following a lengthy explanation quoted from the Austrian economist Böhm-Bawerk. At the end of this quote, Reisman explains the error (by Jevons) that he’s contradicting:
 
@@ -54,7 +56,7 @@ I suggest reading the section *Ricardo and Böhm-Bawerk on Cost of Production Ve
 > It should be clear that the notion that cost of production has no significant explanatory role in economics does not come from Böhm-Bawerk and Wieser. It comes from Jevons. It was Jevons who held that the only possible connection between cost of production and price was through the intermediary of variations in supply and that every price is actually determined by the specific demand for and supply of the individual good in question.[59]
 {: .secondary}
 
-Reisman, Böhm-Bawerk and Wieser aren’t disagreeing with the Austrian theory of marginal utility (as Kirzner criticized). Instead, in Böhm-Bawerk’s words, they’ve recognized that cost of production is “an abbreviation which is as accurate as it is convenient” (in some cases, but not others, which they explain).
+Reisman, Böhm-Bawerk and Wieser aren’t making the error of disagreeing with the Austrian theory of marginal utility, nor of advocating something it contradicts. Instead, in Böhm-Bawerk’s words, they’ve recognized that cost of production is “an abbreviation which is as accurate as it is convenient” (in some cases, but not others, which they explain).
 
 If you’d like more info after reading this section in full, I suggest the section *Compatibility With the Austrian Theory of Value*.
 
@@ -62,15 +64,15 @@ If you’d like more info after reading this section in full, I suggest the sect
 
 > But surely this entire classical perspective was, in revolutionary fashion, utterly rejected by Menger! Menger was responsible for an entirely different view of the economic system as a whole, one in which the economic meaning attached to each and every element in the system of production, is derived strictly and exclusively from its role in serving, directly or indirectly, the specific prospective needs of the consumers. From this Mengerian perspective, the very notion of a level at which production can be considered “as a whole” is highly problematic.
 
-This is partly a criticism of Reisman’s view of pricing (covered in the previous section) and partly a criticism of his use of aggregates. Kirzner devotes significant attention to these themes. I’ll give one more quote:
+This is partly a criticism of Reisman’s view of pricing (covered in the previous section) and partly a criticism of his use of aggregates. Kirzner devotes considerable attention to these themes. I’ll give one more quote:
 
 > Nowhere, in this macroeconomics [of Reisman’s], is there recognition of possible problems arising out of failures of individual decisions, or of groups of decisions, to dovetail with those of other individuals (or groups of individuals), or to generate mutually sustainable sets of expectations. Nowhere is there awareness of any doubts as to the economic meaningfulness of these aggregate magnitudes (as seen from the subjective, Austrian, vantage point of ultimate consumer satisfaction).
 
 Kirzner’s comments about generating mutually sustainable sets of expectations are related to the coordination problem addressed above. 
 
-Kirzner doesn’t point out any specific error by Reisman but takes issue with his discussion of aggregates. He thinks Reisman isn’t individualist enough in his analysis. However, the text “individual” appears 1,174 times in *Capitalism*, and I provide quotes below where Reisman considers individuals.
+Kirzner doesn’t point out any specific error by Reisman but takes issue with his discussion of aggregates. He thinks Reisman’s analysis isn’t individualist enough. However, the text “individual” appears 1,174 times in *Capitalism*, and I provide quotes below where Reisman considers individuals.
 
-Notice that Kirzner accuses Reisman of nowhere recognizing possible problems with aggregates and having no awareness of doubts. This is incorrect. For example, Reisman wrote:
+Kirzner specifically accuses Reisman of *nowhere recognizing* possible problems with aggregates and having *no awareness of doubts*. This is incorrect. For example, Reisman wrote:
 
 > Money is important *within the economic system,* as the means of individuals exchanging their goods and services and as the basis of their performing economic calculations. It has no significance as a measure of the production of the economic system as a whole. Contemporary economics fails to see the real significance of money—in the activities of individuals—and focuses instead on the illusory significance of money as a measure of aggregate production.
 > 
@@ -84,7 +86,7 @@ Reisman sometimes talks about aggregates because it’s useful to do so. He’s 
 > It is appropriate to observe here that while my analysis is carried on in terms of aggregates and averages, it is vital that the *individual* wage rates of all specific occupations and industries, in all their particular locations, be free to fall to the varying extents that are necessary. While isolated wage rigidities will not prevent the achievement of full employment, their effect is to require greater than necessary reductions in wage rates elsewhere and to cause unnecessary disproportions in the relative production of the various goods, and inefficiencies in the methods of production that are used. This is because [...]
 {: .secondary}
 
-Here’s another example of Reisman doing analysis from an individual perspective when appropriate:
+Here’s another example of Reisman doing analysis from an individual perspective:
 
 > I now must reconcile the perception of individuals, that the way to raise their standard of living is by earning more money, with the productivity theory of wages, which shows that the general standard of living does not rise by virtue of the earning of more money, but by virtue of the rise in the productivity of labor and the consequent fall in prices relative to wages.
 > 
@@ -114,7 +116,7 @@ That isn’t Reisman’s position. From *Capitalism*:
 
 This does not *exclude* services in general from economics as Kirzner claims. It simply *gives services a secondary and less prominent role*. And it excludes *some* services, such as personal conversations.
 
-Reisman *includes* services like construction, banking, insurance, transportation, mining, farming, and manufacturing. He further *includes* cleaning and repair of goods and selling goods in retail stores. He also *includes* services less connected with business such as haircuts, vacation flights, and personal telephone use. (All those examples are from the book.)
+Reisman *includes* services like construction, banking, insurance, transportation, mining, farming, and manufacturing. He further *includes* cleaning and repair of goods, and selling goods in retail stores. He also *includes* services less connected with business such as haircuts, vacation flights, and personal telephone use. (All those examples are from the book.)
 
 ### Micro and Macro Confusion
 
@@ -122,11 +124,13 @@ Reisman *includes* services like construction, banking, insurance, transportatio
 
 Reisman, as quoted, and as discussed by Kirzner in his next paragraph, is saying that, as an approximation: *At the micro level, business depends on consumers. At the macro level, it switches, and consumers depend on business.*
 
-However, in the italicized sentence, Kirzner makes an error. There, he says that at a macro level, (Reisman thinks that) business depends on consumers. That’s the reverse of what Reisman said.
+However, Kirzner makes an error in the italicized sentence in the quote. There, he says that, at a macro level, (Reisman thinks that) business depends on consumers. That’s the reverse of what Reisman said. Consumers depending on business, and business depending on consumers, are opposites.
 
-I would have skipped this error if that were the whole story, but based on his own error, Kirzner then accuses Reisman of the *fallacy of composition*. That fallacy involves inferring from the part to the whole, e.g. I am partly made of water therefore I’m entirely made of water. Kirzner means that Reisman inferred from micro (part) to macro (whole), and that Reisman fallaciously assumed that what holds true at the micro level therefore must whole true at the macro level too.
+I would have skipped this if it were merely a misstatement. But based on his own error, Kirzner accuses Reisman of the *fallacy of composition*. That fallacy involves inferring from the part to the whole, e.g. I am partly made of water therefore I’m entirely made of water.
 
-This criticism doesn’t work because Reisman claimed the micro and macro level are different, not the same. Further, Reisman gave reasoning in the book which is nothing like the fallacy. Instead of making a fallacious assumption, Reisman used arguments. For that reason, the fallacy accusation would be unreasonable even if it wasn’t based on Kirzner’s own misreading
+Kirzner means that Reisman inferred from micro (part) to macro (whole), and that Reisman fallaciously assumed that what holds true at the micro level therefore must whole true at the macro level too. This criticism doesn’t work because Reisman actually claimed the micro and macro level are different, not the same.
+
+Further, Reisman gave reasoning in the book which is nothing like the fallacy. Instead of making a fallacious assumption, Reisman used arguments. For that reason, the fallacy accusation would be unreasonable even if it wasn’t based on Kirzner’s own misstatement
 
 ### Mises’ Disapproval?
 
@@ -137,7 +141,7 @@ This is misleading. Here’s what Reisman said:
 > Mises believed that because of my resurrection of the classical economists, I was indirectly resurrecting Marx. (Happily, he changed his mind on this subject two years later, after hearing my lecture “A Ricardian’s Critique of the Exploitation Theory.”
 {: .secondary}
 
-So what we learn from Reisman’s preface is that Mises *initially* disapproved, but changed his mind two years later. Kirzner incorrectly suggests broad disagreement between Mises and Reisman, *admitted by Reisman in his own words*, but contrary to Reisman’s actual text.
+So what we learn from Reisman’s preface is that Mises *initially* disapproved, but changed his mind two years later. Kirzner incorrectly suggests broad disagreement between Mises and Reisman, *admitted by Reisman in his own words*, but contrary to Reisman’s actual words.
 
 ### Misquote
 
@@ -162,13 +166,15 @@ Relatedly, Murray Rothbard [criticized Kirzner](https://mises.org/library/end-so
 
 This is representative of other comments by Kirzner. It’s important for understanding the review’s tone and approach. Above, I intentionally avoided quoting comments like these to focus on the issues, but that made the quotes I discussed somewhat unrepresentative of the whole review.
 
-This quote is hypocritical because Kirzner criticizes Reisman for making blunt, offensive, alienating statements (as you can see in this quote, and he says it elsewhere too). Kirzner himself does that to Reisman in the review.
+This quote is hypocritical because Kirzner criticizes Reisman for making blunt, offensive, alienating statements (as you can see in this quote, and he says it elsewhere too). But Kirzner himself does that to Reisman throughout the review, including in this quote and the next one.
 
 > Intellectual honesty must prevent one from sharing such acceptance.
 
 This is an example of Kirzner calling his opponents (not only Reisman but Reisman’s fans) intellectually dishonest. It comes after Kirzner’s criticisms of Reisman for (allegedly) being too intolerant of people he disagrees with.
 
-It also comes after Kirzner criticized Reisman for criticizing the “willful dishonesty” of the environmentalist movement. I had thought Kirzner meant that questioning people’s honesty was outside the scope of acceptable debate. Note that Reisman wasn’t just throwing out insults. To go with his claim about dishonesty, Reisman presented a direct quote (from *Discover* magazine) of a leading environmentalist advocating being less than “honest”, scaring the public, and leaving out doubts.
+It also comes after Kirzner criticized Reisman for criticizing the “willful dishonesty” of the environmentalist movement. I had thought Kirzner meant that questioning people’s honesty was outside the scope of acceptable debate, but then he did it himself.
+
+Note that Reisman wasn’t just throwing out insults. To go with his claim about dishonesty, Reisman presented a direct quote (from *Discover* magazine) of a leading environmentalist advocating being less than “honest”, scaring the public, and leaving out doubts.
 
 > [One of Reisman’s ideas] is extremely cumbersome, and not at all necessarily superior to a number of mainstream textbook treatments
 
@@ -178,6 +184,6 @@ This verbose, cumbersome wording is typical of Kirzner’s writing style.
 
 I think these criticisms are adequate to *reject the review as incorrect*.
 
-I wrote this as part of my attempt to discover if there exists any correct criticism of *Capitalism*. The only other notable criticism I’ve seen is by Alexander Tabarrok, which is also [refuted](https://curi.us/2262-refutation-of-tabarroks-criticism-of-reisman). Please contact me if you know of other criticism of *Capitalism*.
+I wrote this as part of my attempt to discover if there exists any correct criticism of *Capitalism*. I haven’t found any. Reisman [refuted](https://mises.org/library/reisman-capitalism) Alexander Tabarrok’s criticism and I [refuted](https://curi.us/2262-refutation-of-tabarroks-criticism-of-reisman) Tabarrok’s followup. Please contact me if you know of unaddressed criticism of *Capitalism*.
 
-No idea can have a 100% guarantee against error which applies in the indefinite future and in all new contexts. The proper [standard of knowledge](http://fallibleideas.com/books#popper) is whether we know of errors today. My conclusion is that there are no known major errors in *Capitalism*, and it therefore meets that standard. Along with the works of Reisman’s teacher, [Ludwig von Mises](http://fallibleideas.com/books#mises), *Capitalism* should be accepted as some of the best economics knowledge currently in existence.
+My conclusion is that there are no known major errors in *Capitalism*. Perhaps a major error will be discovered in the future, but so far no one has found one and explained it. So, along with the works of [Ludwig von Mises](http://fallibleideas.com/books#mises) (Reisman’s teacher), *Capitalism* should be accepted as some of the best economics knowledge currently in existence.
