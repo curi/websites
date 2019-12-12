@@ -185,6 +185,6 @@ This verbose, cumbersome wording is typical of Kirzner’s writing style.
 
 I think these criticisms are adequate to *reject the review as incorrect*.
 
-I wrote this as part of my attempt to discover if there exists any correct criticism of *Capitalism*. I haven’t found any. Reisman [refuted](https://mises.org/library/reisman-capitalism) Alexander Tabarrok’s criticism and I [refuted](https://curi.us/2262-refutation-of-tabarroks-criticism-of-reisman) Tabarrok’s followup. Please contact me if you know of unaddressed criticism of *Capitalism*.
+I wrote this as part of my attempt to discover if there exists any correct criticism of *Capitalism*. I haven’t found one. For example, Reisman [refuted](https://mises.org/library/reisman-capitalism) Alexander Tabarrok’s criticism and I [refuted](https://curi.us/2262-refutation-of-tabarroks-criticism-of-reisman) Tabarrok’s followup. Please contact me if you know of unaddressed criticism of *Capitalism*.
 
-My conclusion is that there are no known major errors in *Capitalism*. Perhaps a major error will be discovered in the future, but so far no one has found one and explained it. So, along with the works of [Ludwig von Mises](http://fallibleideas.com/books#mises) (Reisman’s teacher), *Capitalism* should be accepted as some of the best economics knowledge currently in existence.
+My conclusion is that there are no known major errors in *Capitalism*. No one has discovered and explained one. So, along with the works of [Ludwig von Mises](http://fallibleideas.com/books#mises) (Reisman’s teacher), *Capitalism* should be accepted as some of the best economics knowledge currently in existence.
