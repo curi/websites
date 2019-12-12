@@ -46,9 +46,9 @@ This answers one of Kirzner’s main arguments: Reisman’s alleged failure to e
 
 Kirzner thinks that Reisman is incorrect about price theory and that the Austrian and classical views contradict each other. Reisman’s alleged error is using lawyerlike linguistic skill to make contradictory ideas *appear* compatible.
 
-The economic claim that Kirzner seems to disagree with is Reisman’s belief that, in some cases (goods that are “reproducible at will” in Böhm-Bawerk’s words), prices are set to the cost of production plus a markup.
+The economic claim that Kirzner seems to disagree with is that prices are set to the cost of production plus a markup, *in some cases* (the case of goods that are “reproducible at will”, in Böhm-Bawerk’s words).
 
-I suggest reading the section *Ricardo and Böhm-Bawerk on Cost of Production Versus the Elasticity of Demand* in *Capitalism*. Here’s an excerpt following a lengthy explanation quoted from the Austrian economist Böhm-Bawerk. At the end of this quote, Reisman explains the error (by Jevons) that he’s contradicting:
+I suggest reading the section *Ricardo and Böhm-Bawerk on Cost of Production Versus the Elasticity of Demand* in *Capitalism*. Here’s an excerpt following a lengthy explanation quoted from the Austrian economist Eugen Böhm-Bawerk. At the end of this quote, Reisman explains the error (by Jevons) that he’s contradicting:
 
 > What Böhm-Bawerk has shown in these passages is that when the price of goods such as fan belts, or anything else whose own, direct marginal utility is extremely high, is determined on the basis of cost of production, precisely then is its value determined on the basis of marginal utility—the marginal utility of the means of production used to produce it, as determined in other, less important employments. The buyer of a fan belt, or whatever, does not pay a price corresponding to the value he attaches to his car, but a much lower price corresponding to the marginal utility of the materials and labor required to produce fan belts or whatever—a marginal utility that in turn is determined by the marginal utility of products other than fan belts or whatever. As Böhm-Bawerk develops the law of diminishing marginal utility, it is no more surprising that the price of vital components and parts, or any necessity, is in conformity with its cost of production rather than its own direct marginal utility than it is that the marginal utility of the water on which our physical survival depends is no greater than the utility of the marginal quantity of water we use. Determination of price by cost is merely a mechanism by means of which the value of supramarginal products is reduced to the value of marginal products. The only complication is that the marginal products in this case are physically different and lie in other lines of production.
 >  
@@ -94,7 +94,7 @@ Here’s another example of Reisman doing analysis from an individual perspectiv
 > When an individual increases the productivity of his own labor, whether by becoming more efficient in a given job or by raising his level of skills to the point of being able to perform a more demanding job, the likely result is that he will increase his money income. What enables the individual to increase his money income in this way is partly the fact that, at the same time that he is increasing his productivity, the quantity of money and volume of spending in the economic system are also probably increasing. But this is not the major reason for people concluding that greater productivity means correspondingly more money income. A close connection between the individual’s improvement in his productive ability and an increase in his money income would exist even if the quantity of money and the volume of spending in the economic system remained constant. It would exist insofar as the improvement in the productivity of the individual’s labor is an improvement *relative to the productivity of labor of his competitors in the rest of the economic system.*
 {: .secondary}
 
-Kirzner’s criticisms don’t fit the book he’s criticizing.
+So, Reisman *does* know about the limitations of aggregates, *does* analyze individual perspectives, and also discusses their relationships.
 
 ## Errors
 
@@ -123,15 +123,17 @@ Reisman *includes* services like construction, banking, insurance, transportatio
 
 > Reisman proceeds to insist that this dependence of business on consumers holds only “at the level of the individual firm and industry.” At the “level of the economic system as a whole,” Reisman asserts, “the competition of the individual firms and industries is mutually offsetting, and there the consumers are dependent on business” (ibid.). *To generalize from the microeconomic dependence of the individual business and industry on the consumers to a macroeconomic dependence of business as a whole on consumers, is to commit the fallacy of composition.* [emphasis added]
 
-Reisman, as quoted, and as discussed by Kirzner in his next paragraph, is saying that, as an approximation: *At the micro level, business depends on consumers. At the macro level, it switches, and consumers depend on business.*
+Reisman is saying that, as an approximation: *At the micro level, business depends on consumers. At the macro level, it switches, and consumers depend on business.*
 
 However, Kirzner makes an error in the italicized sentence in the quote. There, he says that, at a macro level, (Reisman thinks that) business depends on consumers. That’s the reverse of what Reisman said. Consumers depending on business, and business depending on consumers, are opposites.
 
-I would have skipped this if it were merely a misstatement. But based on his own error, Kirzner accuses Reisman of the *fallacy of composition*. That fallacy involves inferring from the part to the whole, e.g. I am partly made of water therefore I’m entirely made of water.
+I would have skipped this if it were merely a misstatement. Kirzner states it correctly in his next paragraph.
+
+But, based on his own error, Kirzner accuses Reisman of the *fallacy of composition*. That fallacy involves inferring from the part to the whole, e.g. I am partly made of water therefore I’m entirely made of water. It involves assuming two things are the same when they may be different.
 
 Kirzner means that Reisman inferred from micro (part) to macro (whole), and that Reisman fallaciously assumed that what holds true at the micro level therefore must whole true at the macro level too. This criticism doesn’t work because Reisman actually claimed the micro and macro level are different, not the same.
 
-Further, Reisman gave reasoning in the book which is nothing like the fallacy. Instead of making a fallacious assumption, Reisman used arguments. For that reason, the fallacy accusation would be unreasonable even if it wasn’t based on Kirzner’s own misstatement
+Further, Reisman gave *reasoning* in the book. Instead of making a fallacious *assumption*, Reisman used arguments. So the fallacy accusation would be unreasonable even if it wasn’t based on Kirzner’s own misstatement
 
 ### Mises’ Disapproval?
 
