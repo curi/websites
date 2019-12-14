@@ -119,21 +119,13 @@ This does not *exclude* services in general from economics as Kirzner claims. It
 
 Reisman *includes* services like construction, banking, insurance, transportation, mining, farming, and manufacturing. He further *includes* cleaning and repair of goods, and selling goods in retail stores. He also *includes* services less connected with business such as haircuts, vacation flights, and personal telephone use. (All those examples are from the book.)
 
-### Micro and Macro Confusion
+### Composition Fallacy
 
 > Reisman proceeds to insist that this dependence of business on consumers holds only “at the level of the individual firm and industry.” At the “level of the economic system as a whole,” Reisman asserts, “the competition of the individual firms and industries is mutually offsetting, and there the consumers are dependent on business” (ibid.). *To generalize from the microeconomic dependence of the individual business and industry on the consumers to a macroeconomic dependence of business as a whole on consumers, is to commit the fallacy of composition.* [emphasis added]
 
-Reisman is saying that, as an approximation: *At the micro level, business depends on consumers. At the macro level, it switches, and consumers depend on business.*
+The fallacy of composition means inferring that the whole is like a part. For example, generalizing from a microeconomic fact (part) to a macroeconomic fact (whole).
 
-However, Kirzner makes an error in the italicized sentence in the quote. There, he says that, at a macro level, (Reisman thinks that) business depends on consumers. That’s the reverse of what Reisman said. Consumers depending on business, and business depending on consumers, are opposites.
-
-I would have skipped this if it were merely a misstatement. Kirzner states it correctly in his next paragraph.
-
-But, based on his own error, Kirzner accuses Reisman of the *fallacy of composition*. That fallacy involves inferring from the part to the whole, e.g. I am partly made of water therefore I’m entirely made of water. It involves assuming two things are the same when they may be different.
-
-Kirzner means that Reisman inferred from micro (part) to macro (whole), and that Reisman fallaciously assumed that what holds true at the micro level therefore must whole true at the macro level too. This criticism doesn’t work because Reisman actually claimed the micro and macro level are different, not the same.
-
-Further, Reisman gave *reasoning* in the book. Instead of making a fallacious *assumption*, Reisman used arguments. So the fallacy accusation would be unreasonable even if it wasn’t based on Kirzner’s own misstatement
+However, Reisman claims (in this case) that macroeconomics is different than microeconomics, not the same, so it can’t be that fallacy. Kirzner made a misstatement about what Reisman said and based his fallacy accusation on that.
 
 ### Mises’ Disapproval?
 
