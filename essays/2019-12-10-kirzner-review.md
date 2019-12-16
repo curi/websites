@@ -108,7 +108,7 @@ Reisman’s extensive criticism of the Marxist labor theory of value is separate
 
 ### Services
 
-> (services are, in classical fashion, excluded from the scope of production, and thus from the scope of economics (p. 41f))
+> services are, in classical fashion, excluded from the scope of production, and thus from the scope of economics
 
 That isn’t Reisman’s position. From *Capitalism*:
 
@@ -121,7 +121,7 @@ Reisman *includes* services like construction, banking, insurance, transportatio
 
 ### Composition Fallacy
 
-> Reisman proceeds to insist that this dependence of business on consumers holds only “at the level of the individual firm and industry.” At the “level of the economic system as a whole,” Reisman asserts, “the competition of the individual firms and industries is mutually offsetting, and there the consumers are dependent on business” (ibid.). *To generalize from the microeconomic dependence of the individual business and industry on the consumers to a macroeconomic dependence of business as a whole on consumers, is to commit the fallacy of composition.* [emphasis added]
+> Reisman proceeds to insist that this dependence of business on consumers holds only “at the level of the individual firm and industry.” At the “level of the economic system as a whole,” Reisman asserts, “the competition of the individual firms and industries is mutually offsetting, and there the consumers are dependent on business” (ibid.). To generalize from the microeconomic dependence of the individual business and industry on the consumers to a macroeconomic dependence of business as a whole on consumers, is to commit the fallacy of composition.
 
 The fallacy of composition means inferring that the whole is like a part. For example, generalizing from a microeconomic fact (part) to a macroeconomic fact (whole).
 
@@ -136,7 +136,7 @@ This is misleading. Here’s what Reisman said:
 > Mises believed that because of my resurrection of the classical economists, I was indirectly resurrecting Marx. (Happily, he changed his mind on this subject two years later, after hearing my lecture “A Ricardian’s Critique of the Exploitation Theory.”
 {: .secondary}
 
-So what we learn from Reisman’s preface is that Mises *initially* disapproved, but changed his mind two years later. Kirzner incorrectly suggests broad disagreement between Mises and Reisman, *admitted by Reisman in his own words*, but contrary to Reisman’s actual words.
+So what we learn from Reisman’s preface is that Mises *initially* disapproved, but changed his mind two years later. Kirzner incorrectly suggests broad disagreement between Mises and Reisman which was *admitted by Reisman in his own words*, but that's contrary to Reisman’s actual words.
 
 ### Misquote
 
@@ -159,7 +159,7 @@ Relatedly, Murray Rothbard [criticized Kirzner](https://mises.org/library/end-so
 
 > This writer would strongly suggest that this patronizing, if not thoroughly contemptuous, attitude [of Reisman’s] towards the entire economics profession of today, can only deepen the skepticism which this volume is likely to generate among unbiased new students of economics, concerning the work’s value and validity (not to speak of its objectivity and impartiality). Like the unfortunately abusive rhetoric used in the book [...]
 
-This is representative of other comments by Kirzner. It’s important for understanding the review’s tone and approach. Above, I intentionally avoided quoting comments like these to focus on the issues, but that made the quotes I discussed somewhat unrepresentative of the whole review.
+This is representative of other comments by Kirzner. I avoided quotes like these earlier in order to focus on the issues, but FYI that made my previous quotes less representative of the review's tone and style.
 
 This quote is hypocritical because Kirzner criticizes Reisman for making blunt, offensive, alienating statements (as you can see in this quote, and he says it elsewhere too). But Kirzner himself does that to Reisman throughout the review, including in this quote and the next one.
 
@@ -169,7 +169,7 @@ This is an example of Kirzner calling his opponents (not only Reisman but Reisma
 
 It also comes after Kirzner criticized Reisman for criticizing the “willful dishonesty” of the environmentalist movement. I had thought Kirzner meant that questioning people’s honesty was outside the scope of acceptable debate, but then he did it himself.
 
-Note that Reisman wasn’t just throwing out insults. To go with his claim about dishonesty, Reisman presented a direct quote (from *Discover* magazine) of a leading environmentalist advocating being less than “honest”, scaring the public, and leaving out doubts.
+Note that Reisman wasn’t just throwing out insults. To go with his claim about dishonesty, Reisman presented a direct quote (from *Discover* magazine) of a leading environmentalist openly advocating being less than “honest”, scaring the public, and leaving out doubts.
 
 > [One of Reisman’s ideas] is extremely cumbersome, and not at all necessarily superior to a number of mainstream textbook treatments
 
