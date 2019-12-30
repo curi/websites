@@ -253,7 +253,7 @@ Hire me: [elliot@elliottemple.com][223]
 [60]:	mailto:elliot@elliottemple.com
 [61]:	http://curi.us/1747-bad-study-claims-lawyers-are-racist
 [62]:	http://curi.us/1739-eugene-gendlin-philosophy-introduction
-[63]:	https://twitter.com/_khaaan
+[63]:	https://twitter.com/jordancurve
 [64]:	https://twitter.com/j_mallone/
 [65]:	mailto:rombomb@gmail.com
 [66]:	mailto:lehmeesrustom@yahoo.com
