@@ -12,7 +12,7 @@ I'm a philosopher. The diagram above shows the most important intellectual tradi
 
 Contact: [et@elliottemple.com][1]
 
-I research ideas, create educational material and run a [discussion forum][2]. Most of my writing is free at my websites, and I also sell [digital educational products][3] and [philosophy consulting][4]. I have a [YouTube][5], [Podcast][6], [Twitter][7] and [eBooks][8]. 
+I research ideas, create educational material and run [three discussion forums][2]. Most of my writing is free at my websites, and I also sell [digital educational products][3] and [philosophy consulting][4]. I have a [YouTube][5], [Podcast][6], [Twitter][7] and [eBooks][8]. 
 
 ## Websites
 
@@ -20,9 +20,9 @@ I research ideas, create educational material and run a [discussion forum][2]. M
 
 Philosophy articles, including [book recommendations][9].
 
-### <a href="https://curi.us">Curiosity Blog</a>
+### <a href="https://curi.us">Curiosity Blog & Forum</a>
 
-I write about philosophy and I use philosophy to understand other fields like politics, parenting, relationships, psychiatry, economics and science.
+I write about philosophy and I use philosophy to understand other fields like politics, parenting, relationships, psychiatry, economics and science. Posts are used as forum topics to have discussions.
 
 ### <a href="https://yesornophilosophy.com">Yes or No Philosophy</a>
 
