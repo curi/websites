@@ -3,7 +3,7 @@ layout: post
 title: Yes or No Philosophy
 ---
 
-<img src="https://curi.us/files/yesno-website-cover.png" id="yesnobanner">
+<img src="https://yesornophilosophy.com/public/yesno-website-cover.png" id="yesnobanner">
 
 This is an **educational product containing videos and writing** which will teach you about *philosophy*. You don't need to know any philosophy beforehand.
 
