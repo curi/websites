@@ -49,7 +49,7 @@ This debate policy itself can be criticized and debated if you see a problem wit
 
 I’m unaware of any public intellectual with a debate policy like this. This policy was developed as part of my efforts to understand and clarify what I do differently than other intellectuals. The key idea is being open to error corrections from the public rather than acting in a way where if I’m biased, mistaken or irrational, I’ll stay that way even though people knew better and were willing to help me.
 
-I think there’s a major problem with the world and with intellectuals and debates in particular. The problem is their lack of publicly documented, structured policies for dealign with debate, criticism and questions. Publicly writing down the discussion rules is crucial for accountability and so potential discussion partners know in advance what to expect.
+I think there’s a major problem with the world and with intellectuals and debates in particular. The problem is their lack of publicly documented, structured policies for dealing with debate, criticism and questions. Publicly writing down the discussion rules is crucial for accountability and so potential discussion partners know in advance what to expect.
 
 This problem is getting in the way of scientific and philosophical progress. People working in those fields are not rationally open to debate. They get things wrong and then *stay wrong*. They judge what discussions they want (with who, and in what circumstances, e.g. with short time limits and no intention of reaching a conclusion), and if they are biased or mistaken then there’s no way to fix it. Mistakes and biases are very common and should be expected, so lacking good ways for them to be corrected *ruins everything*.
 
