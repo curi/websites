@@ -33,7 +33,7 @@ The key to life is not to let error *overwhelm* your ability to deal with error.
 
 We can’t fully control how many errors we have to deal with. No matter what we do, we’ll have to deal with some errors. Problems are inevitable. However, we can estimate the difficulty (error rate, severity of errors, and variance) for activities, projects or commitments. Some activities are harder than others to succeed at (or more risky because of high variance of outcomes), and we know it, even if we can’t predict the future perfectly. We can estimate how good we are at dealing with error and which projects we can successfully handle.
 
-If you have many failures or start getting overwhelmed, back off dramatically. Make choices so your life is a *lot* easier until you get things under control and succeed several times in a row. And be very careful with long-term commitments because if they’re too hard you’ll have trouble changing your life to be easier. Try to test things out and make sure you’re succeeded with a comfortable margin for error before organizing your life around them in a lasting way.
+If you have many failures or start getting overwhelmed, back off dramatically. Make choices so your life is a *lot* easier until you get things under control and succeed several times in a row. And be very careful with long-term commitments because if they’re too hard you’ll have trouble changing your life to be easier. Try to test things out and make sure you’re succeeding with a comfortable margin for error before organizing your life around them in a lasting way.
 
 In the big picture, a good life is pretty simple:
 
