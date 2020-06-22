@@ -39,17 +39,13 @@ My *Fallible Ideas* philosophy offers *unique* value that isn’t available anyw
 
 ## Rate
 
-I work in 2-hour time blocks. That lets me produce substantial work in an uninterrupted sitting.
+Rates vary by project. I'm not cheap. I commonly charge hourly (it's simple) but I'm open to other approaches like a fixed price for a project. I'm flexible with project formats to fit people's situations.
 
-My rate is $400 USD for a block.
-
-I can work in other ways if it fits the project. E.g. I can do one hour conversations to help with a personal problem or teach something. (Then I use $200 USD per hour.)
-
-Sometimes I give discounts for projects I like (e.g. working with a child) or big projects. There’s no harm in asking. Or make me an offer if you want to negotiate. I also do fixed bids.
-
-To hire me, email [elliot@elliottemple.com][60]
+To hire me, email [elliot@elliottemple.com][60]. You can ask about the price for your project or, if you want, make an offer and negotiate.
 
 I always appreciate project inquiries. I often point people in the right direction even if we don’t do a paid project. You won’t waste my time.
+
+Sometimes I give out discounts, particularly to young people. Please feel free to ask.
 
 ## References
 
