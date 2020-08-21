@@ -4,7 +4,7 @@ title: Elliot Temple
 css-id: home
 ---
 
-![](https://curi.us/files/philosophy-tree.png)
+![](https://elliottemple.com/imgs/philosophy-tree.png)
 
 # Elliot Temple
 
@@ -53,5 +53,3 @@ Get 2-4 free emails per month with philosophy links, writing and news.
 [7]:	https://twitter.com/curi42/with_replies
 [8]:	https://curi.us/ebooks
 [9]:	http://fallibleideas.com/books
-
-[image-1]:	https://curi.us/files/philosophy-tree.png
