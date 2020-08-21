@@ -4,7 +4,7 @@ title: Elliot Temple
 css-id: home
 ---
 
-![](https://elliottemple.com/imgs/philosophy-tree.png)
+![](https://elliottemple.com/public/imgs/philosophy-tree.png)
 
 # Elliot Temple
 
