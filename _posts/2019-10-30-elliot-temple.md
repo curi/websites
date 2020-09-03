@@ -12,7 +12,7 @@ I'm a philosopher. The diagram above shows the most important intellectual tradi
 
 Contact: [et@elliottemple.com][1]
 
-I research ideas, create educational material and run [three discussion forums][2]. Most of my writing is free at my websites, and I also sell [digital educational products][3] and [philosophy consulting][4]. I have a [YouTube][5], [Podcast][6], [Twitter][7] and [eBooks][8]. 
+I research ideas, create educational material and run [three discussion forums][2]. Most of my writing is free at my websites, and I also sell [digital educational products][3] and [philosophy consulting][4]. I have a [YouTube][5], [Podcast][6] and [eBooks][8]. 
 
 ## Websites
 
@@ -50,6 +50,5 @@ Get 2-4 free emails per month with philosophy links, writing and news.
 [4]:	/consulting
 [5]:	https://www.youtube.com/user/curi42/playlists
 [6]:	https://curi.us/podcast/
-[7]:	https://twitter.com/curi42/with_replies
 [8]:	https://curi.us/ebooks
 [9]:	http://fallibleideas.com/books
