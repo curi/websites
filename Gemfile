@@ -9,7 +9,7 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 gem "jekyll-paginate", "~> 1.1"
 
 # Added at 2017-09-25 22:28:24 +1000 by maxkaye:
-gem "redcarpet", "~> 3.4"
+gem "redcarpet", "~> 3.5"
 
 # Added at 2017-09-25 22:28:38 +1000 by maxkaye:
 gem "kramdown", "~> 1.15"
