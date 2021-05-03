@@ -49,4 +49,4 @@ Impasse chains are often consequential for people’s reputations. They are inte
 
 **Summary:** Rational discussions continue to **agreement** or to a stated *chain* of **impasses**.
 
-See also my [debate policy](https://elliottemple.com/debate-policy), my [Paths Forward](http://fallibleideas.com/paths-forward) material, and my [How To Discuss](https://curi.us/archives/list_category/114) blog category.
+See also [What Is an Impasse?](https://curi.us/2339-what-is-an-impasse), [Rationally Ending Intellectual Discussions](https://curi.us/2362-rationally-ending-intellectual-discussions), my [debate policy](https://elliottemple.com/debate-policy), my [Paths Forward](http://fallibleideas.com/paths-forward) material, and my [How To Discuss](https://curi.us/archives/list_category/114) blog category.

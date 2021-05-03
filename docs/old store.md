@@ -32,9 +32,61 @@ Learn about Goldratt’s *Theory of Constraints*, the best *business philosophy*
 
 Five screencasts (8 hours) with Elliot reading [The Dream of Reason][9] by Anthony Gottlieb. *See Elliot demonstrate different reading methods: rapid serial visual presentation, text to speech, skimming, text search, topic sentences, and regular reading*. And learn about Aristotle and Heraclitus, scholarship, and how to think critically about a book.
 
+## 📺 [Behind the Scenes: How I Make Videos][10] ($75)
+
+I recorded the process of creating my YouTube videos, [Paddling Sucks][11], [School Sucks][12] and [School Is Unfair][13]. Watch me find the clips and pictures used, organize and outline what I’m doing, record everything I say in the videos, and edit it together into final videos. *Learn how to make videos like I do!* I’ve developed the skills so that it’s *easy* for me. This insight into my *creative process* let’s you see how I get past the issues that are hard for you and quickly (under 5 hours for 3 videos) create finished videos. If you have trouble with getting started, video editing, being a perfectionist, or anything else, *see how I solve your problem*. 
+
+## 📺 [Writing Philosophy Emails – April 2018][14] ($40)
+Raw, unedited video footage of Elliot writing [Fallible Ideas discussion][15] emails and verbally discussing what he writes. Learn about Elliot’s thinking methods including what mistakes he makes and corrects while writing, his writing flow and pacing, how he makes writing decisions and how to participate in philosophy discussions. (5 hours)
+
+## 📺 [Writing Philosophy Emails – April 2018 #2][16] ($41)
+Five more hours of email writing screencasts.
+
+## 📺 [Behind The Scenes: Philosophy Writing][17] ($25*\**)
+Five video screencasts in which Elliot writes Fallible Ideas emails and narrates his thought process. See the philosophy writing process in action!
+
+## 📺 [Philosophy Emails – July 2018][18]  ($23)
+I read and discuss philosophy emails, and write replies. Topic include pressuring children, image uploading software code, and critically analyzing a Stefan Molyneux article about free speech. 2.5 hours.
+
+## 🎧 [What To Read – with Alan Forrester][19] ($15)
+3 hour discussion with philosopher and physicist [Alan Forrester][20] regarding Elliot's [reading recommendations list][21]. Topics include what's in the books on the reading list and why they'd be interesting to read.
+
+## 🎧 [What To Read – with Justin Mallone][22] ($15)
+2.8 hour discussion regarding Elliot's [reading recommendations list][23] with philosopher [Justin Mallone][24]. This fun chat will help you get interested in the books and see how they connect to the rest of the world.
+
+## 📺 [Thoughts on Tolerance and Hostility][25] ($12)
+I read Fallible Ideas emails about tolerance and hostility, and discuss a debate that was analyzed for hostility. I write two replies and talk lots. 82 minute video.
+
+## 🎧 [Getting Your Life and Thinking In Order][26] ($10*\**)
+This podcast explains how to get your life in order. Topics include the connections between dealing with yourself, your spouse, your child, and others. Connections to [Paths Forward][27] are also explored.
+
+## 📺 [Reading Hard Passages][28] ($5)
+This video guides you through reading difficult text. Learn useful techniques with this example from *Capitalism: A Treatise on Economics* by George Reisman.
+
+## 📺 [Elliot's Thoughts on Pricing][29] ($5*\**)
+Elliot shares his thoughts on pricing in this narrated keynote presentation video.
+
+## 🎧 [Children Should Make Decisions][30] ($2*+*)
+In this podcast, Elliot covers topics like which decisions children should make and how to think rationally about habits.
+
+## 🎧 [Helping Children Become Independent][31] ($2*+*)
+In this podcast, Elliot discusses how to help children grow up and become independent.
+
+## 📚 [Notes on Leonard Peikoff's Philosophy of Education Course][32] ($2*+*)
+Real, informal notes on Leonard Peikoff's [Philosophy of Education Course][33]. Learn about education, note taking, and Peikoff's course. Read criticism of mistakes made by Peikoff.
+
+## 📚 [Notes on Leonard Peikoff's Grammar Course][34] ($2*+*)
+Real, informal notes on Leonard Peikoff's [Principles of Grammar Course][35]. Learn about grammar, note taking, and Peikoff's course.
+
+## 🎧 [Liberalism and More – with Justin Mallone][36] ($2*+*)
+3 hour discussion with philosopher [Justin Mallone][37] about liberalism, the power of ideas, the harmony of men's interests, and more.
 
 ## 📚 [ Atlas Shrugged Chapter 3 Close Reading ][38] ($1*+*)
 Analysis of ch. 3 of *Atlas Shrugged* by Ayn Rand. You can read [ch. 1][39] and [ch. 2][40] analysis for free, online.
+
+## 📚 [Fallible Ideas Extras][41] ($1*+*)
+Essays and slideshows about psychiatry, philosophy, not fighting, and basic observations.
+
 ---- 
 
 📺 = Video, 🎧 = Audio, 📚 = Written material

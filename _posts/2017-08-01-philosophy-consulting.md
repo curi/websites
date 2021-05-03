@@ -75,8 +75,6 @@ You can tell me what you want. Or I can work with you to figure out what you nee
 
 It works better if you put effort into this. For example, if you send me a long document, organize it with sections and footnotes, and do an editing pass.
 
-I also do [courses](/courses).
-
 ## Limited Time or Money
 
 Improving your life in a *big* way will require lots of time *or* money from you. If you’re [busy][71], I can work around that. Or I can help guide you to make progress on your own time in order to minimize the price. I can also refer you to a great but cheaper philosophy consultant.

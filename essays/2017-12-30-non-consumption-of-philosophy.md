@@ -271,4 +271,4 @@ This fictional dialog attempts semi-realism. John is a regular guy, not a philos
 
 ---
 
-If you're interested in how to learn philosophy, unlike John, read the [Learning Philosophy](/learning-philosophy) article.
+If you're interested in how to learn philosophy, unlike John, read the [Learning Philosophy](/essays/learning-philosophy) article.
