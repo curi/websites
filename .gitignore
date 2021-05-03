@@ -44,4 +44,5 @@ node_modules
 .Ulysses-favorites.plist
 .Ulysses-Group.plist
 
-.jekyll-cache
+.jekyll-cache/
+

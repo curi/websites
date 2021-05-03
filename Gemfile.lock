@@ -71,7 +71,7 @@ DEPENDENCIES
   jekyll-paginate (~> 1.1)
   kramdown (~> 2.3)
   pygments.rb (~> 1.2)
-  redcarpet (~> 3.4)
+  redcarpet (~> 3.5)
 
 BUNDLED WITH
    2.2.15
