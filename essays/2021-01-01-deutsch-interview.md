@@ -7,7 +7,7 @@ category: essays
 
 <div id="interview">
 
-<p><span class="elliot">Elliot Temple</span>: This is an interview with the physicist and philosopher David Deutsch about his new book <em>The Beginning of Infinity</em>. David, can you briefly describe what the book is about?</p>
+<p><span class="elliot">Elliot Temple</span>: This is an interview from 2011 with the physicist and philosopher David Deutsch about his new book <em>The Beginning of Infinity</em>. David, can you briefly describe what the book is about?</p>
 
 <p><span class="david">David Deutsch</span>: The "beginning of infinity" in the title refers to several things but especially to human progress. The book discusses the rapid progress we've seen since the Enlightenment, and its cause: the rational quest for good explanations. It unifies many themes of reason and unbounded progress.</p>
 
