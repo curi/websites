@@ -12,7 +12,7 @@ I'm a philosopher. The diagram above shows the most important intellectual tradi
 
 Contact: [et@elliottemple.com][1]
 
-I research ideas, create educational material and run a [discussion forum][2]. Most of my writing is free at my websites and I use [YouTube][5]. I also sell [digital educational products][3] and [consulting][4].
+I research ideas, create educational material and run a [discussion forum][2]. Most of my writing is free at my websites and I use [YouTube][5]. I sell [digital educational products][3] and [consulting][4].
 
 ## Websites
 
