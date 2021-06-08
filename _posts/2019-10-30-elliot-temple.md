@@ -18,7 +18,7 @@ I research ideas, create educational material and run a [discussion forum][2]. M
 
 ### <a href="https://criticalfallibilism.com">Critical Fallibilism</a>
 
-My best philosophy articles from 2021 or later. There's also an associated [Critical Fallibilism YouTube Channel](https://www.youtube.com/channel/UCboFQkqYkUW9Rdnvjbwyepg) and a [Critical Fallibilism discussion forum](https://discuss.criticalfallibilism.com).
+My best philosophy articles from 2021 or later. And there's a [Critical Fallibilism YouTube Channel](https://www.youtube.com/channel/UCboFQkqYkUW9Rdnvjbwyepg) and a [Critical Fallibilism discussion forum](https://discuss.criticalfallibilism.com).
 
 ### <a href="https://fallibleideas.com">Fallible Ideas</a>
 
@@ -28,7 +28,7 @@ Some of my favorite philosophy articles.
 
 My blog has over 2000 posts on topics including philosophy, politics, parenting, relationships, psychiatry, economics and science. It includes [podcast episodes][6] and [eBooks][8] (mostly archives of discussions).
 
-### <a href="https://learnobjectivism.com">Learn Objectivism</a>
+### <a href="https://www.learnobjectivism.com">Learn Objectivism</a>
 
 Learn about Ayn Rand's philosophy. I consider Objectivism and Critical Rationalism (by Karl Popper) the most important philosophies. This incomplete site has close readings of Atlas Shrugged chapters.
 
