@@ -118,7 +118,7 @@ A node or group can be an *argument*. An argument either positively supports or 
 
 Positive arguments, inconclusive negative arguments and explanatory comments are never decisive arguments.
 
-Decisive arguments shouldn’t be ignored. They’re mandatory to address. Other nodes don’t necessarily have to be dealt with. You can judge a non-decisive node is uninteresting and unimportant (and explain why). But with a decisive argument, saying it’s unimportant is an inappropriate response (unless you think its parent, the thing it’s criticizing, is unimportant). An argument that claim is incorrect is important and should be evaluated.
+Decisive arguments shouldn’t be ignored. They’re mandatory to address. Other nodes don’t necessarily have to be dealt with. You can judge a non-decisive node is uninteresting and unimportant (and explain why). But with a decisive argument, saying it’s unimportant is an inappropriate response (unless you think its parent, the thing it’s criticizing, is unimportant). An argument that a claim is incorrect is important and should be evaluated.
 
 *Figuring out which arguments are decisive or not, and focusing on making and resolving decisive arguments, is the most effective way to reach a conclusion. That’s the proper focus of **debate**. In the alternative, if your focus is on **learning**, then decisive arguments are less important and everything else, especially questions, explanations and information, has a larger role.*
 
