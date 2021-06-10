@@ -15,7 +15,7 @@ Creating discussion trees involves *breaking complex ideas into smaller parts* a
 
 ## Terminology
 
-![](https://elliottemple.com/public/imgs/numbered-tree.png)
+<img src='https://elliottemple.com/public/imgs/numbered-tree.png' width="70%">
 
 There are useful words for talking about trees. Each box in a discussion tree is called a *node*. A node can be e.g. a statement, claim, argument, explanation, question or comment.
 
