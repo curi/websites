@@ -128,7 +128,7 @@ A question counts as a decisive argument if not having an answer to the question
 
 ### Debate Trees
 
-A *strict* debate tree is a type of discussion tree. Besides the topic (root), it contains only decisive arguments. You can convert a discussion tree to a strict debate tree by deleting all indecisive parts. More informally, you can include indecisive arguments and commentary in a debate tree as long as the decisive and indecisive parts are clearly labelled (separate colors for decisive and indecisive parts generally works well).
+A *strict* debate tree is a type of discussion tree. Besides the topic (root), it contains only decisive arguments. You can convert a discussion tree to a strict debate tree by deleting all indecisive parts. More informally, you can include indecisive arguments and commentary in a debate tree as long as the decisive and indecisive parts are clearly labelled (using separate colors for decisive and indecisive parts generally works well).
 
 In a strict debate tree, resolving the root requires resolving all nodes. Resolving a subtree requires resolving all nodes in that subtree. Even if you don’t resolve everything, you can often still resolve some subtrees. *Resolving decisive arguments is the primary goal of debate.*
 
