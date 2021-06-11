@@ -164,7 +164,7 @@ Here’s how to translate: A positive argument points out a positive feature of 
 
 In all cases, you must come up with a decisive negative argument to change the objective state of the debate and contribute to a debate tree. You also must come up with a decisive negative argument to refute anything in any discussion tree.
 
-Note: People often use positive arguments in *informal* discussions without translating them to negative arguments. That’s OK as long as long as everyone understands and agrees. It’s a shortcut. But if anyone disagrees or objects, then the standard way to resolve that disagreement should be to translate the positive arguments to a negative arguments. Don’t insist on using positive arguments when there’s a dispute.
+Note: People often use positive arguments in *informal* discussions without translating them to negative arguments. That’s OK as long as long as everyone understands and agrees. It’s a shortcut. But if anyone disagrees or objects, then the standard way to resolve that disagreement should be to translate the positive arguments to negative arguments. Don’t insist on using positive arguments when there’s a dispute.
 
 Also, positive arguments are often OK, especially informally, *internally within groups*. The group type (decisive argument or not) is determined by the group’s root node. Positive reasoning can help explain a negative argument and break it into parts.
 
