@@ -200,7 +200,7 @@ You can make discussion trees by yourself. You can use them to help study discus
 
 Creating a discussion tree is also a good way to express your understanding of a topic. You can write all sides of the discussion. Write the important arguments and questions for the other side that you know of, and give your responses. Then you can show the tree to people and ask what you’re missing, rather than starting a discussion from scratch.
 
-You can also use a discussion tree to help figure out a topic by arguing with yourself. If you don’t have a conclusion yet, you can use use the tree to express what you do know and work towards reaching a conclusion.
+You can also use a discussion tree to help figure out a topic by arguing with yourself. If you don’t have a conclusion yet, you can use the tree to express what you do know and work towards reaching a conclusion.
 
 In general, if you can’t make a tree and reach a conclusion alone, you shouldn’t be debating others. You don’t know what you think so why try to correct other people and argue about what they should think? If you don’t already have a conclusive tree, in your opinion, then you shouldn’t do advocacy. Stick to discussions where you ask questions and share ideas.
 
