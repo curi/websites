@@ -6,8 +6,7 @@ css-id: reasonandmorality
 category: essays
 ---
 
-An outline of philosophy with links to learn more! I wrote the outline. [Alan Forrester](https://conjecturesandrefutations.com) and [Justin Mallone](http://justinmallone.com/) gathered most of the links.
-
+An outline of philosophy with links to learn more! I wrote the outline. [Alan Forrester](https://conjecturesandrefutations.com) and [Justin Mallone](http://justinmallone.com/) gathered most of the links. Most links are to my writing.
 
 ## Reason
 
