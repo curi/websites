@@ -66,7 +66,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  addressable (~> 2.5)
+  addressable (~> 2.8)
   jekyll (~> 4.2)
   jekyll-paginate (~> 1.1)
   kramdown (~> 2.3)
