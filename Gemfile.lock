@@ -67,6 +67,7 @@ PLATFORMS
 
 DEPENDENCIES
   addressable (~> 2.8)
+  bundler (= 2.2.24)
   jekyll (~> 4.2)
   jekyll-paginate (~> 1.1)
   kramdown (~> 2.3)
@@ -74,4 +75,4 @@ DEPENDENCIES
   redcarpet (~> 3.5)
 
 BUNDLED WITH
-   1.17.3
+   2.2.24
