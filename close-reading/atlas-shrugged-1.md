@@ -6,7 +6,7 @@ header: Atlas Shrugged Close Reading
 category: close-reading
 ---
 
-I want to show how much interesting stuff Rand’s writing contains. *Every* sentence has a purpose. But it’s a *huge* project to comment on all of it. So I went through four chapters of [Atlas Shrugged][1] to show what being *thorough* is like. If you read well, look closely, and think things over, then you could notice this much great stuff in every chapter.
+I want to show how much interesting stuff Rand’s writing contains. *Every* sentence has a purpose. But it’s a *huge* project to comment on all of it. So I went through three chapters of [Atlas Shrugged][1] to show what being *thorough* is like. If you read well, look closely, and think things over, then you could notice this much great stuff in every chapter.
 
 **These comments contain spoilers.** This is intended only for someone who’s already read the whole book, and I point things out that I wouldn’t expect anyone to catch on their first reading.
 
@@ -40,9 +40,9 @@ The bum is weary and resigned, but is (or was) intelligent. In what kind of worl
 
 > Eddie Willers … wonder[ed] why he always felt it at this time of day, this sense of **dread without reason**.… with no source or object. He had become accustomed to the feeling, but he could find no explanation for it; yet the bum had spoken as if he knew that Eddie felt it, as if he thought that one should feel it, and more: as if he knew the reason.
 
-This is sure gloomy. And it suggests that one should try to *understand* dread and gloom. Eddie had attempted to explain it, and failed so far, and that’s *important*. Rand is already communicating that ideas matter – and why. Ideas can help you understand gloom (which can help you do something about it).
+This sure is gloomy. And it suggests that one should try to *understand* dread and gloom. Eddie had attempted to explain it, and failed so far, and that’s *important*. Rand is already communicating that ideas matter – and why. Ideas can help you understand gloom (which can help you do something about it).
 
-What did the bum say? "Who is John Galt?" The bum spoke as if he knew the reason for Eddie’s dread, *and he was partly correct*, as we find out later. And that’s no coincidence. John Galt is the man who decided to stop the motor of the world! Though it’s not his fault that the world was so broken in the first place, and John is trying to solve the problem by no longer sanctioning and supporting an irrational society. He is, as the title puts it, the mythical Atlas, who holds up the world on his shoulders, and he decided to shrug and let the world fall, rather than be a party to major irrationality and helping sustain the irrationality.
+What did the bum say? "Who is John Galt?" The bum spoke as if he knew the reason for Eddie’s dread, *and he was partly correct*, as we find out later. And that’s no coincidence. John Galt is the man who decided to stop the motor of the world! Though it’s not his fault that the world was so broken in the first place, and John is trying to solve the problem by no longer sanctioning and supporting an irrational society. He is, as the title puts it, the mythical Atlas, who holds up the world on his shoulders, and he decided to shrug and let the world fall, rather than be a party to major irrationality and help sustain the irrationality.
 
 > Eddie Willers pulled his shoulders straight, in conscientious self-discipline. He had to stop this [fear, dread and unease]
 
