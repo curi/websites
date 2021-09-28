@@ -21,7 +21,7 @@ Why not just use my judgment and that’s it? That’s what other public intelle
 - Have a website under that name with 20+ articles, totaling 20,000+ words. Link it.
 - State that, in your honest and considered opinion, you have skill and knowledge about the topic and something important to say.
 - Give your word of honor that you will continue until we reach an agreement, you state a chain of 5+ impasses, or I state 3+ chained impasses.
-- Use the [Curiosity website](https://curi.us) (request a new topic for the debate), [Fallible Ideas emails](http://fallibleideas.com/discussion), or suggest another forum with feature parity and easy exporting/mirroring. Format your messages correctly. Responding to messages within two days is standard but there isn’t a hard rule for timeline.
+- I normally discuss at my [Critical Fallibilism Forum](https://discuss.criticalfallibilism.com). Use it or suggest another forum with feature parity and easy exporting/mirroring. Responding to messages within two days is standard but there isn’t a hard rule for timeline.
 - I may decline a debate if I’m not interested in the topic. If I do, I forfeit the right to make claims about that topic contrary to your position that I refused to debate.
 - If a debate ends with 3+ chained impasses stated by me, you don’t ever get another debate unless you address the impasses or I decide to make a totally optional exception (money or major effort helps here). There is no time limit to solve impasse problems, but don’t expect to ignore those problems with no solution.
 
