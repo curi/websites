@@ -35,17 +35,35 @@ Many philosophers try to impress people by writing [confusing ideas][39]. I’ve
 
 I [apply philosophy concepts][43] to [learn][44] new things quickly and effectively. Learning things well is what I like to do. I do professional computer [programming][45]. I ranked top 10 nationally, and first in California, in scholastic [chess][46] tournaments. I’ve been world class at several computer games and my [guides][47] have two million views. I have expert knowledge in [parenting][48]/[education][49], [physics][50], [economics][51], [evolution][52], [psychiatry][53], [social dynamics][54], [relationships][55], [business][56], [politics][57], and some parts of [history][58].
 
-My *Fallible Ideas* philosophy offers *unique* value that isn’t available anywhere else. I think and write fast. I can explain anything in a way that you can understand. I have tons of energy and can always brainstorm plenty of criticisms and ways for you to make progress. Nothing offends me and I have extreme [patience][59]. Rates are low (compared to expertise and value) because the world doesn’t want to think (low demand).
+My original [Critical Fallibilism](https://criticalfallibilism.com) philosophy builds on the best previous philosophies (Critical Rationalism, Objectivism and Theory of Constraints) and offers *unique* value that isn’t available anywhere else. I think and write fast. I can explain anything in a way that you can understand. I have tons of energy and can always brainstorm plenty of criticisms and ways for you to make progress. Nothing offends me and I have extreme [patience][59].
+
+## How This Works Best
+
+I only accept clients when I'm confident about providing a mutually beneficial outcome. This works best with people who are actively learning my philosophy from my [articles](https://criticalfallibilism.com), [videos](https://criticalfallibilism.com/tutoring-videos/) and other non-consulting [materials](https://www.elliottemple.com/store). Alternatively, I can consider projects with a budget of at least $10,000 USD. I understand that some people have more money than time, and I can be flexible to help them too.
+
+It's not financially efficient for most individuals to hire me to repeat things that I already said in an article or video. I want to help people and share my philosophy, so I like to produce materials which many people can learn from. If someone wants me to spend some time helping only them, not the public, then I need to be providing a large amount of value to make up for the downside of only helping one person or a small group. It'll work best for your finances to learn from my public educational material and then only hire me to answer questions, help you get unstuck, or discuss a private matter.
+
+It's easier for me to work with people who are more familiar with my ideas and communication style, particularly [forum posters](https://criticalfallibilism.com/discuss/). That lets me provide more value more quickly.
+
+And there are two basic ways I can help. Either I can help with your thinking or I can do some thinking myself to benefit you.
+
+If I'm helping with your thinking, that will involve learning about and applying my philosophy. So it makes sense for you to learn from my [public resources](https://criticalfallibilism.com). I can only explain how my philosophy helps with your problems if you've learned about my philosophy.
+
+If I'm thinking of solutions for you and making them happen under my leadership, that's hard. It's only worthwhile when there's a large amount of value at stake.
 
 ## Rate
 
-Rates vary by project. I'm not cheap. I commonly charge hourly (it's simple) but I'm open to other approaches like a fixed price for a project. I'm flexible with project formats to fit people's situations.
+Rates vary by project but I charge a lot. I can charge hourly. I like value pricing (fixed project bids related to the value provided to the customer). I'm flexible with project formats to fit people's situations.
 
-To hire me, email [elliot@elliottemple.com][60]. You can ask about the price for your project or, if you want, make an offer and negotiate.
+To hire me, email [elliot@elliottemple.com][60]. Please give me at least a rough idea of your budget. You can ask about the price for your project or, if you want, make an offer and negotiate.
+
+I work with businesses too. If you're hiring me for a business, tell me that in your email.
 
 I always appreciate project inquiries. I often point people in the right direction even if we don’t do a paid project. You won’t waste my time.
 
-Sometimes I give out discounts, particularly to young people. Please feel free to ask.
+I don't work with people who have high interest debt (e.g. on credit cards). I don't want to contribute to people having debt problems. Please get out of debt and, in the mean time, use my [free resources](https://criticalfallibilism.com).
+
+Sometimes I give out discounts to people who have made a lot of progress learning my philosophy or who have significant accomplishments. Feel free to ask.
 
 ## References
 
@@ -81,7 +99,7 @@ Improving your life in a *big* way will require lots of time *or* money from you
 
 If you don’t have much time or money, here’s some *free advice*: multitask reading [audiobooks][72] and [text-to-speech][73] books while doing other activities like driving, walking, shopping, cooking, being bored at work or school, exercising, or waiting. Good authors to read are [me][74], [Ayn Rand][75], [David Deutsch][76], [Karl Popper][77] or something which fits you. Because books sell to a large audience, you can get hundreds of hours of work from very smart people for a few bucks.
 
-I also run the *free* [Fallible Ideas Discussion Forum][78].
+I also run the cheap [Critical Fallibilism Discussion Forum][78].
 
 ## Difficult Projects
 
@@ -155,6 +173,8 @@ Impressed? Skeptical? Tell me: [elliot@elliottemple.com][209]
 
 ## A Couple Things I Wrote
 
+- [Critical Fallibilism website](https://criticalfallibilism.com)
+
 - [Fallible Ideas Articles](http://fallibleideas.com) and [Life Articles](http://fallibleideas.com/life)
 
 - [Philosophy Introduction][210]
@@ -195,7 +215,7 @@ Hire me: [elliot@elliottemple.com][223]
 [8]:	http://curi.us/1675-bad-correlation-study
 [9]:	http://curi.us/1966-fake-burke-quote-attacking-godwin
 [10]:	http://fallibleideas.com/fallibility
-[11]:	http://fallibleideas.com/discussion-info
+[11]:	https://criticalfallibilism.com/discuss/
 [12]:	http://curi.us/archives/50
 [13]:	http://curi.us
 [14]:	http://curi.us/1950-open-discussion
@@ -262,7 +282,7 @@ Hire me: [elliot@elliottemple.com][223]
 [75]:	https://www.amazon.com/Atlas-Shrugged-Ayn-Rand-ebook/dp/B003V8B5XO/?tag=curi04-20
 [76]:	http://beginningofinfinity.com/books
 [77]:	https://www.amazon.com/Conjectures-Refutations-Scientific-Knowledge-Routledge/dp/0415285941/?tag=curi04-20
-[78]:	http://fallibleideas.com/discussion-info
+[78]:	https://criticalfallibilism.com/discuss/
 [79]:	http://fallibleideas.com/passivity
 [80]:	http://curi.us/1944-questions
 [81]:	http://curi.us/1932-indirection
@@ -359,7 +379,7 @@ Hire me: [elliot@elliottemple.com][223]
 [172]:	http://curi.us/1785-fallible-ideas-unformatted
 [173]:	http://curi.us/1923-twitter-pulls-make-detroit-great-again-pro-trump-video-ad-for-hate-sensitive-topics-and-violence
 [174]:	http://curi.us/1757-askfm-bans-rude-words
-[175]:	http://fallibleideas.com/discussion-info
+[175]:	https://criticalfallibilism.com/discuss/
 [176]:	http://lesswrong.com/lw/kfb/open_thread_30_june_2014_6_july_2014/b2nk
 [177]:	https://www.quora.com/Has-the-deletion-of-a-question-recently-halted-a-viral-answer-of-yours-in-its-tracks/answer/Habib-Fanny
 [178]:	http://curi.us/1612-anti-israel-bias-at-hacker-news
@@ -391,7 +411,7 @@ Hire me: [elliot@elliottemple.com][223]
 [204]:	http://curi.us/1688-alex-epstein-attacks-liberty
 [205]:	http://curi.us/1807-leonard-peikoff-says-hes-not-a-philosopher
 [206]:	http://curi.us/1864-open-thread
-[207]:	http://fallibleideas.com/discussion-info
+[207]:	https://criticalfallibilism.com/discuss/
 [208]:	http://curi.us/1581-epistemology-without-weights-and-the-mistake-objectivism-and-critical-rationalism-both-made
 [209]:	mailto:elliot@elliottemple.com
 [210]:	http://curi.us/think/
