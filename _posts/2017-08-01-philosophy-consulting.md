@@ -83,11 +83,9 @@ Sometimes I give out discounts to people who have made a lot of progress learnin
 
 I decide whether I want to do a project. I turn down projects contrary to my values, e.g. writing pro-[socialism][68] arguments.
 
-*I sell solutions, not time.* If I spend extra time writing an explanation, you don’t pay extra. Two hours is to give a sense of what to expect from one block of work.
-
 I work with *ideas*. [Writing][69] is the overall best format for dealing with ideas, so I most often write solutions. I can also create [videos][70], slideshow presentations, diagrams, etc.
 
-I work online. I communicate with email, instant messages and calls.
+I work online. I communicate with calls, email and instant messages.
 
 You can tell me what you want. Or I can work with you to figure out what you need.
 
