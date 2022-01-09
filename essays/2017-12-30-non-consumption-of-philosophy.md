@@ -29,7 +29,7 @@ This fictional dialog attempts semi-realism. John is a regular guy, not a philos
 
 **Elliot:** Do you have one complete set of artistic standards that you decided on, and use to judge all art, including your own?
 
-<b class="john">John:</b> I don't know, I hadn't thought about that.
+<b class="john">John:</b> I don't know; I hadn't thought about that.
 
 **Elliot:** How can you do any art without some artistic standards to guide you in deciding how to do it? You must have some sense of what you think is good art.
 
@@ -159,7 +159,7 @@ This fictional dialog attempts semi-realism. John is a regular guy, not a philos
 
 <b class="john">John:</b> Couldn't you be more sympathetic?
 
-**Elliot:** What do you think I'm trying to do? I'm a philosopher. This is not my problem, it's a problem other people have. I sympathize with how they've been betrayed by various men who's ideas they trusted – which is why I'm trying to help. I especially sympathize with how they've been misled by *bad philosophers* – and I wish to protect the victims of my colleagues.
+**Elliot:** What do you think I'm trying to do? I'm a philosopher. This is not my problem, it's a problem other people have. I sympathize with how they've been betrayed by various men whose ideas they trusted – which is why I'm trying to help. I especially sympathize with how they've been misled by *bad philosophers* – and I wish to protect the victims of my colleagues.
 
 <b class="john">John:</b> But you're so demanding.
 
