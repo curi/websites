@@ -63,7 +63,7 @@ This fictional dialog attempts semi-realism. John is a regular guy, not a philos
 
 <b class="john">John:</b> Not really. Maybe they took similar art classes to me. Or one of their friends took an art class and told them a few things.
 
-**Elliot:** So you make art which is good according to a standard you couldn't write down – you don't really understand it or know how you it got into your head – for an audience who like it for some reason that you aren't very clear on.
+**Elliot:** So you make art which is good according to a standard you couldn't write down – you don't really understand it or know how it got into your head – for an audience who like it for some reason that you aren't very clear on.
 
 <b class="john">John:</b> I guess so.
 
