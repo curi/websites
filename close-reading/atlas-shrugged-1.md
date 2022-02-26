@@ -152,7 +152,7 @@ Whether or not the railroad goes from the Atlantic ocean to the Pacific is a maj
 
 > he walked through the spotless halls into the **heart** of the building, into the office of James Taggart, President of Taggart Transcontinental.
 
-The office being in the *heart* of the building is symbolism. James is, to some partial extent, the heart and leader of the company. But he’s rotten, and that’s a grave danger.
+The office being in the *heart* of the building is symbolism. James is, to some partial extent, the heart and leader of the company. But he’s rotten (like the heart of the oak tree), and that’s a grave danger.
 
 Rand wants us to see the contrast between the spotless halls (and other signs of virtue) and the company president.
 
