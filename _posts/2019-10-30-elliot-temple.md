@@ -32,7 +32,7 @@ My blog has over 2000 posts on topics including philosophy, politics, parenting,
 
 ### <a href="https://www.learnobjectivism.com">Learn Objectivism</a>
 
-Learn about Ayn Rand's philosophy. I consider Objectivism and Critical Rationalism (by Karl Popper) the most important philosophies. This incomplete site has close readings of Atlas Shrugged chapters.
+Learn about Ayn Rand's philosophy. I consider Objectivism and Critical Rationalism (by Karl Popper) the most important philosophies. This incomplete site has close readings of *Atlas Shrugged* chapters.
 
 ## Subscribe
 
