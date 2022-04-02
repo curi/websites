@@ -30,6 +30,4 @@ Liberal ideas include *free trade* (laissez-faire capitalism), *individual freed
 
 # Get Updates
 
-Sign up for the Fallible Ideas Newsletter to be notified when new articles are added to this site, and to get 2-4 emails per month with philosophy links, writing and news.
-
-{% include newsletter.html %}
+<p>Want to hear about new essays? <a href="https://criticalfallibilism.com/#/portal/signup">Subscribe at my Critical Fallibilism site.</a></p>

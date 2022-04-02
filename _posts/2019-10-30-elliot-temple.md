@@ -14,6 +14,8 @@ Contact: [et@elliottemple.com][1]
 
 I research ideas, create educational material and run a [discussion forum][2]. Most of my writing is free at my websites and I use [YouTube][5]. I sell [digital educational products][3] and [consulting][4].
 
+This site has [essays](https://www.elliottemple.com/essays) and my [debate policy](https://www.elliottemple.com/debate-policy).
+
 ## Websites
 
 ### <a href="https://criticalfallibilism.com">Critical Fallibilism</a>
@@ -32,7 +34,7 @@ My blog has over 2000 posts on topics including philosophy, politics, parenting,
 
 Learn about Ayn Rand's philosophy. I consider Objectivism and Critical Rationalism (by Karl Popper) the most important philosophies. This incomplete site has close readings of Atlas Shrugged chapters.
 
-## Emails
+## Subscribe
 
 Want to receive emails from me? [Sign up on the Critical Fallibilism site](https://criticalfallibilism.com/#/portal/signup).
 

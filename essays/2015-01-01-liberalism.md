@@ -88,9 +88,3 @@ Liberalism is the philosophy of reason, freedom, peace, tolerance, property, coo
 Historically, liberalism has been developed by advocates of reason and economists, and it has advocated reforms to end slavery, serfdom, tyranny, oppression, inequality, special privileges and trade barriers. Liberal ideas are the source of the wealth of modern civilization, which now makes the common worker far better off, materially, than the kings of old.
 
 Liberalism designs society so there are no conflicts between men’s interests where violence would be benefit anyone, so that peace is best for everyone. Peace and freedom (including property) allow for the advance of material civilization, which gives men better lives, including more time to think and to pursue happiness.
-
-# Learn More
-
-Sign up for the Fallible Ideas Newsletter to be notified when new articles are added to this site, and to get 2-4 emails per month with philosophy links, writing and news.
-
-{% include newsletter.html %}
