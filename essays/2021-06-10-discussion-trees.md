@@ -240,7 +240,7 @@ Pro/con lists aren’t designed for resolving nodes. Debate trees are better at 
 
 ## Making Trees
 
-There’s software for making discussion trees. I recommend [MindNode](https://mindnode.com) (Mac, iOS), [XMind](https://www.xmind.net) (Windows, Mac, iOS, Android, Linux), or [iThoughts](https://www.toketaware.com) (Windows, Mac, iOS).
+There’s software for making discussion trees. I recommend [MindNode](https://mindnode.com) (Mac, iOS), [XMind](https://www.xmind.net) (Windows, Mac, iOS, Android, Linux), [iThoughts](https://www.toketaware.com) (Windows, Mac, iOS) or [SimpleMind](https://simplemind.eu) (Windows, Mac, iOS, Android).
 
 Note: These apps can make discussion trees with nodes going in multiple directions from the root node. That’s just an optional visual change. It doesn’t affect the tree structure (the parent/child relationships) compared to a normal looking tree where all descendants are below their parent (or to the right for a horizontal tree).
 
