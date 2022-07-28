@@ -12,7 +12,7 @@ I'm a philosopher. The diagram above shows the most important intellectual tradi
 
 Contact: [et@elliottemple.com][1]
 
-I research ideas, create educational material and run a [discussion forum][2]. Most of my writing is free at my websites and I use [YouTube][5]. I sell [digital educational products][3] and [consulting][4].
+I research ideas, create educational material and run a [discussion forum][2]. Most of my writing is free at my websites and I make [YouTube videos][5]. I also sell [digital educational products][3] and [consulting][4].
 
 This site has [essays](https://www.elliottemple.com/essays) and my [debate policy](https://www.elliottemple.com/debate-policy).
 
@@ -24,7 +24,7 @@ My best philosophy articles from 2021 or later. And there's a [Critical Fallibil
 
 ### <a href="https://fallibleideas.com">Fallible Ideas</a>
 
-Some of my favorite philosophy articles.
+Some of my favorite philosophy articles (by me).
 
 ### <a href="https://curi.us">Curiosity Blog</a>
 
