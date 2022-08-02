@@ -24,7 +24,7 @@ Why not just use my judgment and that’s it? That’s what other public intelle
 - Debates use *asynchronous writing* in English. We don't schedule a time to both show up to debate. It's not a real-time chat. Instead, we each write independently on our own schedule. Responding to messages within two days is standard but there isn’t a hard rule for timeline.
 - I normally discuss at my [Critical Fallibilism Forum](https://discuss.criticalfallibilism.com). Use it or suggest another forum with feature parity and easy exporting/mirroring. 
 - I may decline a debate if I’m not interested in the topic. If I do, I forfeit the right to make claims about that topic contrary to your position that I refused to debate.
-- You may only request one debate at a time. And if a debate ends with 3+ chained impasses stated by me, you don’t get another debate unless you address the impasses or I decide to make an optional exception. There is no time limit to solve impasse problems, but don’t expect to ignore those problems with no solution.
+- You may only request one debate at a time. And if a debate ends with chained impasses stated by me, you don’t get another debate unless you address the impasses or I decide to make an optional exception. There is no time limit to solve impasse problems, but don’t expect to ignore those problems with no solution.
 
 To understand this policy, you’ll need to read my [article explaining debates and impasse chains](https://elliottemple.com/essays/debates-and-impasse-chains).
 
