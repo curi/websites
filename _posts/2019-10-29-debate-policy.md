@@ -90,4 +90,4 @@ I believe people (including myself) are too careless overall and ought to use we
 
 I’m a public intellectual. I run a discussion forum to allow critical feedback and discussion. I study ideas, particularly philosophy, and try to figure out what’s true. I’m open to debate and discussion with the public. I make judgment calls about how to allocate my attention. I may make mistakes. I may be biased. If I don’t engage with an idea, and you think I should, you can informally ask about it, or you can use my debate policy. If my debate policy doesn’t solve the problem, as an extra backup, you can use my older [Paths Forward Policy](https://curi.us/2068-my-paths-forward-policy). These policies make my errors fixable. The errors of other intellectuals are largely unfixable because they don’t have policies like this.
 
-I, Elliot Temple, first published this debate policy in 2019. As of 2022, I've made minor edits but no significant changes.
+I, Elliot Temple, first published this debate policy in 2019. I've made minor edits (most recently in 2022) but no significant changes.
