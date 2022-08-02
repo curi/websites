@@ -30,7 +30,7 @@ To understand this policy, you’ll need to read my [article explaining debates 
 
 Exceptions may be available, especially for other types of content creators who don't write online articles, but this policy is what I'm *guaranteeing* I'll follow even if I have a low opinion of you. Anyone who wants to can meet these requirements.
 
-Requiring 20 articles helps filter out unserious people who haven't finished some intellectual projects. It also lets me review their past work to see what they're like. And it prevents people from easily switching names and pretending to be a new person. Books or academic articles would work fine too. Podcasts or videos work too except that having a written debate with a non-writer is problematic.
+Requiring 20 articles helps filter out unserious people who haven't finished some intellectual projects. It also lets me review their past work to see what they're like. And it prevents people from easily switching names and pretending to be a new person. Books or academic articles would work fine too. Podcasts or videos work too except that having a written debate with a non-writer is problematic. Articles or other past works should be at least a little bit relevant, e.g. having an intellectual nature.
 
 ## Post-Mortems and Second Debates
 
