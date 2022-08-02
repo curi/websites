@@ -20,7 +20,7 @@ Why not just use my judgment and that’s it? That’s what other public intelle
 - Pick a name and stick to it for the whole debate.
 - Have a website under that name with 20+ articles, totaling 20,000+ words. Link it.
 - State that, in your honest and considered opinion, you have skill and knowledge about the topic and something important to say.
-- Give your word of honor that you will continue until we reach an agreement, you state a chain of 5+ impasses, or I state 3+ chained impasses.
+- Give your word of honor that you will continue until we reach an agreement, you state a chain of 5+ [impasses](https://elliottemple.com/essays/debates-and-impasse-chains), or I state 3+ chained impasses.
 - Debates use *asynchronous writing* in English. We don't schedule a time to both show up to debate. It's not a real-time chat. Instead, we each write independently on our own schedule. Responding to messages within two days is standard but there isn’t a hard rule for timeline.
 - I normally discuss at my [Critical Fallibilism Forum](https://discuss.criticalfallibilism.com). Use it or suggest another forum with feature parity and easy exporting/mirroring. 
 - I may decline a debate if I’m not interested in the topic. If I do, I forfeit the right to make claims about that topic contrary to your position that I refused to debate.
