@@ -6,6 +6,10 @@ category: essays
 ---
 
 <div id="interview">
+	
+<b>Disclaimer:</b> David Deutsch is a <a href="https://curi.us/2412-harassment-summary">bad, dangerous person</a>. Stay away. He made a lot of intellectual errors in addition to personal and moral errors. I do still broadly agree with Popperian epistemology, but I wouldn't advise reading any Deutsch. He also frequently <a href="https://curi.us/2462-misquotes-by-david-deutsch">misquotes people</a>. You can't even trust basic factual information from him.
+
+<hr>
 
 <p><span class="elliot">Elliot Temple</span>: This is an interview from 2011 with the physicist and philosopher David Deutsch about his new book <em>The Beginning of Infinity</em>. David, can you briefly describe what the book is about?</p>
 
