@@ -44,7 +44,7 @@ Rand routinely juxtaposes comments, as she’s done here. The previous paragraph
 
 > Another, who was a **journalist**, made a note for future use in his column: “Hank Rearden is the kind of man who sticks his name on everything he touches. You may, from this, form your own opinion about the character of Hank Rearden.”
 
-That’s not really journalism. It’s vague, half-deniably smearing which doesn’t provide useful information to readers.
+That’s not really journalism. It’s vague, half-deniable smearing which doesn’t provide useful information to readers.
 
 Unnamed characters, used briefly as examples, are always reasonably typical people. If Rand wants to talk about someone unusual or notable, she’d explain more (as we learn what traits make Rearden unusually productive, and what traits make Orren Boyle unproductive). Rand is criticizing these professions, on purpose. You can understand why by recognizing their relation to ideas in the book. Don’t pass over this and think, “I agree this particular journalist isn’t very good.” If that’s your thought, you aren’t understanding or agreeing with Rand.
 
