@@ -17,7 +17,7 @@ Owen Kellogg quits for a personal reason that he won’t explain to Dagny. He re
 
 ### Chapter 2 – The Chain
 
-Hank Rearden produces the first Rearden Metal, then comes home to his family who mistreat him horribly. Lillian Rearden schedules a wedding anniversary party with Hank. Hank gives Lillian a Rearden Metal bracelet, which she doesn’t appreciate. Paul Larkin gives Hank a hint of warning about government action against Hank. Hank gives his brother Philip $10,000, in cash, to be used to undermine Hank’s business.
+Hank Rearden produces the first Rearden Metal, then comes home to his family who he doesn't get along with. Lillian Rearden schedules a wedding anniversary party with Hank. Hank gives Lillian a Rearden Metal bracelet, which she doesn’t appreciate. Paul Larkin gives Hank a hint of warning about government action against Hank. Hank gives his brother Philip $10,000, in cash, to be used to undermine Hank’s business.
 
 ### Chapter 3 – The Top And The Bottom
 
@@ -61,7 +61,7 @@ Dagny remembers her childhood history with Francisco and speaks with him about t
 
 ### Chapter 6 – The Non-Commercial
 
-Hank has a wedding anniversary party with awful guests. He hates it and mistreats Dagny. Francisco comes to meet Hank and judge Hanks’ character. A party guest says John Galt discovered Atlantis. Dagny trades her diamond bracelet for Lillian’s Rearden Metal bracelet. 
+Hank has a wedding anniversary party with awful guests. He hates it and treats Dagny coldly. Francisco comes to meet Hank and judge Hanks’ character. A party guest says John Galt discovered Atlantis. Dagny trades her diamond bracelet for Lillian’s Rearden Metal bracelet. 
 
 ### Chapter 7 – The Exploiters And The Exploited
 
