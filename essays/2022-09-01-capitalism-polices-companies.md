@@ -97,7 +97,7 @@ To give one example, food companies have spent a lot of money researching how to
 
 Social harmony and cooperative relationships matter. Even if people don’t initiate force, acting in an adversarial way is bad. When people believe there are conflicts of interest, and act accordingly, they do harm. However, preventing all rights violations would dramatically help with this problem and would be a great start. Also, I think creative judges and law-makers are needed on an ongoing basis – just creating ideal laws and never making adjustments wouldn’t work well because people would find holes in the laws.
 
-Today, besides breaking laws, companies find loopholes and exploits to get around laws. A lot of their bad behavior by companies is not because the government pushed them to do it; it’s despite the government trying to prevent it.
+Today, besides breaking laws, companies find loopholes and exploits to get around laws. A lot of the bad behavior by companies is not because the government pushed them to do it; it’s despite the government trying to prevent it.
 
 ## Flawed People
 
@@ -163,4 +163,4 @@ If you agree with me regarding facts and you dislike big companies, but you disa
 
 ---
 
-**Update:** I wrote followup posts: [Fraud By Companies That Don’t Serve Consumers](https://curi.us/2512-fraud-by-companies-that-dont-serve-consumers) and [Casinos as Creative Adversaries](https://curi.us/2569-casinos-as-creative-adversaries).
+**Update:** I wrote followup posts: [Fraud By Companies That Don’t Serve Consumers](https://curi.us/2512-fraud-by-companies-that-dont-serve-consumers), [Casinos as Creative Adversaries](https://curi.us/2569-casinos-as-creative-adversaries) and [Non-Violent Creative Adversaries](https://curi.us/2570-non-violent-creative-adversaries).
