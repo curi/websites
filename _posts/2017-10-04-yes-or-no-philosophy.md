@@ -149,7 +149,7 @@ If you have more time than money, consider my [book recommendations](https://fal
 
 If you've read most of my book recommendations and [free](https://fallibleideas.com) [writing](https://curi.us), and you want this product, but you really can't afford it, then email me and we'll talk.
 
-I'm offering around a 98.75% discount to my [consulting rate](https://www.elliottemple.com/consulting). You're buying a month of my work for the price of 2 hours. I can sell it that cheaply because other people will buy it too.
+I'm offering around a 99% discount to my [consulting rate](https://www.elliottemple.com/consulting). You're buying a month of my work for the price of 2 hours. I can sell it that cheaply because other people will buy it too.
 
 If you want to learn the *right* ideas in a *short time*, then have I got a deal for you:
 
