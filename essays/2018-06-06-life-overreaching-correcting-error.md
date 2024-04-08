@@ -71,7 +71,7 @@ If a 100x improvement is typical, why not far more? Our schools suck, our parent
 
 ## Components of Error Correction
 
-What lets you find and correct errors well? The biggest issue is the right thinking methods. The best thinking methods to understand include *Critical Rationalism*, [Yes or No Philosophy](https://yesornophilosophy.com), *Objectivism* and [Fallible Ideas](http://fallibleideas.com) (these are largely compatible and complementary).
+What lets you find and correct errors well? The biggest issue is the right thinking methods. The best thinking methods to understand include *Critical Rationalism*, [Yes or No Philosophy](https://yesornophilosophy.elliottemple.com), *Objectivism* and [Fallible Ideas](http://fallibleideas.com) (these are largely compatible and complementary).
 
 It’s not just about thinking methods. Problem solving routinely uses **resources** like attention, focus, mental energy, creativity, helpful friends, employees, time and wealth.
 

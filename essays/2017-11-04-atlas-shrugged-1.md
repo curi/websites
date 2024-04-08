@@ -1044,4 +1044,4 @@ Read the [chapter 2 analysis](/atlas-shrugged-chapter-2).
 
 
 [1]:	https://www.amazon.com/Atlas-Shrugged-Ayn-Rand-ebook/dp/B003V8B5XO?tag=curi04-20
-[2]:	https://yesornophilosophy.com
+[2]:	https://yesornophilosophy.elliottemple.com

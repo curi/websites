@@ -30,10 +30,6 @@ Some of my favorite philosophy articles (by me).
 
 My blog has over 2000 posts on topics including philosophy, politics, parenting, relationships, psychiatry, economics and science. It includes [podcast episodes][6] and [eBooks][8] (mostly archives of discussions).
 
-### <a href="https://www.learnobjectivism.com">Learn Objectivism</a>
-
-Learn about Ayn Rand's philosophy. I consider Objectivism and Critical Rationalism (by Karl Popper) the most important philosophies. This incomplete site has close readings of *Atlas Shrugged* chapters.
-
 ## Subscribe
 
 Want to receive emails from me? [Sign up on the Critical Fallibilism site](https://criticalfallibilism.com/#/portal/signup).

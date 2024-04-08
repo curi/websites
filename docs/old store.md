@@ -94,7 +94,7 @@ Essays and slideshows about psychiatry, philosophy, not fighting, and basic obse
 Product titles are links to a store page with more info and a purchase button. A *+* indicates that you can name your own price, and a *\** indicates tiered pricing.
 
 [1]:	https://gum.co/hxqsh
-[2]:	https://yesornophilosophy.com/
+[2]:	https://yesornophilosophy.elliottemple.com/
 [3]:	https://gumroad.com/l/dRQhn
 [4]:	https://www.youtube.com/watch?v=arPpNiVXwSo
 [5]:	https://fallibleideas.com/grammar

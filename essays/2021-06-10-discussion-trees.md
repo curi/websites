@@ -248,7 +248,7 @@ Note: These apps can make discussion trees with nodes going in multiple directio
 
 View my [idea trees blog category](https://curi.us/archives/list_category/122).
 
-I explain the importance and philosophy of decisive arguments in [Yes or No Philosophy](https://yesornophilosophy.com), which is also one of the first places I talked about trees. I also talked about decisive arguments in my [Critical Fallibilism Course](https://curi.us/2415-critical-fallibilism-course-videos-now-on-sale).
+I explain the importance and philosophy of decisive arguments in [Yes or No Philosophy](https://yesornophilosophy.elliottemple.com), which is also one of the first places I talked about trees. I also talked about decisive arguments in my [Critical Fallibilism Course](https://curi.us/2415-critical-fallibilism-course-videos-now-on-sale).
 
 You can learn more about using idea trees in my [Tutoring Max video series](https://www.youtube.com/playlist?list=PLKx6lO5RmaetREa9-jt2T-qX9XO2SD0l2). In those videos, I helped teach Max about trees, and suggested practice activities that would be useful for most people. There’s more introductory material about trees in [Tutoring InternetRules](https://www.youtube.com/playlist?list=PLKx6lO5RmaeudDlX36T8Y__fq2RDVhFN-).
 
