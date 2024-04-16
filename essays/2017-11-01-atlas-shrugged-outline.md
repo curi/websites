@@ -336,4 +336,4 @@ At Galt’s Gulch, they plan their return to the world.
 
 ---
 
-I also wrote [detailed analysis of chapter 1](atlas-shrugged-chapter-1).
+I also wrote [detailed analysis of chapter 1](atlas-shrugged-chapter-1) and [chapter 2](atlas-shrugged-chapter-2), and sell [chapter 3 analysis](https://gumroad.com/l/ugcAS).
