@@ -737,3 +737,5 @@ What bondage? They’re the ones trying to chain and control Hank with their man
 ---
 
 Buy the [chapter 3 analysis](https://gumroad.com/l/ugcAS). ($2 or more, name your own price.)
+
+I also wrote [chapter 1 analysis](atlas-shrugged-chapter-1) and a full book [outline](atlas-shrugged-outline).

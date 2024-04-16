@@ -333,3 +333,7 @@ Dagny, Hank, Francisco, and Danneskjöld rescue John.
 Eddie’s train back to the East Coast breaks down. He stays with it when the passengers leave for covered wagons.
 
 At Galt’s Gulch, they plan their return to the world.
+
+---
+
+I also wrote [detailed analysis of chapter 1](atlas-shrugged-chapter-1).

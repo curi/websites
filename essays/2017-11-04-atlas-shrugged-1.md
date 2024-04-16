@@ -1039,7 +1039,7 @@ Some of you are thinking to yourselves, “This is good. I like it. But I alread
 
 ---
 
-Read the [chapter 2 analysis](/atlas-shrugged-chapter-2).
+Read the [chapter 2 analysis](atlas-shrugged-chapter-2). I also wrote a full book [outline](atlas-shrugged-outline).
 
 
 
