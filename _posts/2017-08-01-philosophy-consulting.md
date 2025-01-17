@@ -25,7 +25,7 @@ Your life could be better. I can help. Email me at [elliot@elliottemple.com][15]
 
 ## Who Am I?
 
-I’m Elliot Temple. I love [thinking][16] and have sought out and studied great [philosophy][17]. I’ve especially studied the *philosophy of ideas* ([epistemology][18]), *moral philosophy* and *liberalism*. I have broad interests including [economics][19], [science][20], [relationships][21] and [education][22]. Thinkers I’ve studied extra extensively include [Karl Popper][24], [Eli Goldratt](https://en.wikipedia.org/wiki/Eliyahu_M._Goldratt) [Ayn Rand][23], [William Godwin][25], [Edmund Burke][26], [Thomas Szasz][27], [Ludwig von Mises][28], [Xenophanes][29], and [Richard Feynman][32].
+I’m Elliot Temple. I love [thinking][16] and have sought out and studied great [philosophy][17]. I’ve especially studied the *philosophy of ideas* ([epistemology][18]), *moral philosophy* and *liberalism*. I have broad interests including [economics][19], [science][20], [relationships][21] and [education][22]. Thinkers I’ve studied extra extensively include [Karl Popper][24], [Eli Goldratt](https://en.wikipedia.org/wiki/Eliyahu_M._Goldratt), [Ayn Rand][23], [William Godwin][25], [Edmund Burke][26], [Thomas Szasz][27], [Ludwig von Mises][28], [Xenophanes][29], and [Richard Feynman][32].
 
 I learned a great deal from over 5,000 hours of discussions with physicist, philosopher and author [David Deutsch][33]. He was the leading Popperian philosopher at the time.
 
