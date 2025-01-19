@@ -109,6 +109,7 @@ My philosophy knowledge lets me understand some things about you that you don’
 
 ## Example Projects
 
+- I explain philosophical issues to you, answer questions, or help with philosophical research.
 - I answer a [question][86] or [explain something][87] you don’t [understand][88].
 - I help you [learn][89] something or learn how to [learn][90].
 - You [tell me a problem][91], I figure out a solution and help you use it.
@@ -128,8 +129,8 @@ My philosophy knowledge lets me understand some things about you that you don’
 - I [review][119] a book, essay, paper, etc, by you or anyone else, and point out ways it’s false. I explain the [truth][120] too.
 - I write a [document][121] for you. [Essays][122], blog [posts][123], [fact checks][124], [research][125], [notes][126], life plans, employee handouts, website marketing, anything. Even [videos][127] and [other formats][128].
 - I help you choose a career, choose between job offers, or [negotiate a higher salary][129].
-- I help complete a work project you’re struggling with (you can take credit).
-- I help you understand your school lessons or do your schoolwork for you (you can take credit).
+- I help complete a work project you’re struggling with.
+- I help you understand your school lessons or help with your schoolwork.
 - I advise you on [whether][130] to attend university or any other [schooling][131], and [which one][132].
 - I advise you on your business. I can help you decide whether to start a business, judge who is a good or bad business partner, help with positioning and pricing, and tell you ways to [increase your profit][133].
 - I advise you on an expensive purchase.
@@ -169,7 +170,7 @@ This is the clearest difference between me and my rivals. My ideas are open to [
 
 Impressed? Skeptical? Tell me: [elliot@elliottemple.com][209]
 
-## A Couple Things I Wrote
+## Some Things I Wrote
 
 - [Critical Fallibilism website](https://criticalfallibilism.com)
 
