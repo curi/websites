@@ -8,7 +8,7 @@ css-id: home
 
 # Elliot Temple
 
-I'm a philosopher. The diagram above shows the most important intellectual traditions I build on.
+I'm a philosopher and freelance software developer. The diagram above shows the most important intellectual traditions I build on.
 
 Contact: [et@elliottemple.com][1]
 
